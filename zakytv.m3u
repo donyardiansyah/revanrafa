@@ -1,14 +1,15 @@
 
 #EXTINF:-1 tvg-id="Indosiar" tvg-name="INDOSIAR" tvg-logo="https://www.gifservice.fr/img/gif-vignette-large/636345944583579fb38f45e070ce5825/368420.gif" group-title="Test",Dens Sport1
-http://103.183.10.7:9900/stream/channelid/1440209200?profile=pass
 
 
-#EXTINF:-1 tvg-id="Indosiar - [Channel 78].id" tvg-name="Indosiar" tvg-logo="https://media.giphy.com/avatars/denstv/hYonBB2e1FHG.png" group-title="Test", Denstv test
+
+
+========= NASIONAL AUTO--=====
+#EXTINF:-1 tvg-id="jowo - [Channel 78].id" tvg-name="jowo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkeNI7w84tjVixo5xPKNrVmqPx7YFF8k7e8YktSi8-b7tEaPXt&s" group-title="NASIONAL AUTO", JOWO CHANNEL
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://op-group1-swiftservehd-1.dens.tv/h/h208/02.m3u8?app_type=web&userid=lite&chname=Channel_Jowo
 
-========= NASIONAL AUTO--=====
 
 #EXTINF:-1 tvg-id="Indosiar - [Channel 78].id" tvg-name="Indosiar" tvg-logo="https://client.lancartech.co.id/logo_new/INDOSIAR.png" group-title="NASIONAL AUTO", INDOSIAR D*
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
@@ -30,7 +31,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
 #EXTINF:-1 tvg-id="Indosiar" tvg-name="INDOSIAR" tvg-logo="https://client.lancartech.co.id/logo_new/INDOSIAR.png" group-title="NASIONAL AUTO",INDOSIAR H*
 https://play-gachor.online/tv_948372/73tG5fyUkK/304
-
+http://103.183.10.7:9900/stream/channelid/1440209200?profile=pass
 
 #EXTINF:-1 group-title="NASIONAL AUTO" tvg-logo="https://client.lancartech.co.id/logo_new/INDOSIAR.png", INDOSIAR V
 #KODIPROP:inputstream.adaptive.license_type=clearkey
