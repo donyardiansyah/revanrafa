@@ -40,8 +40,10 @@ http://103.183.10.7:9900/stream/channelid/1440209200?profile=pass
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 #EXTINF:-1 tvg-id="" group-title="NASIONAL AUTO" tvg-logo="https://client.lancartech.co.id/logo_new/SCTV.png",SCTV A
-http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/03.m3u8
+#http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/03.m3u8
 
+#EXTINF:-1 group-title="NASIONAL AUTO" group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png" tvg-id="SCTV.id" tvg-logo="https://client.lancartech.co.id/logo_new/SCTV.png", SCTV C
+https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
 #EXTINF:-1 tvg-id="sctv - [Channel 78].id" tvg-name="SCTV" tvg-logo="https://client.lancartech.co.id/logo_new/SCTV.png" group-title="NASIONAL AUTO", SCTV D*
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -56,7 +58,6 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cd6e647532391/manifest.mpd
 
-#EXTINF:-1 group-title="NASIONAL AUTO" group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png" tvg-id="SCTV.id" tvg-logo="https://client.lancartech.co.id/logo_new/SCTV.png", SCTV C
 
 #EXTINF:-1 group-title="NASIONAL AUTO" tvg-logo="https://client.lancartech.co.id/logo_new/SCTV.png", SCTV V
 #KODIPROP:inputstream.adaptive.license_type=clearkey
