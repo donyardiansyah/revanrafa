@@ -268,8 +268,8 @@ https://1s1.rctiplus.id/mnctv2023.m3u8
 https://1s1.rctiplus.id/rcti2023.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="RCTI HD" tvg-logo="https://client.lancartech.co.id/logo_new/RCTI.png" group-title="NASIONAL HD ", RCTI H
-https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILsDzYcZfHj_bAH34-SQdxQc
-
+#https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILsDzYcZfHj_bAH34-SQdxQc
+http://metatvpro.xyz:25461/live/J2781/5030/100.ts|user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-id="SCTVHD.id" tvg-logo="https://client.lancartech.co.id/logo_new/SCTV.png" group-title="NASIONAL HD ", SCTV F*
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7
