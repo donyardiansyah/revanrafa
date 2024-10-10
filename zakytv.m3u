@@ -40,7 +40,8 @@ http://ktv.im:8080/08277393@@/0192737@@/101131
 #http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/03.m3u8
 
 #EXTINF:-1 group-title="NASIONAL AUTO" group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png" tvg-id="SCTV.id" tvg-logo="https://client.lancartech.co.id/logo_new/SCTV.png", SCTV C
-https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/931.ts
+
 #EXTINF:-1 tvg-id="sctv - [Channel 78].id" tvg-name="SCTV" tvg-logo="https://client.lancartech.co.id/logo_new/SCTV.png" group-title="NASIONAL AUTO", SCTV D*
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
