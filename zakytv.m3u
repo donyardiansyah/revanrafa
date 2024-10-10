@@ -26,8 +26,8 @@ http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 #http://metatvpro.xyz:25461/live/J2781/5030/105.ts|user-agent=Mozilla/5.0
 
 #EXTINF:-1 tvg-id="Indosiar" tvg-name="INDOSIAR" tvg-logo="https://client.lancartech.co.id/logo_new/INDOSIAR.png" group-title="NASIONAL AUTO",INDOSIAR H*
-https://play-gachor.online/tv_948372/73tG5fyUkK/304
-
+#https://play-gachor.online/tv_948372/73tG5fyUkK/304
+http://ktv.im:8080/08277393@@/0192737@@/101131
 
 #EXTINF:-1 group-title="NASIONAL AUTO" tvg-logo="https://client.lancartech.co.id/logo_new/INDOSIAR.png", INDOSIAR V
 #KODIPROP:inputstream.adaptive.license_type=clearkey
