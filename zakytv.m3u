@@ -307,7 +307,6 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1791373024_b744100_sl
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0db0bf0097/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="TRANS7 HD" tvg-logo="https://client.lancartech.co.id/logo_new/Trans_7.png" group-title="NASIONAL HD ",TRANS7 H
-#http://play.fastkobar.my.id:8080/play/Ut2q-cEtJ5KRqTVuOdZ3aQwpq-KkVepmfWebPeiBBbs|user-agent=Mozilla/5.0
 
 #EXTINF:-1 tvg-id="MetroTVHD.id" tvg-logo="https://client.lancartech.co.id/logo_new/Metro_TV.png" group-title="NASIONAL HD ", Metro TV F*
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -499,7 +498,7 @@ https://sritv.serv00.net/red/play.mpd?id=9183&type=dash
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://gatotkaca007.serv00.net/red/play.php?id=9353&type=drm
-http://gatotkaca007.serv00.net/red/play.mpd?id=9353&type=dash
+http://sritv.serv00.net/red/play.mpd?id=9353&type=dash
 	
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/236_144.png" group-title="🇲🇨|SPORT-ID", beIN SPORTS 1 ID
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
