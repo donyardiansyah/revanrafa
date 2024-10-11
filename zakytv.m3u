@@ -272,7 +272,8 @@ http://metatvpro.xyz:25461/live/J2781/5030/101.ts|user-agent=Mozilla/5.0
 https://atemecdnbalancer-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
 
 #EXTINF:-1 group-logo="https://i.imgur.com/FxS4HLZ.jpeg" tvg-logo="https://client.lancartech.co.id/logo_new/MOJI.png" group-title="NASIONAL HD ",MOJI H*
-https://play-gachor.online/tv_948372/73tG5fyUkK/305
+#https://play-gachor.online/tv_948372/73tG5fyUkK/305
+http://xtv.ooo:8080/live/35588981/18988553/350977.ts
 
 #EXTINF:-1 tvg-logo="https://client.lancartech.co.id/logo_new/NET.png" group-title="NASIONAL HD ",NET TV C*
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
