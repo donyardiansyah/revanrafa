@@ -53,8 +53,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="MOJI TV " tvg-logo="https://client.lancartech.co.id/logo_new/MOJI.png" group-title="NASIONAL AUTO",MOJI TV H
 #https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILtEpbKeZorH4uK-vO64AB1E
-http://ktv.im:8080/08277393@@/0192737@@/101156
-
+http://103.155.250.139:25461/live/v4/UGyfpsRmjX/4.ts
 #EXTINF:-1 group-title="NASIONAL AUTO" tvg-logo="https://client.lancartech.co.id/logo_new/MOJI.png", MOJI V
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b5874021e33f49d4dac5cd55344b0d74:7b49f3eecf4e9336ffdb9a549d2ee781
