@@ -200,12 +200,8 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 #EXTINF:-1 tvg-id="" tvg-name="INDOSIAR HD" tvg-logo="https://client.lancartech.co.id/logo_new/INDOSIAR.png" group-title="NASIONAL HD ", INDOSIAR HD
 #https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILlo-Oof8f7AcwqBUjOwb7to|User-Agent=OTTNavigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
 #http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/162138
-https://v.af/visionples-indosiar
-
-
-#EXTINF:-1 tvg-id="" tvg-name="INDOSIAR HD" tvg-logo="https://client.lancartech.co.id/logo_new/INDOSIAR.png" group-title="NASIONAL HD ", INDOSIAR HD
-#http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/162138
-#https://cdn.qiptv.pro/INDOSIAR/index.m3u8
+#https://v.af/visionples-indosiar
+http://103.155.250.139:25461/live/v4/UGyfpsRmjX/228.m3u8
 
 #EXTINF:-1 tvg-id="ANTV.id" tvg-logo="https://client.lancartech.co.id/logo_new/ANTV.png" group-title="NASIONAL HD ", ANTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
