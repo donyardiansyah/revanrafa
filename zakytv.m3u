@@ -26,8 +26,8 @@ http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
 #EXTINF:-1 tvg-id="Indosiar" tvg-name="INDOSIAR" tvg-logo="https://client.lancartech.co.id/logo_new/INDOSIAR.png" group-title="NASIONAL AUTO",INDOSIAR H*
 #https://play-gachor.online/tv_948372/73tG5fyUkK/304
-http://ktv.im:8080/08277393@@/0192737@@/101131
-
+#http://ktv.im:8080/08277393@@/0192737@@/101131
+http://103.155.250.139:25461/live/v4/UGyfpsRmjX/228.m3u8
 #EXTINF:-1 group-title="NASIONAL AUTO" group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png" tvg-id="SCTV.id" tvg-logo="https://client.lancartech.co.id/logo_new/SCTV.png", SCTV C
 #https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/931.ts
 http://103.155.250.139:25461/live/v4/UGyfpsRmjX/17.ts
@@ -119,7 +119,6 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd|Re
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 
 
-
 #EXTINF:-1 tvg-id="MNCTV HD - [Channel 432].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://client.lancartech.co.id/logo_new/MNC_TV.png" group-title="NASIONAL AUTO",MNC TV V+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -199,8 +198,8 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 #EXTINF:-1 tvg-id="" tvg-name="INDOSIAR HD" tvg-logo="https://client.lancartech.co.id/logo_new/INDOSIAR.png" group-title="NASIONAL HD ", INDOSIAR HD
 #https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILlo-Oof8f7AcwqBUjOwb7to|User-Agent=OTTNavigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
 #http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/162138
-#https://v.af/visionples-indosiar
-http://103.155.250.139:25461/live/v4/UGyfpsRmjX/228.m3u8
+https://v.af/visionples-indosiar
+
 
 #EXTINF:-1 tvg-id="ANTV.id" tvg-logo="https://client.lancartech.co.id/logo_new/ANTV.png" group-title="NASIONAL HD ", ANTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
