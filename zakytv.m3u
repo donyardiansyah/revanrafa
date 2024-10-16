@@ -27,10 +27,11 @@ http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 #EXTINF:-1 tvg-id="Indosiar" tvg-name="INDOSIAR" tvg-logo="https://client.lancartech.co.id/logo_new/INDOSIAR.png" group-title="NASIONAL AUTO",INDOSIAR H*
 #https://play-gachor.online/tv_948372/73tG5fyUkK/304
 #http://ktv.im:8080/08277393@@/0192737@@/101131
-http://103.155.250.139:25461/live/v4/UGyfpsRmjX/228.m3u8
-#EXTINF:-1 group-title="NASIONAL AUTO" group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png" tvg-id="SCTV.id" tvg-logo="https://client.lancartech.co.id/logo_new/SCTV.png", SCTV C
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/931.ts
 http://103.155.250.139:25461/live/v4/UGyfpsRmjX/228.ts
+
+#EXTINF:-1 group-title="NASIONAL AUTO" group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png" tvg-id="SCTV.id" tvg-logo="https://client.lancartech.co.id/logo_new/SCTV.png", SCTV C
+#https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/931.ts
+
 
 #EXTINF:-1 tvg-id="sctv - [Channel 78].id" tvg-name="SCTV" tvg-logo="https://client.lancartech.co.id/logo_new/SCTV.png" group-title="NASIONAL AUTO", SCTV D*
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
