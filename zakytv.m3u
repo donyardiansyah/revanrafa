@@ -196,7 +196,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c685910daca60191a29de97
 #KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
 https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="INDOSIAR HD" tvg-logo="https://client.lancartech.co.id/logo_new/INDOSIAR.png" group-title="NASIONAL HD ", INDOSIAR HD
+#EXTINF:-1 tvg-id="" tvg-name="INDOSIAR HD" tvg-logo="https://client.lancartech.co.id/logo_new/INDOSIAR.png" group-title="NASIONAL HD ", INDOSIAR 
 #http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/162138
 #https://v.af/visionples-indosiar
 http://xtv.ooo:8080/live/83212539/43153928/350972.ts
