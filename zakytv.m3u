@@ -1061,9 +1061,8 @@ https://rush-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-rush/CDN/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/c5/f6/d6/c5f6d666e8c2ed93f3aaba0b739b5691.jpg" group-title="PREMIUM TV", 5 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=607b7d22565c4bc3b95ff6c33ce65425:28cc5367df666c44be4382e64af64d57
-https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.mpd
+https://autopilot.catcast.tv/mobile.m3u8?channel_id=40381&token=6426b870c3ffb59c4b36b7838f5067e4&server=v2.catcast.tv
+
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/5e/20/34/5e2034464163f9bdea778c3be58d5d77.jpg" group-title="PREMIUM TV", 5 STARMAX
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
