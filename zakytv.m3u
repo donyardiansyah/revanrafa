@@ -1050,10 +1050,6 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfo
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/641/641-LOGO-m.png" group-title="PREMIUM TV",Vision Prime (V+)
 https://cempedak-live-cdn.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/51/5c/51/515c51b8a06294c2e629fb57405fa85c.jpg" group-title="PREMIUM TV", REDBOX
-https://rush-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-rush/CDN/playlist.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/c5/f6/d6/c5f6d666e8c2ed93f3aaba0b739b5691.jpg" group-title="PREMIUM TV", 5 HD
 https://autopilot.catcast.tv/mobile.m3u8?channel_id=40381&token=7176df16fe1bd5d65f8f5493bc6f8984&server=v2.catcast.tv
 
@@ -1063,8 +1059,6 @@ http://nv1connect.com:80/tamtam/tjfYkCbP3s/61919
 
 #EXTINF:-1 tvg-id="DiscoverFilm.uk" tvg-logo="https://i.imgur.com/oMnpsQ5.png" group-title="PREMIUM TV",DiscoverFilm
 https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8
-
-
 
 #EXTINF:-1 tvg-id="MyTimeMovieNetworkEast.us" tvg-logo="https://i.imgur.com/HYgxPVQ.png" group-title="PREMIUM TV",MyTime Movie Network
 https://mytime-tcl.amagi.tv/playlist.m3u8
