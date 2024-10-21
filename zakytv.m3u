@@ -189,7 +189,8 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="INDOSIAR HD" tvg-logo="https://client.lancartech.co.id/logo_new/INDOSIAR.png" group-title="NASIONAL HD ", INDOSIAR 
 #http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/162138
-https://v.af/visionples-indosiar
+#https://v.af/visionples-indosiar
+http://xtv.ooo:8080/live/0966717777/0966717777/350972.ts
 
 #EXTINF:-1 tvg-id="ANTV.id" tvg-logo="https://client.lancartech.co.id/logo_new/ANTV.png" group-title="NASIONAL HD ", ANTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1033,7 +1034,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfo
 https://cempedak-live-cdn.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/c5/f6/d6/c5f6d666e8c2ed93f3aaba0b739b5691.jpg" group-title="PREMIUM TV", 5 HD
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=40381&token=7176df16fe1bd5d65f8f5493bc6f8984&server=v2.catcast.tv
+
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/5e/20/34/5e2034464163f9bdea778c3be58d5d77.jpg" group-title="PREMIUM TV", 5 STARMAX
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
@@ -1046,7 +1047,7 @@ https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8
 https://mytime-tcl.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SonyMovies.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/512px-Sony_Movies_Logo.svg.png" group-title="PREMIUM TV ",Sony Movies
-https://autopilot.catcast.tv/content/40381/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZVC5928/Action-Movie.jpg" group-title="PREMIUM TV" tvg-id="" tvg-name="", Action Movies 1
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
@@ -1193,7 +1194,6 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/y4G5D5R/Warner.jpg" group-title=" MOVIES ", WARNER TV
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd
-
 
 #EXTINF:-1 tvg-logo="http://guki.my.id/logo/movie/thrill.jpg" group-title="MOVIES", THRILL
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
