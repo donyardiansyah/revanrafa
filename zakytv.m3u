@@ -247,7 +247,7 @@ http://metatvpro.xyz:25461/live/J2781/5030/100.ts|user-agent=Mozilla/5.0
 https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="SCTV HD" tvg-logo="https://client.lancartech.co.id/logo_new/SCTV.png" group-title="NASIONAL HD ", SCTV HD H
-http://metatvpro.xyz:25461/live/J2781/5030/101.ts|user-agent=Mozilla/5.0
+http://xtv.ooo:8080/live/0966717777/0966717777/351030.ts
 #https://play-gachor.online/tv_948372/73tG5fyUkK/6
 
 #EXTINF:-1 tvg-id="MOJI" tvg-logo="https://client.lancartech.co.id/logo_new/MOJI.png" group-title="NASIONAL HD ", MOJI F*
