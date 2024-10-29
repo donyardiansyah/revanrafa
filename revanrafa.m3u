@@ -20,12 +20,12 @@ http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 #https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
 
 #EXTINF:-1 tvg-id="Indosiar" tvg-name="INDOSIAR" tvg-logo="https://client.lancartech.co.id/logo_new/INDOSIAR.png" group-title="NASIONAL AUTO",INDOSIAR M
-#http://metatvpro.xyz:25461/live/J2781/5030/105.ts|user-agent=Mozilla/5.0
+http://metatvpro.xyz:25461/live/J2781/5030/105.ts|user-agent=Mozilla/5.0
 
 #EXTINF:-1 tvg-id="Indosiar" tvg-name="INDOSIAR" tvg-logo="https://client.lancartech.co.id/logo_new/INDOSIAR.png" group-title="NASIONAL AUTO",INDOSIAR H*
 #https://play-gachor.online/tv_948372/73tG5fyUkK/304
 #http://xtv.ooo:8080/live/83212539/43153928/350972.ts
-https://token-media-vidio-com.vidiocdn.net/uploads/1938990/edge-cache-token=Expires=1730220655&KeyName=tokenized-media-vidio-com-keyset&Signature=dPf0Bs8Q8AKi0TZcJTBFhQIVsdW91fVtHDdG9RQVbJnQFv-hVBraRyOwwq6I94ATWahTKb1IQGzYruUSU8J9CQ==/ets-playlist-1200-a1763.m3u8
+https://vod3.cf.dmcdn.net/sec2(hO8573MEDwWr9p7SxsjcQpGaCmzc61bTrH4sjC-VCQQthIQV-r8CkagucX_YPIRq_hSUywUEnQMkjlldY4OtTX3yLmqGFlpWUdwylKYfeU1Ou2OwIVv3NZgbVcXKi7TA-E89oehM85QIC6q7R1pUh_i1PAOQ86kxXe_0mHJhqe8)/video/254/777/530777452_mp4_h264_aac_hd.m3u8#cell=cf3
 
 #EXTINF:-1 tvg-id="sctv - [Channel 78].id" tvg-name="SCTV" tvg-logo="https://client.lancartech.co.id/logo_new/SCTV.png" group-title="NASIONAL AUTO", SCTV D*
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
@@ -45,7 +45,6 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="SCTV B " tvg-logo="https://client.lancartech.co.id/logo_new/SCTV.png" group-title="NASIONAL AUTO",SCTV  B
 
 #EXTINF:-1 tvg-id="" tvg-name="MOJI TV " tvg-logo="https://client.lancartech.co.id/logo_new/MOJI.png" group-title="NASIONAL AUTO",MOJI TV H
 #https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILtEpbKeZorH4uK-vO64AB1E
