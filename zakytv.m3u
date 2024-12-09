@@ -74,11 +74,10 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.m
 https://dsgtq5sngxkde.cloudfront.net/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd|Referer=https://www.visionplus.id/&user-agent=Android
 
 #EXTINF:-1 tvg-id="Trans7" tvg-name="TRANS 7" tvg-logo="https://client.lancartech.co.id/logo_new/Trans_7.png" group-title="NASIONAL TV",TRANS 7 
-https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/930
 https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/35
 
 #EXTINF:-1 group-title="NASIONAL TV" group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png" tvg-id="Trans7.id" tvg-logo="https://client.lancartech.co.id/logo_new/Trans_7.png",TRANS 7 C
-#http://xtv.ooo:8080/live/83212539/43153928/351040.ts
+
 
 #EXTINF:-1 tvg-id="TvONE" tvg-name="Tvone" tvg-logo="https://client.lancartech.co.id/logo_new/tvOne.png" group-title="NASIONAL TV", TVONE D*
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
@@ -182,9 +181,10 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 #EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://client.lancartech.co.id/logo_new/Trans_7.png" group-title="NASIONAL TV ",TRANS 7 DT*
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1791373024_b744100_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Logo_GarudaTV_Merah_Putih_Silver_Merah.png/1200px-Logo_GarudaTV_Merah_Putih_Silver_Merah.png" group-title="NASIONAL TV ",Garuda TV
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://63b2dc7196c38.streamlock.net:1937/GTV2/myStream/chunklist_w641677261.m3u8
 
-#EXTINF:-1 tvg-id="GARUDA TV" group-title="NASIONAL TV " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Logo_GarudaTV_Merah_Putih_Silver_Merah.png/1600px-Logo_GarudaTV_Merah_Putih_Silver_Merah.png",GARUDATV
-https://etv-cdn.kdb.co.id/GarudaTV-Stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-kw-2O6-LYHU/X1q26HZsAnI/AAAAAAAAqEk/eL4AB5Lp3GUrFCDnlyBNoeiHlfXFHZtVgCLcBGAsYHQ/s1600/dmtv-channel-logo.png" group-title="NASIONAL TV",DM TV
 https://e.siar.us/live/dmtv.m3u8
 
@@ -220,8 +220,6 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/in
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/visas/drm.php?id=1013
 https://dusk.biz.id/visas/index.mpd?id=1013
-
-
 
 #EXTINF:-1 tvg-id="Soccer Channel HD - [Channel 420].id" tvg-name="Soccer Channel" tvg-logo="https://www.visionplus.id/images/repository/955/49955-SNAPSHOT-m.png" group-title="🇲🇨|SPORT-ID", SOCCER CHANNEL
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
