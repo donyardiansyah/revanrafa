@@ -1,6 +1,6 @@
 
 ========= NASIONAL TV--=====
-#EXTINF:-1 tvg-id="jowo - [Channel 78].id" tvg-name="jowo" tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d7/Channel_Jowo.png" group-title="NASIONAL TV", JOWO CHANNEL
+#EXTINF:-1 tvg-id="jowo - [Channel 78].id" tvg-name="jowo" tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d7/Channel_Jowo.png" group-title="NASIONAL TV", JOWO CHANNEL 1
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://op-group1-swiftservehd-1.dens.tv/h/h108/index2.m3u8?app_type=web&userid=lite&chname=Channel_Jowo
