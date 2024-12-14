@@ -11,10 +11,6 @@ https://op-group1-swiftservehd-1.dens.tv/h/h108/index2.m3u8
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
 
-#EXTINF:-1 tvg-id="Indosiar" tvg-name="INDOSIAR" tvg-logo="https://client.lancartech.co.id/logo_new/INDOSIAR.png" group-title="NASIONAL TV",INDOSIAR 
-#https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
-
-
 #EXTINF:-1 tvg-id="sctv - [Channel 78].id" tvg-name="SCTV" tvg-logo="https://client.lancartech.co.id/logo_new/SCTV.png" group-title="NASIONAL TV", SCTV D*
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
