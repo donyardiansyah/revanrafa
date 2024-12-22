@@ -879,9 +879,8 @@ https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_14.png" group-title="PREMIUM TV",IMC (V+)
 https://cempedak-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
 
-#EXTINF:-1 tvg-id="SAMURAI.th" tvg-name="SAMURAI" tvg-logo="https://www.lyngsat.com/logo/tv/aa/airtel_movies3.png" group-title="PREMIUM TV",SAMURAI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC2/index.m3u8
+#EXTINF:-1 tvg-id="SAMURAI.th" tvg-name="SAMURAI" tvg-logo="https://statik.tempo.co/data/2023/12/06/id_1260965/1260965_720.jpg" group-title="PREMIUM TV",SAMURAI
+https://www.dropbox.com/scl/fi/8ofout8vho3d6fj0k2rid/Misteri-Gunung-Merapi-I-Penghuni-Rumah-Tua-1989-Rumah-Film-Indonesia-Video-Dailymotion.mp4?rlkey=e4hpnc7ncxgm91jrqyv0h8nuu&st=9k04k634&dl=1
 
 #EXTINF:-1 group-title="PREMIUM TV" tvg-id="1CHN" tvg-logo="https://i.ibb.co/B4xvBb8/600px-Douyu-TV-logo.png",Douyu TV Movies 
 https://hlsa-akm.douyucdn.cn/live/20415rnWbjg6Ex1K_900/playlist.m3u8?wsAuth=014b39c4437d974e4d70045eb2d23e67&token=web-h5-0-20415-b6774b3b3249db179435e1a37410043c7827528d80fff5fe&logo=0&expire=0&did=c2d6f221fb67b0e8f4e820a300001601&ver=Douyu_221090605&pt=2&st=0&origin=tct&mix=0&isp=
