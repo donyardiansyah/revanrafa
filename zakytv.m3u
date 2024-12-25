@@ -12,9 +12,11 @@ http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
 #EXTINF:-1 tvg-id="Indosiar" tvg-name="INDOSIAR" tvg-logo="https://client.lancartech.co.id/logo_new/INDOSIAR.png" group-title="NASIONAL TV",INDOSIAR 1
 #http://iptvtree.net:8080/live/F31144/03127286/162138.ts
-http://vipdikili.top:8080/VIP0153169798571300/01697985713256/34327
+#http://vipdikili.top:8080/VIP0153169798571300/01697985713256/34327
+https://mantul.biz.id:443/live/aruba/aruba/60.ts
 
 #EXTINF:-1 tvg-id="Indosiar" tvg-name="INDOSIAR" tvg-logo="https://client.lancartech.co.id/logo_new/INDOSIAR.png" group-title="NASIONAL TV",INDOSIAR H*
+https://mantul.biz.id:443/live/aruba/aruba/5286.ts
 
 #EXTINF:-1 tvg-id="sctv - [Channel 78].id" tvg-name="SCTV" tvg-logo="https://client.lancartech.co.id/logo_new/SCTV.png" group-title="NASIONAL TV", SCTV D*
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
@@ -38,7 +40,8 @@ https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/931
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="MOJI TV " tvg-logo="https://client.lancartech.co.id/logo_new/MOJI.png" group-title="NASIONAL TV",MOJI TV H
-http://vipdikili.top:8080/VIP0153169798571300/01697985713256/25042
+#http://vipdikili.top:8080/VIP0153169798571300/01697985713256/25042
+https://mantul.biz.id:443/live/aruba/aruba/8251.ts
 
 #EXTINF:-1 group-title="NASIONAL TV" tvg-logo="https://client.lancartech.co.id/logo_new/MOJI.png", MOJI V
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -86,7 +89,8 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd|
 https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/35
 
 #EXTINF:-1 group-title="NASIONAL TV" group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png" tvg-id="Trans7.id" tvg-logo="https://client.lancartech.co.id/logo_new/Trans_7.png",TRANS 7 C
-http://vipdikili.top:8080/VIP0153169798571300/01697985713256/25040
+#http://vipdikili.top:8080/VIP0153169798571300/01697985713256/25040
+https://mantul.biz.id:443/live/aruba/aruba/239.ts
 
 #EXTINF:-1 tvg-id="TvONE" tvg-name="Tvone" tvg-logo="https://client.lancartech.co.id/logo_new/tvOne.png" group-title="NASIONAL TV", TVONE D*
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
@@ -115,7 +119,8 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd|Re
 #https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 
 #EXTINF:-1 tvg-id="Indosiar" tvg-name="RCTI" tvg-logo="https://client.lancartech.co.id/logo_new/RCTI.png" group-title="NASIONAL TV",RCTI 
-http://vipdikili.top:8080/VIP0153169798571300/01697985713256/34322
+#http://vipdikili.top:8080/VIP0153169798571300/01697985713256/34322
+https://mantul.biz.id:443/live/aruba/aruba/4906.ts
 
 #EXTINF:-1 tvg-id="MNCTV HD - [Channel 432].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://client.lancartech.co.id/logo_new/MNC_TV.png" group-title="NASIONAL TV",MNC TV V+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
