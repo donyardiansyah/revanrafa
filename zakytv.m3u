@@ -15,7 +15,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 #http://vipdikili.top:8080/VIP0153169798571300/01697985713256/34327
 https://mantul.biz.id:443/live/aruba/aruba/60.ts
 
-#EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: Indosiar HD" tvg-logo="https://i.ibb.co/stL6b6b/INDOSIAR-PPI-IP-TV.png" group-title="INDONESIA",ID: Indosiar 2
+#EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: Indosiar HD" tvg-logo="https://i.ibb.co/stL6b6b/INDOSIAR-PPI-IP-TV.png" group-title="NASIONAL TV",ID: Indosiar 2
 http://tvking.xyz:8080/Khairul01/Mboxjb01722/5117
 
 
@@ -43,18 +43,11 @@ http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MOJI TV " tvg-logo="https://client.lancartech.co.id/logo_new/MOJI.png" group-title="NASIONAL TV",MOJI TV H
 #http://vipdikili.top:8080/VIP0153169798571300/01697985713256/25042
 
-http://tvking.xyz:8080/Khairul01/Mboxjb01722/5117
 
 #EXTINF:-1 group-title="NASIONAL TV" tvg-logo="https://client.lancartech.co.id/logo_new/MOJI.png", MOJI V
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b5874021e33f49d4dac5cd55344b0d74:7b49f3eecf4e9336ffdb9a549d2ee781
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) iPhone (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=052861ebedab473089d0e7480d0c5b63:4d51aa0304af98c449fdec1548a199f9
-#EXTINF:-1 tvg-id="Moji" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium1.xml" tvg-logo="https://client.lancartech.co.id/logo_new/MOJI.png" group-title="NASIONAL TV",MOJI TV
-https://atemecdnbalancer-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
 
 #EXTINF:-1 tvg-id="NET TV - [Channel 116].id" group-title="NASIONAL TV" tvg-url="tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://client.lancartech.co.id/logo_new/NET.png",NET TV HD
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
@@ -123,6 +116,7 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd|Re
 #EXTINF:-1 tvg-id="Indosiar" tvg-name="RCTI" tvg-logo="https://client.lancartech.co.id/logo_new/RCTI.png" group-title="NASIONAL TV",RCTI 
 #http://vipdikili.top:8080/VIP0153169798571300/01697985713256/34322
 https://mantul.biz.id:443/live/aruba/aruba/4906.ts
+http://tvking.xyz:8080/Khairul01/Mboxjb01722/5144
 
 #EXTINF:-1 tvg-id="MNCTV HD - [Channel 432].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://client.lancartech.co.id/logo_new/MNC_TV.png" group-title="NASIONAL TV",MNC TV V+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
