@@ -214,24 +214,24 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 
 =======test====
 #EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: Indosiar HD" tvg-logo="https://i.ibb.co/stL6b6b/INDOSIAR-PPI-IP-TV.png" group-title="Test",ID: Indosiar
-http://tvking.xyz:8080/live/Azrin924/Azrin637/5117.ts
+http://tvking.xyz:8080/Azrin924/Azrin637/5117
 https://perfecttv.net:443/Perfecttv/Perfecttv/1604
 
 #EXTINF:-1 tvg-id="MNCTV.MACAN" tvg-name="ID: MNC TV HD" tvg-logo="https://i.ibb.co/m0RK6Kw/MNCTV-PPI-IP-TV.png" group-title="Test",ID: MNC TV HD
-http://tvking.xyz:8080/wanz2022/asdf2022/5139
+http://tvking.xyz:8080/Azrin924/Azrin637/5139
 https://perfecttv.net:443/Perfecttv/Perfecttv/1577
 
 #EXTINF:-1 tvg-id="NetTV.MACAN" tvg-name="ID: Net TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_small1.png" group-title="Test",ID: Net TV
 http://tvking.xyz:8080/wanz2022/asdf2022/5140
 
 #EXTINF:-1 tvg-id="RCTI.id" tvg-name="ID: RCTI HD" tvg-logo="https://i.ibb.co/jZ3SKjM/RCTI-PPI-IP-TV.png" group-title="Test",ID: RCTI HD
-http://tvking.xyz:8080/wanz2022/asdf2022/5144
+http://tvking.xyz:8080/Azrin924/Azrin637/5144
 https://perfecttv.net:443/Perfecttv/Perfecttv/1576
 
 #EXTINF:-1 tvg-id="" tvg-name="ID: SCTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png" group-title="Test",ID: SCTV
 http://tvking.xyz:8080/wanz2022/asdf2022/5147
 https://perfecttv.net:443/Perfecttv/Perfecttv/1574
-
+http://tvking.xyz:8080/Azrin924/Azrin637/5174
 #EXTINF:-1 tvg-id="" tvg-name="ID: Trans 7" tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png" group-title="Test",ID: Trans 7
 http://tvking.xyz:8080/wanz2022/asdf2022/5149
 https://perfecttv.net:443/Perfecttv/Perfecttv/1603
