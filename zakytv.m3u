@@ -214,7 +214,7 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 
 =======test====
 #EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: Indosiar HD" tvg-logo="https://i.ibb.co/stL6b6b/INDOSIAR-PPI-IP-TV.png" group-title="Test",ID: Indosiar
-http://tvking.xyz:8080/wanz2022/asdf2022/5117
+http://tvking.xyz:8080/live/Azrin924/Azrin637/5117.ts
 https://perfecttv.net:443/Perfecttv/Perfecttv/1604
 
 #EXTINF:-1 tvg-id="MNCTV.MACAN" tvg-name="ID: MNC TV HD" tvg-logo="https://i.ibb.co/m0RK6Kw/MNCTV-PPI-IP-TV.png" group-title="Test",ID: MNC TV HD
