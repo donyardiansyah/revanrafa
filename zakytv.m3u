@@ -229,14 +229,14 @@ http://tvking.xyz:8080/Azrin924/Azrin637/5144
 https://perfecttv.net:443/Perfecttv/Perfecttv/1576
 
 #EXTINF:-1 tvg-id="" tvg-name="ID: SCTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png" group-title="Test",ID: SCTV
-http://tvking.xyz:8080/wanz2022/asdf2022/5147
 https://perfecttv.net:443/Perfecttv/Perfecttv/1574
-http://tvking.xyz:8080/Azrin924/Azrin637/5174
-#EXTINF:-1 tvg-id="" tvg-name="ID: Trans 7" tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png" group-title="Test",ID: Trans 7
-http://tvking.xyz:8080/wanz2022/asdf2022/5149
-https://perfecttv.net:443/Perfecttv/Perfecttv/1603
+http://tvking.xyz:8080/Azrin924/Azrin637/5147
 
+#EXTINF:-1 tvg-id="" tvg-name="ID: Trans 7" tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png" group-title="Test",ID: Trans 7
+https://perfecttv.net:443/Perfecttv/Perfecttv/1603
+http://tvking.xyz:8080/Azrin924/Azrin637/5149
 #EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1024px-Moji_blue.svg.png" group-title="Test", MOJI TV
+
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=052861ebedab473089d0e7480d0c5b63:4d51aa0304af98c449fdec1548a199f9
