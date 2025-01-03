@@ -12,13 +12,13 @@ http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
 #EXTINF:-1 tvg-id="Indosiar" tvg-name="INDOSIAR" tvg-logo="https://client.lancartech.co.id/logo_new/INDOSIAR.png" group-title="NASIONAL TV",INDOSIAR 1
 #http://xtvplayer.top:8080/live/Atiffb694/2840914/350972.ts
-http://tvking.xyz:8080/live/Khairul01/Mboxjb01722/6982.ts
+#http://tvking.xyz:8080/live/Khairul01/Mboxjb01722/6982.ts
 
 #EXTINF:-1 tvg-logo="https://client.lancartech.co.id/logo_new/INDOSIAR.png" group-title="NASIONAL TV", INDOSIAR2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-#http://ktpremium.xyz:2095/live/Syed88/syed88/73617.m3u8
+http://ktpremium.xyz:2095/live/Syed88/syed88/73617.m3u8
 
 #EXTINF:-1 tvg-id="sctv - [Channel 78].id" tvg-name="SCTV" tvg-logo="https://client.lancartech.co.id/logo_new/SCTV.png" group-title="NASIONAL TV", SCTV D*
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
