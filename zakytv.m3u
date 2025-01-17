@@ -45,7 +45,7 @@ http://ktpremium.xyz:2095/live/Syed88/syed88/73607.m3u8
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="MOJI TV " tvg-logo="https://client.lancartech.co.id/logo_new/MOJI.png" group-title="NASIONAL TV",MOJI TV 
-
+https://av-cdn.rakuda.online:8443/memfs/8e5f0af9-6086-4cdb-b3e3-4a111bdb9dd2.m3u8
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=video/mp2t
