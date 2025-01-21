@@ -1,14 +1,26 @@
 
 ========= NASIONAL TV--=====
 
-#EXTINF:-1 tvg-id="" tvg-name="RCTI" tvg-logo="https://perfecttv.net/logo/rcti.png" group-title="NASIONAL TV",RCTI
+#EXTINF:-1 tvg-id="" tvg-name="RCTI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMgelskN9ulvtQuJCjh3F95FUbyN3BJ_CnegPAb4Qc8dJ6o_K9&s" group-title="NASIONAL TV",RCTI
 https://perfecttv.net:443/Perfecttv/Perfecttv/1576
 
-#EXTINF:-1 tvg-id="dummy" tvg-logo="https://perfecttv.net/logo/indosiar.png" group-title="NASIONAL TV",8 Indosiar
-https://perfecttv.net:443/Perfecttv/Perfecttv/1604
+#EXTINF:-1 tvg-id="dummy" tvg-logo="https://i.ytimg.com/vi/LYf2Ky2q3Xc/maxresdefault.jpg" group-title="NASIONAL TV",INDO-LIGA 1
+#https://perfecttv.net:443/Perfecttv/Perfecttv/1604
+https://av-cdn.rakuda.online:8443/memfs/fddea167-9689-4113-8e40-64d756d8e9be.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/LYf2Ky2q3Xc/maxresdefault.jpg" group-title="NASIONAL TV", INDO-LIGA 1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
+#http://ktpremium.xyz:2095/live/Syed88/syed88/73617.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="SCTV" tvg-logo="https://perfecttv.net/logo/sctv.png" group-title="NASIONAL TV",SCTV
 https://perfecttv.net:443/Perfecttv/Perfecttv/1574
+
+#EXTINF:-1 tvg-id="" tvg-name="PROLIGA" tvg-logo="https://thumbor.prod.vidiocdn.com/WgV08OmwI9p1qd7IJTni1t9uxoo=/640x360/filters:quality(70)/vidio-web-prod-video/uploads/video/image/8156027/press-conference-proliga-2024-c0be19.jpg" group-title="NASIONAL TV",MOJI PROLIGA
+#https://av-cdn.rakuda.online:8443/memfs/8e5f0af9-6086-4cdb-b3e3-4a111bdb9dd2.m3u8
+http://xtvplayer.top:8080/live/Atiffb694/2840914/350997.ts
 
 #EXTINF:-1 tvg-id="Trans7" tvg-logo="https://perfecttv.net/logo/trans7.png" group-title="NASIONAL TV",7 Trans 7
 https://perfecttv.net:443/Perfecttv/Perfecttv/1603
@@ -19,26 +31,28 @@ https://perfecttv.net:443/Perfecttv/Perfecttv/1603
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h108/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Channel_Jowo
 
-#EXTINF:-1 tvg-id="Indosiar - [Channel 78].id" tvg-name="Indosiar" tvg-logo="https://client.lancartech.co.id/logo_new/INDOSIAR.png" group-title="NASIONAL TV", INDOSIAR D*
+#EXTINF:-1 tvg-id="Indosiar - [Channel 78].id" tvg-name="Indosiar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/640px-Indosiar_2015.svg.png" group-title="NASIONAL TV", INDOSIAR D*
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
-#EXTINF:-1 tvg-id="Indosiar" tvg-name="INDOSIAR" tvg-logo="https://client.lancartech.co.id/logo_new/INDOSIAR.png" group-title="NASIONAL TV",INDOSIAR 2
-http://tvking.xyz:8080/live/wanz2022/asdf2022/5117.ts
-#EXTINF:-1 tvg-logo="https://client.lancartech.co.id/logo_new/INDOSIAR.png" group-title="NASIONAL TV", INDOSIAR2
+#EXTINF:-1 tvg-id="Indosiar" tvg-name="INDOSIAR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjGhP9BxyggeKaEAHJITGr-fcFFWjQxC5LCj4NGR9hDReTvnY&s" group-title="NASIONAL TV",INDOSIAR 2
+#http://tvking.xyz:8080/live/wanz2022/asdf2022/5117.ts
+http://tv.kudigital.pw:8080/28122024KM/28122024/27
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/640px-Indosiar_2015.svg.png" group-title="NASIONAL TV", INDOSIAR2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
 #http://ktpremium.xyz:2095/live/Syed88/syed88/73617.m3u8
 
-#EXTINF:-1 tvg-id="sctv - [Channel 78].id" tvg-name="SCTV" tvg-logo="https://client.lancartech.co.id/logo_new/SCTV.png" group-title="NASIONAL TV", SCTV D*
+#EXTINF:-1 tvg-id="sctv - [Channel 78].id" tvg-name="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/640px-SCTV_Logo.svg.png" group-title="NASIONAL TV", SCTV D*
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://client.lancartech.co.id/logo_new/SCTV.png" group-title="NASIONAL TV",SCTV C*
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/640px-SCTV_Logo.svg.png" group-title="NASIONAL TV",SCTV C*
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -47,11 +61,11 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cd6e647532391/manifest.mpd
 
-#EXTINF:-1 group-title="NASIONAL TV" tvg-logo="https://client.lancartech.co.id/logo_new/MOJI.png", MOJI TV D*
+#EXTINF:-1 group-title="NASIONAL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/440px-Moji_blue.svg.png", MOJI TV D*
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="MOJI TV " tvg-logo="https://client.lancartech.co.id/logo_new/MOJI.png" group-title="NASIONAL TV",MOJI TV 
+#EXTINF:-1 tvg-id="" tvg-name="MOJI TV " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/440px-Moji_blue.svg.png" group-title="NASIONAL TV",MOJI TV 
 
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -59,20 +73,20 @@ http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
-#EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://client.lancartech.co.id/logo_new/MOJI.png" group-title="NASIONAL TV", MOJI TV 
-http://xtvplayer.top:8080/live/Atiffb694/2840914/350997.ts
-
-#EXTINF:-1 group-title="NASIONAL TV" tvg-logo="https://client.lancartech.co.id/logo_new/MOJI.png", MOJI V
+#EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/440px-Moji_blue.svg.png" group-title="NASIONAL TV", MOJI TV 
+#http://xtvplayer.top:8080/live/Atiffb694/2840914/350997.ts
+http://tv.kudigital.pw:8080/28122024KM/28122024/30
+#EXTINF:-1 group-title="NASIONAL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/440px-Moji_blue.svg.png", MOJI V
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b5874021e33f49d4dac5cd55344b0d74:7b49f3eecf4e9336ffdb9a549d2ee781
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) iPhone (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36
 
-#EXTINF:-1 tvg-id="13" tvg-logo="https://client.lancartech.co.id/logo_new/NET.png" group-title="NASIONAL TV",NET HD
+#EXTINF:-1 tvg-id="13" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkr8F2Qxx5RWhWoA1lVAcMfNoN16gQm7CxpEovwdA&s=0" group-title="NASIONAL TV",NET HD
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=NET.
 
-#EXTINF:-1 tvg-id="NET TV - [Channel 116].id" group-title="NASIONAL TV" tvg-url="tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://client.lancartech.co.id/logo_new/NET.png",NET TV C*
+#EXTINF:-1 tvg-id="NET TV - [Channel 116].id" group-title="NASIONAL TV" tvg-url="tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/Netmediatama.png/revision/latest",NET TV C*
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -83,44 +97,48 @@ http://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8?app_type=web&amp;userid
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-id="NET TV - [Channel 116].id" group-title="NASIONAL TV" tvg-url="tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://client.lancartech.co.id/logo_new/NET.png",NET TV 
+#EXTINF:-1 tvg-id="NET TV - [Channel 116].id" group-title="NASIONAL TV" tvg-url="tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/Netmediatama.png/revision/latest",NET TV 
 https://raw.githubusercontent.com/hendroagung2904/IDH/refs/heads/main/IDH-NetTV.m3u8
 
 
-#EXTINF:-1 tvg-id="ANTV" tvg-url="tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://client.lancartech.co.id/logo_new/ANTV.png" group-title="NASIONAL TV",ANTV 
+#EXTINF:-1 tvg-id="ANTV" tvg-url="tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/640px-Antv_logo.svg.png" group-title="NASIONAL TV",ANTV 
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 https://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8
 
-#EXTINF:-1 group-title="NASIONAL TV" tvg-logo="https://client.lancartech.co.id/logo_new/RTV.png",RTV 
+#EXTINF:-1 group-title="NASIONAL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5a/Rajawali_Televisi.svg/640px-Rajawali_Televisi.svg.png",RTV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
 
-#EXTINF:-1 group-title="NASIONAL TV" tvg-logo="https://client.lancartech.co.id/logo_new/Trans_TV.png",Trans TV  V+
+#EXTINF:-1 group-title="NASIONAL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Nusantara_TV_Logo.svg/1024px-Nusantara_TV_Logo.svg.png",NUSANTARATV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h37/01.m3u8
+
+#EXTINF:-1 group-title="NASIONAL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/62/Trans_TV_2013.svg/640px-Trans_TV_2013.svg.png",Trans TV  V+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=334950781f60a66f5e58324b70ac675d:73caca97be8999ce9cfeb3babad8669d
 https://d1abp075u76pbq.cloudfront.net/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd|Referer=https://www.visionplus.id/
 
-#EXTINF:-1 group-title="NASIONAL TV" tvg-logo="https://client.lancartech.co.id/logo_new/Trans_7.png",Trans 7  V+
+#EXTINF:-1 group-title="NASIONAL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/79/Trans_7_2013.svg/640px-Trans_7_2013.svg.png",Trans 7  V+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=26bd60e03bbed7819eea0b27075a1897:d221ba6a6ab66e3083c001d2c4a3e5c5
 #https://dsgtq5sngxkde.cloudfront.net/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd|Referer=https://www.visionplus.id/&user-agent=Android
 
 
-#EXTINF:-1 tvg-id="TvONE" tvg-name="Tvone" tvg-logo="https://client.lancartech.co.id/logo_new/tvOne.png" group-title="NASIONAL TV", TVONE D*
+#EXTINF:-1 tvg-id="TvONE" tvg-name="Tvone" tvg-logo="https://i.imgur.com/iZXjOH4.png" group-title="NASIONAL TV", TVONE D*
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
 
-#EXTINF:0 group-title="NASIONAL TV" tvg-logo="https://client.lancartech.co.id/logo_new/Kompas_TV.png", Kompastv(D*)
+#EXTINF:0 group-title="NASIONAL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/7a/KOMPAS_TV_%282017%29.png", Kompastv(D*)
 http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
 
-#EXTINF:-1 tvg-id="tvOne - [Channel 97].id" group-title="NASIONAL TV" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://client.lancartech.co.id/logo_new/tvOne.png",TVOne v+
+#EXTINF:-1 tvg-id="tvOne - [Channel 97].id" group-title="NASIONAL TV" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.imgur.com/iZXjOH4.png",TVOne v+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=90204c05545f95a262bb0d3ac45de870:0e80f2a19fdf8da476bf695cd9570bb2
 https://dsgtq5sngxkde.cloudfront.net/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd|Referer=https://www.visionplus.id/&user-agent=Android
 
-#EXTINF:-1 tvg-id="RCTI - [Channel 80].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://client.lancartech.co.id/logo_new/RCTI.png" group-title="NASIONAL TV",RCTI V+
+#EXTINF:-1 tvg-id="RCTI - [Channel 80].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RCTI_logo_2015.svg/1200px-RCTI_logo_2015.svg.png" group-title="NASIONAL TV",RCTI V+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9ba3e153ef8956d6e2b0684fcf74f58f:dbc28cb5c6426080f984a5b6d436bb30
@@ -128,12 +146,12 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd|Re
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
-#EXTINF:-1 tvg-id="RCTI.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://client.lancartech.co.id/logo_new/RCTI.png" group-title="NASIONAL TV",RCTI+
+#EXTINF:-1 tvg-id="RCTI.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Logo_RCTI%2B.png" group-title="NASIONAL TV",RCTI+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 
 
-#EXTINF:-1 tvg-id="MNCTV HD - [Channel 432].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://client.lancartech.co.id/logo_new/MNC_TV.png" group-title="NASIONAL TV",MNC TV V+
+#EXTINF:-1 tvg-id="MNCTV HD - [Channel 432].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/640px-MNCTV_logo_2015.svg.png" group-title="NASIONAL TV",MNC TV V+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=828e0aba9825c3546a2831e4c0c36f7f:f85d3dcd38981368ab3da597e97ebdcc
@@ -141,12 +159,12 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd|
  
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
-#EXTINF:-1 tvg-id="MNCTV.id" tvg-country="ID" tvg-language="English;Indonesian" tvg-logo="https://client.lancartech.co.id/logo_new/MNC_TV.png" group-title="NASIONAL TV",MNC TV+
+#EXTINF:-1 tvg-id="MNCTV.id" tvg-country="ID" tvg-language="English;Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/640px-MNCTV_logo_2015.svg.png" group-title="NASIONAL TV",MNC TV+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 https://allcutv.rctiplus.id/mnctv2023.m3u8
 
-#EXTINF:-1 tvg-id="GTV HD - [Channel 431].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://client.lancartech.co.id/logo_new/GTV.png" group-title="NASIONAL TV",GTV v+
+#EXTINF:-1 tvg-id="GTV HD - [Channel 431].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/640px-GTV_%282017%29.svg.png" group-title="NASIONAL TV",GTV v+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=88f6c7cbd793374cb5f12d7e26dcd63b:e82daa7c7bfb03d99327463fdbd37336
@@ -154,18 +172,18 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd|Refe
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
-#EXTINF:-1 tvg-logo="https://client.lancartech.co.id/logo_new/GTV.png" group-title="NASIONAL TV",GTV+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/640px-GTV_%282017%29.svg.png" group-title="NASIONAL TV",GTV+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 https://allcutv.rctiplus.id/gtv2023.m3u8
 
-#EXTINF:-1 tvg-logo="https://client.lancartech.co.id/logo_new/GTV.png" group-title="NASIONAL TV", Gtv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/640px-GTV_%282017%29.svg.png" group-title="NASIONAL TV", Gtv
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/73619.m3u8
+#http://ktpremium.xyz:2095/live/Syed88/syed88/73619.m3u8
 
-#EXTINF:-1 tvg-id="Metro TV - [Channel 107].id" group-title="NASIONAL TV" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://client.lancartech.co.id/logo_new/Metro_TV.png",Metro TV v+
+#EXTINF:-1 tvg-id="Metro TV - [Channel 107].id" group-title="NASIONAL TV" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/c/c1/LogoMetroTVsince2010.svg/640px-LogoMetroTVsince2010.svg.png",Metro TV v+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4497473c5b978655ce62de7873e04174:6af319f8d82351f8c3b18c9abdfdef4d
@@ -175,44 +193,39 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mp
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=a31cf5136789514b7e12b9cc99307c84:980e54d671ffc2b2f4cf54e75cae0ac2
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-logo="https://client.lancartech.co.id/logo_new/iNews.png" group-title="NASIONAL TV",INEWS TV(V+)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/INews.png/1200px-INews.png" group-title="NASIONAL TV",INEWS TV(V+)
 https://cempedak-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
-#EXTINF:-1 group-title="NASIONAL TV" group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png" tvg-id="INews.id" tvg-logo="https://client.lancartech.co.id/logo_new/iNews.png",INEWS H
+#EXTINF:-1 group-title="NASIONAL TV" group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png" tvg-id="INews.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/INews.png/1200px-INews.png",INEWS H
 
 #EXTINF:-1 group-title="NASIONAL TV" tvg-id="JTV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium4.xml" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c6857e04fca5017ec407d96b7362/9c255af117004d72b8c8b45ebc64aedb.png",JTV
 https://63b2dc7196c38.streamlock.net:1937/ch2/myStream/playlist.m3u8
 
-#EXTINF:-1 group-title="NASIONAL TV" tvg-id="TVRI TV Nasional.id" tvg-logo="https://client.lancartech.co.id/logo_new/TVRI.png",TVRI
+#EXTINF:-1 group-title="NASIONAL TV" tvg-id="TVRI TV Nasional.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/640px-TVRILogo2019.svg.png",TVRI
 #EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 
-#EXTINF:-1 tvg-logo="https://client.lancartech.co.id/logo_new/TVRI.png" group-title="NASIONAL TV",TVRI World
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/TVRI-World.svg/1024px-TVRI-World.svg.png" group-title="NASIONAL TV",TVRI World
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
-#EXTINF: -1 tvg-logo="https://client.lancartech.co.id/logo_new/CNN_Indonesia.png" group-title="NASIONAL TV ",CNN Indo
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/CNN_Indonesia_logo_%282023%29.svg/200px-CNN_Indonesia_logo_%282023%29.svg.png" group-title="NASIONAL TV ",CNN Indo
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_b384000_sleng.m3u8
 
-#EXTINF:-1 tvg-id="Berita Satu - [Channel 103].id" tvg-name="BTV" tvg-logo="https://client.lancartech.co.id/logo_new/BTV.png" group-title="NASIONAL TV", BTV
+#EXTINF:-1 tvg-id="Berita Satu - [Channel 103].id" tvg-name="BTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/BTV_%28Indonesia%29_logo.svg/2560px-BTV_%28Indonesia%29_logo.svg.png" group-title="NASIONAL TV", BTV
 https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
 
-EXTINF:0 CUID="10" tvg-name="GTV" tvg-id="gtv.id" tvg-logo="https://client.lancartech.co.id/logo_new/GTV.png" group-title="NASIONAL TV ",GTV R+
+EXTINF:0 CUID="10" tvg-name="GTV" tvg-id="gtv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/640px-GTV_%282017%29.svg.png" group-title="NASIONAL TV ",GTV R+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #https://1s1.rctiplus.id/gtv2023.m3u8
 
-#EXTINF:0 CUID="15" tvg-name="INewsTV" tvg-id="inews.id" tvg-logo="https://client.lancartech.co.id/logo_new/iNews.png" group-title="NASIONAL TV ",INewsTV
+#EXTINF:0 CUID="15" tvg-name="INewsTV" tvg-id="inews.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/INews.png/1200px-INews.png" group-title="NASIONAL TV ",INewsTV
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
-#EXTINF:-1 tvg-name="MNC TV" tvg-logo="https://client.lancartech.co.id/logo_new/MNC_TV.png" group-title="NASIONAL TV", MNC TV
-https://1a-mnctv.rctiplus.id/mnctv-sdi.mpd|Referer=https://www.rctiplus.com
-
-
 #EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Logo_GarudaTV_Merah_Putih_Silver_Merah.png/1200px-Logo_GarudaTV_Merah_Putih_Silver_Merah.png" group-title="NASIONAL TV ",Garuda TV
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://63b2dc7196c38.streamlock.net:1937/GTV2/myStream/chunklist_w641677261.m3u8
+https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
 
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-kw-2O6-LYHU/X1q26HZsAnI/AAAAAAAAqEk/eL4AB5Lp3GUrFCDnlyBNoeiHlfXFHZtVgCLcBGAsYHQ/s1600/dmtv-channel-logo.png" group-title="NASIONAL TV",DM TV
 https://e.siar.us/live/dmtv.m3u8
@@ -230,7 +243,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeSt
 #EXTINF:-1 tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c6857e04fca5017ec407d96b7362/9c255af117004d72b8c8b45ebc64aedb.png" group-title="NASIONAL TV ", JTV I*
 https://streaming.indihometv.com/atm/DASH/jtv/manifest.mpd
 
-#EXTINF:-1 group-title="NASIONAL TV " group-logo="https://client.lancartech.co.id/logo_new/CNBC_Asia.png" tvg-id="CNBCAsia.id"  tvg-logo="https://client.lancartech.co.id/logo_new/CNBC_Asia.png",CNBC Indonesia
+#EXTINF:-1 group-title="NASIONAL TV " group-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/16/CNBC_Indonesia_logo.svg/1024px-CNBC_Indonesia_logo.svg.png?20231118105655" tvg-id="CNBCAsia.id"  tvg-logo="https://client.lancartech.co.id/logo_new/CNBC_Asia.png",CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 
 
@@ -484,472 +497,83 @@ http://tvking.xyz:8080/wanz2022/asdf2022/5117
 
 
 ======kt premium====={
-#EXTINF:-1 tvg-id="MNCTV.MACAN" tvg-name="ID: MNC TV HD" tvg-logo="https://i.ibb.co/m0RK6Kw/MNCTV-PPI-IP-TV.png" group-title="KT PREMIUM",ID: MNC TV HD
-http://tvking.xyz:8080/wanz2022/asdf2022/5139
-
-
-#EXTINF:-1 tvg-id="NetTV.MACAN" tvg-name="ID: Net TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_small1.png" group-title="KT PREMIUM",ID: Net TV
-http://tvking.xyz:8080/wanz2022/asdf2022/5140
-
-#EXTINF:-1 tvg-id="RCTI.id" tvg-name="ID: RCTI HD" tvg-logo="https://i.ibb.co/jZ3SKjM/RCTI-PPI-IP-TV.png" group-title="KT PREMIUM",ID: RCTI HD
-http://tvking.xyz:8080/wanz2022/asdf2022/5144
-
-
-#EXTINF:-1 tvg-id="" tvg-name="ID: SCTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png" group-title="KT PREMIUM",ID: SCTV
-http://tvking.xyz:8080/wanz2022/asdf2022/5147
 
 
 #EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", MNCTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/73616.m3u8
+$http://ktpremium.xyz:2095/live/Syed88/syed88/73616.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", INDOSIAR
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/73617.m3u8
+#http://ktpremium.xyz:2095/live/Syed88/syed88/73617.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", RCTI
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/73606.m3u8
+#http://ktpremium.xyz:2095/live/Syed88/syed88/73606.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", SCTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/73607.m3u8
+#http://ktpremium.xyz:2095/live/Syed88/syed88/73607.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", GTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/73619.m3u8
+#http://ktpremium.xyz:2095/live/Syed88/syed88/73619.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", TRANS TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/73608.m3u8
+#http://ktpremium.xyz:2095/live/Syed88/syed88/73608.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", TRANS 7
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/73609.m3u8
+#http://ktpremium.xyz:2095/live/Syed88/syed88/73609.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", ANTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/73618.m3u8
+#http://ktpremium.xyz:2095/live/Syed88/syed88/73618.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", NET
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/73615.m3u8
+#http://ktpremium.xyz:2095/live/Syed88/syed88/73615.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", TV ONE
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=MXPlayer/1.86.0 (Linux; Android 8.1.0; in-ID; CPH1909 Build/CPH1909EX_11_A.46)
-http://ktpremium.xyz:2095/live/Syed88/syed88/73610.m3u8
+#http://ktpremium.xyz:2095/live/Syed88/syed88/73610.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", METRO TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/73611.m3u8
+#http://ktpremium.xyz:2095/live/Syed88/syed88/73611.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", KOMPAS TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/73612.m3u8
+#http://ktpremium.xyz:2095/live/Syed88/syed88/73612.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", CNN INDONESIA
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/73613.m3u8
+#http://ktpremium.xyz:2095/live/Syed88/syed88/73613.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", BERITA SATU
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/73614.m3u8
+#http://ktpremium.xyz:2095/live/Syed88/syed88/73614.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", TVRI
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/73620.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", JAK TV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/73626.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", JTV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/73627.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", TV9 NUSANTARA
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/73629.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", JPMP TV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/73631.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", CITRA DRAMA
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/901193.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", CITRA DANGDUT
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/901194.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", AJWA TV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/73636.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", IMC
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/73869.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", BIOSKOP INDONESIA
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/73873.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", JIANGSU TV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/73878.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", HUNAN TV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/73879.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", SHANGHAI DRAGON TV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/73880.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", ANHUI TV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/73882.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", TVN
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/73985.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", TVN MOVIES
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/73986.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", ONE
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/73986.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", ARIRANG
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/73990.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", NUSANTARA TV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/34721.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", BERITA SATU WORLD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/886796.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", DHAMMA TV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/886807.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", MADU TV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/886833.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", MQTV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/886836.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", TVKU
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/900813.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", BANDUNG TV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/921747.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", EWTN
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/946466.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", JAWA POS TV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/947789.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", KIX
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/947917.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", ALJAZEERA
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/73642.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", CNN INTERNASIONAL
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/73643.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", DW
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/73644.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", FRANCE 24
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/73645.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", CNA
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/73646.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", KBS WORLD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/73647.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", ABC AUSTRALIA
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/73648.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", NHK WORLD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/73649.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", BBC NEWS
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/73651.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", CNBC INDONESIA
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/73652.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", HIP HIP HOREE
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/73989.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", ANIPLUS
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/73884.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", ANIMAX
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/73883.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", CARTOON NETWORK
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/73934.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", CBEEBIES
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/73935.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", DISNEY CHANNEL
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/73938.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", HOREE
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/73945.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", NICK JR
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/73946.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", NICKELODEON
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/73947.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", BABY TV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/511316.ts
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", DISNEY JR
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/511324.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", DISNEY XD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/511328.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", MOMO
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/515120.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", ZOOMOO
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/695556.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", DREAMWORKS
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/921749.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", DA VINCI
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/948091.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", CELESTIAL MOVIES
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/73655.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", CELESTIAL CLASSIC MOVIE
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/73656.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", THRILL
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/73660.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", AXN
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/73661.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", HITS
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/73662.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", HITS MOVIES
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/73855.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", HBO
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/73858.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", HBO HITS
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/73860.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", HBO SIGNATURE
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/73861.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", HBO FAMILY
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/901195.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", CINEMAX
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/901196.tm3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", CINEMA WORLD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/901200.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", WARNER TV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/73866.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", ONE MUSIC
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/34723.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", CRIME & INVESTIGATION
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/73870.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", NATGEO WILD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/73965.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", NATGEO
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/73966.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", HISTORY
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/73968.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", ANIMAL PLANET
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/73969.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", DISCOVERY CHANEL
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/73970.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", HGTV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/73975.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", TLC
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/73977.m3u8
-
+$http://ktpremium.xyz:2095/live/Syed88/syed88/73620.m3u8
 
 <=======SPORTS===========>
 
@@ -1390,12 +1014,12 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfo
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/641/641-LOGO-m.png" group-title="PREMIUM TV",Vision Prime (V+)
 https://cempedak-live-cdn.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/c5/f6/d6/c5f6d666e8c2ed93f3aaba0b739b5691.jpg" group-title="PREMIUM TV", 5 HD
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/c5/f6/d6/c5f6d666e8c2ed93f3aaba0b739b5691.jpg" group-title="PREMIUM TV", sbs canbera
+http://extraott.com:80/live/6945574629/7169628753/355778.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/5e/20/34/5e2034464163f9bdea778c3be58d5d77.jpg" group-title="PREMIUM TV", 5 STARMAX
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/5e/20/34/5e2034464163f9bdea778c3be58d5d77.jpg" group-title="PREMIUM TV", Sbs sidney
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://nv1connect.com:80/tamtam/tjfYkCbP3s/61919
+http://extraott.com:80/live/6945574629/7169628753/355786.m3u8
 
 #EXTINF:-1 tvg-id="DiscoverFilm.uk" tvg-logo="https://i.imgur.com/oMnpsQ5.png" group-title="PREMIUM TV",DiscoverFilm
 https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8
@@ -1403,8 +1027,8 @@ https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MyTimeMovieNetworkEast.us" tvg-logo="https://i.imgur.com/HYgxPVQ.png" group-title="PREMIUM TV",MyTime Movie Network
 https://mytime-tcl.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SonyMovies.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/512px-Sony_Movies_Logo.svg.png" group-title="PREMIUM TV ",Sony Movies
-
+#EXTINF:-1 tvg-id="SonyMovies.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/512px-Sony_Movies_Logo.svg.png" group-title="PREMIUM TV ",Sbs hd
+http://extraott.com:80/live/6945574629/7169628753/355787.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZVC5928/Action-Movie.jpg" group-title="PREMIUM TV" tvg-id="" tvg-name="", Action Movies 1
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
@@ -1423,22 +1047,26 @@ https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_14.png" group-title="PREMIUM TV",IMC (V+)
 https://cempedak-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
 
-#EXTINF:-1 tvg-id="SAMURAI.th" tvg-name="SAMURAI" tvg-logo="https://statik.tempo.co/data/2023/12/06/id_1260965/1260965_720.jpg" group-title="PREMIUM TV",SAMURAI
+#EXTINF:-1 tvg-id="SAMURAI.th" tvg-name="SAMURAI" tvg-logo="https://www.lyngsat.com/logo/tv/aa/airtel_movies3.png" group-title="PREMIUM TV",SAMURAI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://autopilot.catcast.tv/content/40381/index.m3u8
+https://autopilot.catcast.tv/mobile.m3u8?channel_id=40381&token=90f0c05d86bdcc342476a6a7d4508078&server=v2.catcast.tv
+
+#EXTINF:-1 tvg-id="SAMURAI.th" tvg-name="SAMURAI" tvg-logo="https://statik.tempo.co/data/2023/12/06/id_1260965/1260965_720.jpg" group-title="PREMIUM TV",mgm
 https://www.dropbox.com/scl/fi/8ofout8vho3d6fj0k2rid/Misteri-Gunung-Merapi-I-Penghuni-Rumah-Tua-1989-Rumah-Film-Indonesia-Video-Dailymotion.mp4?rlkey=e4hpnc7ncxgm91jrqyv0h8nuu&st=9k04k634&dl=1
 
-#EXTINF:-1 group-title="PREMIUM TV" tvg-id="1CHN" tvg-logo="https://i.ibb.co/B4xvBb8/600px-Douyu-TV-logo.png",Douyu TV Movies 
-https://hlsa-akm.douyucdn.cn/live/20415rnWbjg6Ex1K_900/playlist.m3u8?wsAuth=014b39c4437d974e4d70045eb2d23e67&token=web-h5-0-20415-b6774b3b3249db179435e1a37410043c7827528d80fff5fe&logo=0&expire=0&did=c2d6f221fb67b0e8f4e820a300001601&ver=Douyu_221090605&pt=2&st=0&origin=tct&mix=0&isp=
-#http://tx2play1.douyucdn.cn:80/live/dyliveflv3/20415rnWbjg6Ex1K_4000p.xs
+#EXTINF:-1 group-title="PREMIUM TV" tvg-id="1CHN" tvg-logo="https://i.ibb.co/B4xvBb8/600px-Douyu-TV-logo.png",viceland3
+http://extraott.com:80/live/6945574629/7169628753/355790.m3u8
 
-#EXTINF:-1 tvg-id="boxmovie1" group-title="PREMIUM TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/187.png", Box Movie 
+#EXTINF:-1 tvg-id="boxmovie1" group-title="PREMIUM TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/187.png", viceland 1
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/index.m3u8
+http://extraott.com:80/live/6945574629/7169628753/355789.m3u8
 
 #EXTINF:-1 group-title="PREMIUM TV"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUgxTkc5-3HMAF7raMs2HniDl38Ro-DDqDvcNKjP8aXg&s",MovieDome Family
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00771-kochfilmsgerman-moviedomefamily-tcl/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="PREMIUM TV"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfLOa4vtcn2Q30IKYU2csQUUnLoSF1on2CJpydscy5yQ&s",Watch Mojo TV
-https://watchmojo-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="PREMIUM TV"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfLOa4vtcn2Q30IKYU2csQUUnLoSF1on2CJpydscy5yQ&s",viceland2
+http://extraott.com:80/live/6945574629/7169628753/400254521.m3u8
 
 =======movies=========
 
@@ -1712,716 +1340,12 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0c
 #EXTINF:-1 tvg-id="CINEMAX (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="MOVIES",Cinemax (TRANSCORP)
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", MNCTV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/73616.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", INDOSIAR
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/73617.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", RCTI
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/73606.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", SCTV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/73607.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", GTV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/73619.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", TRANS TV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/73608.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", TRANS 7
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/73609.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", ANTV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/73618.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", NET
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/73615.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", TV ONE
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MXPlayer/1.86.0 (Linux; Android 8.1.0; in-ID; CPH1909 Build/CPH1909EX_11_A.46)
-http://ktpremium.xyz:2095/live/Syed88/syed88/73610.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", METRO TV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/73611.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", KOMPAS TV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/73612.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", CNN INDONESIA
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/73613.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", BERITA SATU
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/73614.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", TVRI
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/73620.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", JAK TV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/73626.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", JTV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/73627.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", TV9 NUSANTARA
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/73629.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", JPMP TV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/73631.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", CITRA DRAMA
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/901193.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", CITRA DANGDUT
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/901194.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", AJWA TV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/73636.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", IMC
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/73869.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", BIOSKOP INDONESIA
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/73873.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", JIANGSU TV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/73878.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", HUNAN TV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/73879.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", SHANGHAI DRAGON TV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/73880.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", ANHUI TV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/73882.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", TVN
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/73985.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", TVN MOVIES
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/73986.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", ONE
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/73986.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", ARIRANG
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/73990.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", NUSANTARA TV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/34721.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", BERITA SATU WORLD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/886796.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", DHAMMA TV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/886807.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", MADU TV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/886833.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", MQTV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/886836.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", TVKU
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/900813.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", BANDUNG TV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/921747.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", EWTN
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/946466.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", JAWA POS TV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/947789.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", KIX
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/947917.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", ALJAZEERA
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/73642.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", CNN INTERNASIONAL
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/73643.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", DW
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/73644.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", FRANCE 24
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/73645.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", CNA
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/73646.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", KBS WORLD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/73647.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", ABC AUSTRALIA
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/73648.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", NHK WORLD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/73649.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", BBC NEWS
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/73651.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", CNBC INDONESIA
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/73652.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", HIP HIP HOREE
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/73989.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", ANIPLUS
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/73884.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", ANIMAX
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/73883.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", CARTOON NETWORK
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/73934.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", CBEEBIES
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/73935.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", DISNEY CHANNEL
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/73938.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", HOREE
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/73945.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", NICK JR
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/73946.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", NICKELODEON
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/73947.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", BABY TV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/511316.ts
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", DISNEY JR
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/511324.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", DISNEY XD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/511328.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", MOMO
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/515120.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", ZOOMOO
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/695556.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", DREAMWORKS
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/921749.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", DA VINCI
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/948091.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", CELESTIAL MOVIES
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/73655.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", CELESTIAL CLASSIC MOVIE
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/73656.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", THRILL
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/73660.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", AXN
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/73661.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", HITS
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/73662.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", HITS MOVIES
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/73855.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", HBO
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/73858.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", HBO HITS
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/73860.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", HBO SIGNATURE
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/73861.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", HBO FAMILY
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/901195.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", CINEMAX
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/901196.tm3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", CINEMA WORLD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/901200.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", WARNER TV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/73866.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", ONE MUSIC
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/34723.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", CRIME & INVESTIGATION
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/73870.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", NATGEO WILD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/73965.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", NATGEO
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/73966.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", HISTORY
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/73968.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", ANIMAL PLANET
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/73969.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", DISCOVERY CHANEL
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/73970.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", HGTV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/73975.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KT PREMIUM", TLC
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/Syed88/syed88/73977.m3u8
-
-==============================================================
-======================== INDONESIA PREMIUM =========================
-==============================================================
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1200px-Indosiar_2015.svg.png" group-title="INDONESIA PREMIUM",Indosiar
-http://iptv12k.com:35461/654321/123456/595
-#EXTINF:-1 tvg-id="" tvg-name="[ID] CNN Indonesia" tvg-logo="https://3.bp.blogspot.com/-uofM2vEet-0/XE8wsXFAudI/AAAAAAAAGqU/zOlv9fcbBDsS-9PXZ4se5N-hRbIsgSd4QCK4BGAYYCw/s1600/CNN%2BIndonesia%2BLogo%2B%255Bwww.blogovector.com%255D.png" group-title="INDONESIA PREMIUM",[ID] CNN Indonesia
-http://iptv12k.com:35461/654321/123456/1815
-#EXTINF:-1 tvg-id="" tvg-name="INDOSIAR(b) TLLL" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/indosiar-id.png" group-title="INDONESIA PREMIUM",INDOSIAR(b) TLLL
-http://iptv12k.com:35461/654321/123456/1814
-#EXTINF:-1 tvg-id="" tvg-name="INDOSIAR(b)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1200px-Indosiar_2015.svg.png" group-title="INDONESIA PREMIUM",INDOSIAR(b)
-http://iptv12k.com:35461/654321/123456/4801
-#EXTINF:-1 tvg-id="" tvg-name="INDOSIAR(a)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1200px-Indosiar_2015.svg.png" group-title="INDONESIA PREMIUM",INDOSIAR(a)
-http://iptv12k.com:35461/654321/123456/4802
-#EXTINF:-1 tvg-id="" tvg-name="[ID] RCTI" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rcti_id.png" group-title="INDONESIA PREMIUM",[ID] RCTI
-http://iptv12k.com:35461/654321/123456/1812
-#EXTINF:-1 tvg-id="" tvg-name="[ID] SCTV(b)" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sctv_id.png" group-title="INDONESIA PREMIUM",[ID] SCTV(b)
-http://iptv12k.com:35461/654321/123456/1811
-#EXTINF:-1 tvg-id="" tvg-name="[ID] Trans 7" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trans_7_id.png" group-title="INDONESIA PREMIUM",[ID] Trans 7
-http://iptv12k.com:35461/654321/123456/1810
-#EXTINF:-1 tvg-id="" tvg-name="[ID] Trans TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trans_tv_id.png" group-title="INDONESIA PREMIUM",[ID] Trans TV
-http://iptv12k.com:35461/654321/123456/1809
-#EXTINF:-1 tvg-id="KIX.id" tvg-name="[ID] KiX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1200px-KIX_logo.svg.png" group-title="INDONESIA PREMIUM",[ID] KiX
-http://iptv12k.com:35461/654321/123456/1807
-#EXTINF:-1 tvg-id="" tvg-name="[ID] ANTV" tvg-logo="https://photos.live-tv-channels.org/tv-logo/id-antv-9615.jpg" group-title="INDONESIA PREMIUM",[ID] ANTV
-http://iptv12k.com:35461/654321/123456/1806
-#EXTINF:-1 tvg-id="" tvg-name="[ID] TV One" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv_one_id.png" group-title="INDONESIA PREMIUM",[ID] TV One
-http://iptv12k.com:35461/654321/123456/1805
-#EXTINF:-1 tvg-id="" tvg-name="[ID] Metro TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/metro_tv_id.png" group-title="INDONESIA PREMIUM",[ID] Metro TV
-http://iptv12k.com:35461/654321/123456/1804
-#EXTINF:-1 tvg-id="" tvg-name="[ID] Kompas TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kompas-tv-id.png" group-title="INDONESIA PREMIUM",[ID] Kompas TV
-http://iptv12k.com:35461/654321/123456/1803
-#EXTINF:-1 tvg-id="" tvg-name="[ID] TVRI" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvri-id.png" group-title="INDONESIA PREMIUM",[ID] TVRI
-http://iptv12k.com:35461/654321/123456/1802
-#EXTINF:-1 tvg-id="" tvg-name="[ID] Berita Satu" tvg-logo="https://itsmiyagi.site:443/images/23e955c9a8924fe73c35725d28fd37a5.png" group-title="INDONESIA PREMIUM",[ID] Berita Satu
-http://iptv12k.com:35461/654321/123456/1801
-#EXTINF:-1 tvg-id="" tvg-name="[ID] iNews" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/inews-id.png" group-title="INDONESIA PREMIUM",[ID] iNews
-http://iptv12k.com:35461/654321/123456/1799
-#EXTINF:-1 tvg-id="" tvg-name="[ID] MNC Sport" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mnc-sports-id.png" group-title="INDONESIA PREMIUM",[ID] MNC Sport
-http://iptv12k.com:35461/654321/123456/1796
-#EXTINF:-1 tvg-id="" tvg-name="[ID] Thrill" tvg-logo="" group-title="INDONESIA PREMIUM",[ID] Thrill
-http://iptv12k.com:35461/654321/123456/1794
-#EXTINF:-1 tvg-id="" tvg-name="[ID] Smithsonian Channel" tvg-logo="" group-title="INDONESIA PREMIUM",[ID] Smithsonian Channel
-http://iptv12k.com:35461/654321/123456/1791
-#EXTINF:-1 tvg-id="" tvg-name="[ID] Fight Sports" tvg-logo="" group-title="INDONESIA PREMIUM",[ID] Fight Sports
-http://iptv12k.com:35461/654321/123456/1788
-#EXTINF:-1 tvg-id="" tvg-name="[ID] IDX" tvg-logo="" group-title="INDONESIA PREMIUM",[ID] IDX
-http://iptv12k.com:35461/654321/123456/1787
-#EXTINF:-1 tvg-id="" tvg-name="[ID] Bali TV" tvg-logo="https://itsmiyagi.site:443/images/c9f3eda90e1cdc0a29704e9322f29f97.png" group-title="INDONESIA PREMIUM",[ID] Bali TV
-http://iptv12k.com:35461/654321/123456/1786
-#EXTINF:-1 tvg-id="" tvg-name="[ID] JakTV TLLL" tvg-logo="" group-title="INDONESIA PREMIUM",[ID] JakTV TLLL
-http://iptv12k.com:35461/654321/123456/1784
-#EXTINF:-1 tvg-id="" tvg-name="[ID] JTV" tvg-logo="" group-title="INDONESIA PREMIUM",[ID] JTV
-http://iptv12k.com:35461/654321/123456/1783
-#EXTINF:-1 tvg-id="" tvg-name="[ID] Music TV" tvg-logo="" group-title="INDONESIA PREMIUM",[ID] Music TV
-http://iptv12k.com:35461/654321/123456/1782
-#EXTINF:-1 tvg-id="" tvg-name="[ID] MTV Live" tvg-logo="" group-title="INDONESIA PREMIUM",[ID] MTV Live
-http://iptv12k.com:35461/654321/123456/1781
-#EXTINF:-1 tvg-id="" tvg-name="[ID] TV9 NU" tvg-logo="" group-title="INDONESIA PREMIUM",[ID] TV9 NU
-http://iptv12k.com:35461/654321/123456/1779
-#EXTINF:-1 tvg-id="" tvg-name="[ID] AlQuran Kareem" tvg-logo="https://www.useetv.com/pimages/logo_alquran_small1.png?v=2" group-title="INDONESIA PREMIUM",[ID] AlQuran Kareem
-http://iptv12k.com:35461/654321/123456/1778
-#EXTINF:-1 tvg-id="" tvg-name="[ID] Arirang" tvg-logo="https://www.useetv.com/pimages/logo_arirang_small1.png" group-title="INDONESIA PREMIUM",[ID] Arirang
-http://iptv12k.com:35461/654321/123456/1777
-#EXTINF:-1 tvg-id="" tvg-name="[ID] Tawaf TV" tvg-logo="" group-title="INDONESIA PREMIUM",[ID] Tawaf TV
-http://iptv12k.com:35461/654321/123456/1776
-#EXTINF:-1 tvg-id="" tvg-name="[ID] RTV" tvg-logo="" group-title="INDONESIA PREMIUM",[ID] RTV
-http://iptv12k.com:35461/654321/123456/1770
-#EXTINF:-1 tvg-id="" tvg-name="[ID] Vision Prime" tvg-logo="" group-title="INDONESIA PREMIUM",[ID] Vision Prime
-http://iptv12k.com:35461/654321/123456/1769
-#EXTINF:-1 tvg-id="" tvg-name="[ID] Muslim TV" tvg-logo="" group-title="INDONESIA PREMIUM",[ID] Muslim TV
-http://iptv12k.com:35461/654321/123456/1767
-#EXTINF:-1 tvg-id="" tvg-name="[ID] TVMu" tvg-logo="" group-title="INDONESIA PREMIUM",[ID] TVMu
-http://iptv12k.com:35461/654321/123456/1765
-#EXTINF:-1 tvg-id="" tvg-name="[ID] EWTN" tvg-logo="" group-title="INDONESIA PREMIUM",[ID] EWTN
-http://iptv12k.com:35461/654321/123456/1764
-#EXTINF:-1 tvg-id="" tvg-name="[ID] Entertainment" tvg-logo="" group-title="INDONESIA PREMIUM",[ID] Entertainment
-http://iptv12k.com:35461/654321/123456/1763
-#EXTINF:-1 tvg-id="" tvg-name="[ID] FMN" tvg-logo="" group-title="INDONESIA PREMIUM",[ID] FMN
-http://iptv12k.com:35461/654321/123456/1761
-#EXTINF:-1 tvg-id="" tvg-name="[ID] MNC Shop Trendy" tvg-logo="" group-title="INDONESIA PREMIUM",[ID] MNC Shop Trendy
-http://iptv12k.com:35461/654321/123456/1759
-#EXTINF:-1 tvg-id="" tvg-name="[ID] MNC Shop Smart" tvg-logo="" group-title="INDONESIA PREMIUM",[ID] MNC Shop Smart
-http://iptv12k.com:35461/654321/123456/1758
-#EXTINF:-1 tvg-id="" tvg-name="[ID] RT English" tvg-logo="" group-title="INDONESIA PREMIUM",[ID] RT English
-http://iptv12k.com:35461/654321/123456/1757
-#EXTINF:-1 tvg-id="" tvg-name="[ID] TRT World" tvg-logo="" group-title="INDONESIA PREMIUM",[ID] TRT World
-http://iptv12k.com:35461/654321/123456/1756
-#EXTINF:-1 tvg-id="" tvg-name="[ID] HBO" tvg-logo="" group-title="INDONESIA PREMIUM",[ID] HBO
-http://iptv12k.com:35461/654321/123456/1748
-#EXTINF:-1 tvg-id="TVNMovies.id" tvg-name="[ID] TvN Movies" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmobile.twitter.com%2Ftvn_movies&psig=AOvVaw24dfI3jPr_GouaVOYs26IQ&ust=1645680712356000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIjE8MOMlfYCFQAAAAAdAAAAABAT" group-title="INDONESIA PREMIUM",[ID] TvN Movies
-http://iptv12k.com:35461/654321/123456/1747
-#EXTINF:-1 tvg-id="" tvg-name="[ID] HBO Family" tvg-logo="" group-title="INDONESIA PREMIUM",[ID] HBO Family
-http://iptv12k.com:35461/654321/123456/1746
-#EXTINF:-1 tvg-id="" tvg-name="[ID] HGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png" group-title="INDONESIA PREMIUM",[ID] HGTV
-http://iptv12k.com:35461/654321/123456/1744
-#EXTINF:-1 tvg-id="" tvg-name="[ID] TLC" tvg-logo="" group-title="INDONESIA PREMIUM",[ID] TLC
-http://iptv12k.com:35461/654321/123456/1743
-#EXTINF:-1 tvg-id="" tvg-name="INDOSIAR(c)" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/indosiar-id.png" group-title="INDONESIA PREMIUM",INDOSIAR(c)
-http://iptv12k.com:35461/654321/123456/2187
-#EXTINF:-1 tvg-id="" tvg-name="[ID] Net. TV id 8k" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/net-id.png" group-title="INDONESIA PREMIUM",[ID] Net. TV id 8k
-http://iptv12k.com:35461/654321/123456/2186
-#EXTINF:-1 tvg-id="" tvg-name="[ID] RCTI id 8k" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rcti_id.png" group-title="INDONESIA PREMIUM",[ID] RCTI id 8k
-http://iptv12k.com:35461/654321/123456/2185
-#EXTINF:-1 tvg-id="" tvg-name="[ID] SCTV(a)" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sctv_id.png" group-title="INDONESIA PREMIUM",[ID] SCTV(a)
-http://iptv12k.com:35461/654321/123456/2184
-#EXTINF:-1 tvg-id="" tvg-name="[ID] Trans TV id 8k" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trans_tv_id.png" group-title="INDONESIA PREMIUM",[ID] Trans TV id 8k
-http://iptv12k.com:35461/654321/123456/2183
-#EXTINF:-1 tvg-id="" tvg-name="[ID] Trans 7 id 8k" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trans_7_id.png" group-title="INDONESIA PREMIUM",[ID] Trans 7 id 8k
-http://iptv12k.com:35461/654321/123456/2182
-#EXTINF:-1 tvg-id="" tvg-name="[ID] TV One id 8k" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv_one_id.png" group-title="INDONESIA PREMIUM",[ID] TV One id 8k
-http://iptv12k.com:35461/654321/123456/2181
-#EXTINF:-1 tvg-id="" tvg-name="[ID] Metro TV id 8k" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/metro_tv_id.png" group-title="INDONESIA PREMIUM",[ID] Metro TV id 8k
-http://iptv12k.com:35461/654321/123456/2180
-#EXTINF:-1 tvg-id="" tvg-name="[ID] Kompas TV id 8k" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kompas-tv-id.png" group-title="INDONESIA PREMIUM",[ID] Kompas TV id 8k
-http://iptv12k.com:35461/654321/123456/2179
-#EXTINF:-1 tvg-id="" tvg-name="[ID] MNC TV id 8k" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mnc_id_tv.png" group-title="INDONESIA PREMIUM",[ID] MNC TV id 8k
-http://iptv12k.com:35461/654321/123456/2175
-#EXTINF:-1 tvg-id="" tvg-name="[ID] TVRI id 8k" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvri-id.png" group-title="INDONESIA PREMIUM",[ID] TVRI id 8k
-http://iptv12k.com:35461/654321/123456/2172
-#EXTINF:-1 tvg-id="" tvg-name="[ID] JakTV id 8k" tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/jak-tv-id.png" group-title="INDONESIA PREMIUM",[ID] JakTV id 8k
-http://iptv12k.com:35461/654321/123456/2166
-#EXTINF:-1 tvg-id="" tvg-name="[ID] JTV id 8k" tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/jtv_id.png" group-title="INDONESIA PREMIUM",[ID] JTV id 8k
-http://iptv12k.com:35461/654321/123456/2165
-#EXTINF:-1 tvg-id="" tvg-name="[ID] TV9 NU id 8k" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv9_surabaya_id.png" group-title="INDONESIA PREMIUM",[ID] TV9 NU id 8k
-http://iptv12k.com:35461/654321/123456/2163
-#EXTINF:-1 tvg-id="" tvg-name="[ID] RTV id 8k" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/riau-tv-id.png" group-title="INDONESIA PREMIUM",[ID] RTV id 8k
-http://iptv12k.com:35461/654321/123456/2161
-#EXTINF:-1 tvg-id="" tvg-name="[ID] Entertainment id 8k" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/ent-id.png" group-title="INDONESIA PREMIUM",[ID] Entertainment id 8k
-http://iptv12k.com:35461/654321/123456/2157
-#EXTINF:-1 tvg-id="" tvg-name="[ID] Infotainment id 8k" tvg-logo="https://www.infotelevisi.com/asset/images/tv/MNC_infotaiment.jpg" group-title="INDONESIA PREMIUM",[ID] Infotainment id 8k
-http://iptv12k.com:35461/654321/123456/2156
-#EXTINF:-1 tvg-id="" tvg-name="[ID] MNC Shop Smart id 8k" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mnc-shop-id.png" group-title="INDONESIA PREMIUM",[ID] MNC Shop Smart id 8k
-http://iptv12k.com:35461/654321/123456/2152
-#EXTINF:-1 tvg-id="" tvg-name="[ID] DW (English) id 8k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Deutsche_Welle_Logo.svg/1280px-Deutsche_Welle_Logo.svg.png" group-title="INDONESIA PREMIUM",[ID] DW (English) id 8k
-http://iptv12k.com:35461/654321/123456/2149
-#EXTINF:-1 tvg-id="" tvg-name="[ID] France 24 id 8k" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png" group-title="INDONESIA PREMIUM",[ID] France 24 id 8k
-http://iptv12k.com:35461/654321/123456/2148
-#EXTINF:-1 tvg-id="" tvg-name="[ID] KBS World id 8k" tvg-logo="https://pbs.twimg.com/profile_images/1347443419019239425/3GrnHjge_400x400.jpg" group-title="INDONESIA PREMIUM",[ID] KBS World id 8k
-http://iptv12k.com:35461/654321/123456/2146
-#EXTINF:-1 tvg-id="" tvg-name="[ID] ABC Australia id 8k" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/ABC_Australia_logo.svg/1200px-ABC_Australia_logo.svg.png" group-title="INDONESIA PREMIUM",[ID] ABC Australia id 8k
-http://iptv12k.com:35461/654321/123456/2145
-#EXTINF:-1 tvg-id="" tvg-name="[ID] NHK World Premium id 8k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Logo_NHK_World_Premium.jpg" group-title="INDONESIA PREMIUM",[ID] NHK World Premium id 8k
-http://iptv12k.com:35461/654321/123456/2144
-#EXTINF:-1 tvg-id="" tvg-name="[ID] Euro news id 8k" tvg-logo="https://www.bce.lu/wp-content/uploads/2016/06/Euronews2016-200-SQR.png" group-title="INDONESIA PREMIUM",[ID] Euro news id 8k
-http://iptv12k.com:35461/654321/123456/2143
-#EXTINF:-1 tvg-id="" tvg-name="[ID] BBC World News id 8k" tvg-logo="https://ichef.bbci.co.uk/news/1024/branded_news/16B26/production/_96566929_bbc_wn_rgb.png" group-title="INDONESIA PREMIUM",[ID] BBC World News id 8k
-http://iptv12k.com:35461/654321/123456/2142
-#EXTINF:-1 tvg-id="" tvg-name="[ID] TRT World id 8k" tvg-logo="http://www.trtworld.com/images/share-1000x500.png" group-title="INDONESIA PREMIUM",[ID] TRT World id 8k
-http://iptv12k.com:35461/654321/123456/2140
-#EXTINF:-1 tvg-id="" tvg-name="RT English id 8k TL" tvg-logo="" group-title="INDONESIA PREMIUM",RT English id 8k TL
-http://iptv12k.com:35461/654321/123456/2135
-#EXTINF:-1 tvg-id="" tvg-name="[ID] Celestial Movies id 8k" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/celestial-movies-hk.png" group-title="INDONESIA PREMIUM",[ID] Celestial Movies id 8k
-http://iptv12k.com:35461/654321/123456/2131
-#EXTINF:-1 tvg-id="" tvg-name="[ID] Thrill id 8k" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/thrill_hk.png" group-title="INDONESIA PREMIUM",[ID] Thrill id 8k
-http://iptv12k.com:35461/654321/123456/2128
-#EXTINF:-1 tvg-id="" tvg-name="[ID] AXN id 8k" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/axn_tw.png" group-title="INDONESIA PREMIUM",[ID] AXN id 8k
-http://iptv12k.com:35461/654321/123456/2127
-#EXTINF:-1 tvg-id="" tvg-name="[ID] Hits id 8k" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hits_tv_sg.png" group-title="INDONESIA PREMIUM",[ID] Hits id 8k
-http://iptv12k.com:35461/654321/123456/2126
-#EXTINF:-1 tvg-id="" tvg-name="[ID] KiX id 8k indo" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kix-hk.png" group-title="INDONESIA PREMIUM",[ID] KiX id 8k indo
-http://iptv12k.com:35461/654321/123456/2125
-#EXTINF:-1 tvg-id="" tvg-name="[ID] Cinema World id 8k" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cinema_world_asia.png" group-title="INDONESIA PREMIUM",[ID] Cinema World id 8k
-http://iptv12k.com:35461/654321/123456/2124
-#EXTINF:-1 tvg-id="" tvg-name="[ID] Paramount channel id 8k" tvg-logo="https://thestreamable.com/media/pages/sports/nfl/paramount-plus/81a45f40e0-1613656935/paramount-plus-1536x864-crop.jpg" group-title="INDONESIA PREMIUM",[ID] Paramount channel id 8k
-http://iptv12k.com:35461/654321/123456/2123
-#EXTINF:-1 tvg-id="" tvg-name="[ID] Hits Movies id 8k" tvg-logo="" group-title="INDONESIA PREMIUM",[ID] Hits Movies id 8k
-http://iptv12k.com:35461/654321/123456/2122
-#EXTINF:-1 tvg-id="HBO.id" tvg-name="[ID] HBO id 8k" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo_my.png" group-title="INDONESIA PREMIUM",[ID] HBO id 8k
-http://iptv12k.com:35461/654321/123456/2121
-#EXTINF:-1 tvg-id="HBOFamily.id" tvg-name="[ID] HBO Family id 8k" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo_family_asia.png" group-title="INDONESIA PREMIUM",[ID] HBO Family id 8k
-http://iptv12k.com:35461/654321/123456/2120
-#EXTINF:-1 tvg-id="HBOSignature.id" tvg-name="[ID] HBO Signature id 8k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="INDONESIA PREMIUM",[ID] HBO Signature id 8k
-http://iptv12k.com:35461/654321/123456/2118
-#EXTINF:-1 tvg-id="" tvg-name="[ID] Warner TV id 8k" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/warner_channel_us.png" group-title="INDONESIA PREMIUM",[ID] Warner TV id 8k
-http://iptv12k.com:35461/654321/123456/2115
-#EXTINF:-1 tvg-id="" tvg-name="[ID] Cinemax id 8k" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cinemax_asia.png" group-title="INDONESIA PREMIUM",[ID] Cinemax id 8k
-http://iptv12k.com:35461/654321/123456/2114
-#EXTINF:-1 tvg-id="" tvg-name="[ID] Crime & Investigation id 8k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Crime_and_Investigation_logo.png" group-title="INDONESIA PREMIUM",[ID] Crime & Investigation id 8k
-http://iptv12k.com:35461/654321/123456/2111
-#EXTINF:-1 tvg-id="" tvg-name="[ID] Lifetime id 8k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Lifetime_logo17.svg/1200px-Lifetime_logo17.svg.png" group-title="INDONESIA PREMIUM",[ID] Lifetime id 8k
-http://iptv12k.com:35461/654321/123456/2110
-#EXTINF:-1 tvg-id="" tvg-name="[ID] FMN id 8k moji ajwa-tv" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fmn_id.png" group-title="INDONESIA PREMIUM",[ID] FMN id 8k moji ajwa-tv
-http://iptv12k.com:35461/654321/123456/2105
-#EXTINF:-1 tvg-id="" tvg-name="[ID] Jiangsu TV江苏卫视 id 8k" tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/jiangsu_tv.png" group-title="INDONESIA PREMIUM",[ID] Jiangsu TV江苏卫视 id 8k
-http://iptv12k.com:35461/654321/123456/2104
-#EXTINF:-1 tvg-id="" tvg-name="[ID] Xing Kong TV星空卫视 id 8k" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_xing_kong_hk.png" group-title="INDONESIA PREMIUM",[ID] Xing Kong TV星空卫视 id 8k
-http://iptv12k.com:35461/654321/123456/2101
-#EXTINF:-1 tvg-id="Animax.id" tvg-name="[ID] Animax id 8k" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/animax_asia.png" group-title="INDONESIA PREMIUM",[ID] Animax id 8k
-http://iptv12k.com:35461/654321/123456/2099
-#EXTINF:-1 tvg-id="" tvg-name="[ID] Aniplus id 8k" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/media-upload/1495076748_logo-aniplus-png.png" group-title="INDONESIA PREMIUM",[ID] Aniplus id 8k
-http://iptv12k.com:35461/654321/123456/2098
-#EXTINF:-1 tvg-id="" tvg-name="[ID] Boomerang id 8k" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/boomerang_global.png" group-title="INDONESIA PREMIUM",[ID] Boomerang id 8k
-http://iptv12k.com:35461/654321/123456/2097
-#EXTINF:-1 tvg-id="" tvg-name="[ID] Cartoon Network id 8k" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cartoon_network_global.png" group-title="INDONESIA PREMIUM",[ID] Cartoon Network id 8k
-http://iptv12k.com:35461/654321/123456/2094
-#EXTINF:-1 tvg-id="" tvg-name="[ID] Cbeebies id 8k" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bbc_cbeebies_uk.png" group-title="INDONESIA PREMIUM",[ID] Cbeebies id 8k
-http://iptv12k.com:35461/654321/123456/2093
-#EXTINF:-1 tvg-id="" tvg-name="[ID] Disney Junior id 8k" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/disney_junior_us.png" group-title="INDONESIA PREMIUM",[ID] Disney Junior id 8k
-http://iptv12k.com:35461/654321/123456/2092
-#EXTINF:-1 tvg-id="" tvg-name="[ID] Disney Channel id 8k" tvg-logo="https://static0.srcdn.com/wordpress/wp-content/uploads/2019/05/disney-channel-logo.jpg" group-title="INDONESIA PREMIUM",[ID] Disney Channel id 8k
-http://iptv12k.com:35461/654321/123456/2090
-#EXTINF:-1 tvg-id="" tvg-name="Nick Jr. id 8k" tvg-logo="https://logowik.com/content/uploads/images/nick-jr9053.jpg" group-title="INDONESIA PREMIUM",Nick Jr. id 8k
-http://iptv12k.com:35461/654321/123456/2088
-#EXTINF:-1 tvg-id="" tvg-name="Muslim TV" tvg-logo="" group-title="INDONESIA PREMIUM",Muslim TV
-http://iptv12k.com:35461/654321/123456/2087
-#EXTINF:-1 tvg-id="" tvg-name="Tawaf TV id 8k" tvg-logo="" group-title="INDONESIA PREMIUM",Tawaf TV id 8k
-http://iptv12k.com:35461/654321/123456/2086
-#EXTINF:-1 tvg-id="" tvg-name="Music TV id 8k" tvg-logo="" group-title="INDONESIA PREMIUM",Music TV id 8k
-http://iptv12k.com:35461/654321/123456/2081
-#EXTINF:-1 tvg-id="" tvg-name="FX id 8k" tvg-logo="" group-title="INDONESIA PREMIUM",FX id 8k
-http://iptv12k.com:35461/654321/123456/2080
-#EXTINF:-1 tvg-id="" tvg-name="[ID] Miao Mi id 8k" tvg-logo="https://www.pinclipart.com/picdir/middle/335-3359395_miao-mi-miao-mi-channel-clipart.png" group-title="INDONESIA PREMIUM",[ID] Miao Mi id 8k
-http://iptv12k.com:35461/654321/123456/2074
-#EXTINF:-1 tvg-id="" tvg-name="[ID] Nickelodeon id 8k" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nickelodeon_us.png" group-title="INDONESIA PREMIUM",[ID] Nickelodeon id 8k
-http://iptv12k.com:35461/654321/123456/2072
-#EXTINF:-1 tvg-id="" tvg-name="[ID] Smithsonian Channel id 8k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Smithsonian_Channel.png" group-title="INDONESIA PREMIUM",[ID] Smithsonian Channel id 8k
-http://iptv12k.com:35461/654321/123456/2070
-#EXTINF:-1 tvg-id="" tvg-name="[ID] Love Nature 4K id 8k" tvg-logo="https://www.thewebbureau.com/media/1347/love-nature-3.png" group-title="INDONESIA PREMIUM",[ID] Love Nature 4K id 8k
-http://iptv12k.com:35461/654321/123456/2069
-#EXTINF:-1 tvg-id="" tvg-name="[ID] NatGeo Wild id 8k indo" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/national-geographic-wild-us.png" group-title="INDONESIA PREMIUM",[ID] NatGeo Wild id 8k indo
-http://iptv12k.com:35461/654321/123456/2067
-#EXTINF:-1 tvg-id="NatGeo.id" tvg-name="[ID] NatGeo id 8k   National Geographic" tvg-logo="https://logowik.com/content/uploads/images/300_national_geographic.jpg" group-title="INDONESIA PREMIUM",[ID] NatGeo id 8k   National Geographic
-http://iptv12k.com:35461/654321/123456/2066
-#EXTINF:-1 tvg-id="AnimalPlanet.id" tvg-name="[ID] Animal Planet id 8k" tvg-logo="https://d3dh6of9cnaq4t.cloudfront.net/Pictures/1024x536/7/3/5/6735_animalplanetnewlogo2018_906859.jpg" group-title="INDONESIA PREMIUM",[ID] Animal Planet id 8k
-http://iptv12k.com:35461/654321/123456/2064
-#EXTINF:-1 tvg-id="" tvg-name="[ID] Ochannel  Discovery Asia id 8k indo" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery_asia_us.png" group-title="INDONESIA PREMIUM",[ID] Ochannel  Discovery Asia id 8k indo
-http://iptv12k.com:35461/654321/123456/2063
-#EXTINF:-1 tvg-id="BBCEarth.id" tvg-name="[ID] BBC Earth id 8k" tvg-logo="https://digiturkpaketler.com/img/kanallar/kanallar2/bbc-earth-hd-buyuk.png" group-title="INDONESIA PREMIUM",[ID] BBC Earth id 8k
-http://iptv12k.com:35461/654321/123456/2062
-#EXTINF:-1 tvg-id="" tvg-name="[ID] BBC Lifestyle id 8k" tvg-logo="https://cms.bbcasia.com/sites/default/files/2021-05/Lifestyle.jpg" group-title="INDONESIA PREMIUM",[ID] BBC Lifestyle id 8k
-http://iptv12k.com:35461/654321/123456/2061
-#EXTINF:-1 tvg-id="" tvg-name="[ID] HGTV id 8k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png" group-title="INDONESIA PREMIUM",[ID] HGTV id 8k
-http://iptv12k.com:35461/654321/123456/2059
-#EXTINF:-1 tvg-id="FoodNetwork.my" tvg-name="[ID] Asia Food Network id 8k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="INDONESIA PREMIUM",[ID] Asia Food Network id 8k
-http://iptv12k.com:35461/654321/123456/2058
-#EXTINF:-1 tvg-id="TLC.id" tvg-name="[ID] TLC id 8k" tvg-logo="https://logos-download.com/wp-content/uploads/2016/12/TLC_logo_logotype.png" group-title="INDONESIA PREMIUM",[ID] TLC id 8k
-http://iptv12k.com:35461/654321/123456/2057
-#EXTINF:-1 tvg-id="" tvg-name="[ID] FashionTV id 8k" tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/fashion-tv-logo-png-1.png" group-title="INDONESIA PREMIUM",[ID] FashionTV id 8k
-http://iptv12k.com:35461/654321/123456/2055
-#EXTINF:-1 tvg-id="" tvg-name="[ID] Blue Ant Entertainment id 8k Citra Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Blue_ant_entertainment_logo.png" group-title="INDONESIA PREMIUM",[ID] Blue Ant Entertainment id 8k Citra Entertainment
-http://iptv12k.com:35461/654321/123456/2053
-#EXTINF:-1 tvg-id="" tvg-name="[ID] Blue Ant Extreme id 8k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Blue_ant_extreme_logo.png" group-title="INDONESIA PREMIUM",[ID] Blue Ant Extreme id 8k
-http://iptv12k.com:35461/654321/123456/2052
-#EXTINF:-1 tvg-id="" tvg-name="[ID] MTV Live id 8k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/MTV_Live_HD_2017_logo.svg/1200px-MTV_Live_HD_2017_logo.svg.png" group-title="INDONESIA PREMIUM",[ID] MTV Live id 8k
-http://iptv12k.com:35461/654321/123456/2042
-#EXTINF:-1 tvg-id="" tvg-name="[ID] TVMu id 8k" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv_mu_id.png" group-title="INDONESIA PREMIUM",[ID] TVMu id 8k
-http://iptv12k.com:35461/654321/123456/2039
-#EXTINF:-1 tvg-id="" tvg-name="[ID] Makkah TV id 8k" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/makkal_tv.png" group-title="INDONESIA PREMIUM",[ID] Makkah TV id 8k
-http://iptv12k.com:35461/654321/123456/2037
-
-
-
-
-#####################################
+###############################
 #############  FIRSTMEDIA  ##############
-#####################################
+####################################
 
 #EXTINF:-1 group-title="FIRSTMEDIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWU_NbuJa40h-W8kJNpTnYjhn0MFJ_Z_xqdFIMOwzOEiLfHn1TM9jwNob0&s=10",INDOSIAR HD
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -4950,5 +3874,5 @@ http://38.47.189.134:1234/stream/astro/astrorania/master.m3u8?u=hometv&p=23661eb
 http://38.47.189.134:1234/stream/astro/astroceria/master.m3u8?u=hometv&p=23661ebec0d785b2f26aae81a86c556db678fb85bdb9ea2622297472ebaaa43d
 ebaaa43d
 
-a43d
+
 
