@@ -1,9 +1,9 @@
 
 ========= NASIONAL TV--=====
-#EXTINF:-1 group-title="test" group-logo="https://www.visionplus.id/images/repository/954/49954-SNAPSHOT-m.png" tvg-id="INews.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjM6WQygJnxBDPiTnWaahYF1bJfck9EPLieKo8izWTaWe9rT4&s",test
-http://yoi.tvking.xyz:8080/live/Azman7/3890096/5127.ts?token=ShNcU0IKFAIVXQYPXwkHAggFAgYGUFFTUAUBVVBSW1VXVAcGAFFVWlNHGhVKRRNXUQtvWVcTCAJVBAcfRxARU0NuXVYTWBQLAFEOARsdQ0ZZC1USCQAFBFMAAwRSV1EaE0FdVhNYFAkCUQ4BGx1DV0gSVUJdUF5oAFNGWgYAQAxfRFheHUBZVmgBU1pYXwUQCkQAEh8TW0QUFAoRNTFMFmJEWVBUEBZ8VhFXF3BfBV1eA0NZUhMeFQZfREEEEQcUCxMGCgdQFBQVBllCV0UTSxJcEnl3Ex4VAU5EVgsWC1lfEw4QRREUFBUMRWhLVBJGQgNRXVZDEA1GBhIfRwgDTm5SW1xfB1VMXgpYRBsLQwMSShJdXF9bQwtEb0MMAUAMEwAEAwJaFEU=
+#EXTINF:-1 group-title="test" group-logo="https://www.visionplus.id/images/repository/954/49954-SNAPSHOT-m.png" tvg-id="INews.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjM6WQygJnxBDPiTnWaahYF1bJfck9EPLieKo8izWTaWe9rT4&s",ORANGE SPORT
+https://www.dropbox.com/scl/fi/0bx2veqkwmlk35n3srxqx/SMPTE-Television-Color-Test-Calibration-Bars-and-1Khz-Sine-Wave-For-1-Hour-720P_HD.mp4?rlkey=9j11pdy2vstxrjs0z1r3mzt7o&st=s1mx2hfl&dl=1
 
-#EXTINF:-1 tvg-id="dummy" tvg-logo="https://i.ytimg.com/vi/LYf2Ky2q3Xc/maxresdefault.jpg" group-title="NASIONAL TV",INDO-LIGA 1
+#EXTINF:-1 tvg-id="dummy" tvg-logo="https://i.ytimg.com/vi/LYf2Ky2q3Xc/maxresdefault.jpg" group-title="test",LIGA 1
 #https://perfecttv.net:443/Perfecttv/Perfecttv/1604
 https://av-cdn.rakuda.online:8443/memfs/fddea167-9689-4113-8e40-64d756d8e9be.m3u8
 
