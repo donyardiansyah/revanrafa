@@ -3,7 +3,6 @@
 #EXTINF:-1 group-title="test" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjM6WQygJnxBDPiTnWaahYF1bJfck9EPLieKo8izWTaWe9rT4&s" tvg-id="INews.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/640px-GTV_%282017%29.svg.png",test
 http://yoi.tvking.xyz:8080/live/Azman7/3890096/5127.ts?token=ShNcU0IKFAIVXQYPXwkHAggFAgYGUFFTUAUBVVBSW1VXVAcGAFFVWlNHGhVKRRNXUQtvWVcTCAJVBAcfRxARU0NuXVYTWBQLAFEOARsdQ0ZZC1USCQAFBFMAAwRSV1EaE0FdVhNYFAkCUQ4BGx1DV0gSVUJdUF5oAFNGWgYAQAxfRFheHUBZVmgBU1pYXwUQCkQAEh8TW0QUFAoRNTFMFmJEWVBUEBZ8VhFXF3BfBV1eA0NZUhMeFQZfREEEEQcUCxMGCgdQFBQVBllCV0UTSxJcEnl3Ex4VAU5EVgsWC1lfEw4QRREUFBUMRWhLVBJGQgNRXVZDEA1GBhIfRwgDTm5SW1xfB1VMXgpYRBsLQwMSShJdXF9bQwtEb0MMAUAMEwAEAwJaFEU=
 
-
 #EXTINF:-1 tvg-id="dummy" tvg-logo="https://i.ytimg.com/vi/LYf2Ky2q3Xc/maxresdefault.jpg" group-title="NASIONAL TV",INDO-LIGA 1
 #https://perfecttv.net:443/Perfecttv/Perfecttv/1604
 https://av-cdn.rakuda.online:8443/memfs/fddea167-9689-4113-8e40-64d756d8e9be.m3u8
@@ -47,8 +46,6 @@ https://perfecttv.net:443/Perfecttv/Perfecttv/1574
 #EXTINF:-1 group-title="NASIONAL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/440px-Moji_blue.svg.png", MOJI TV D*
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="MOJI TV " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/440px-Moji_blue.svg.png" group-title="NASIONAL TV",MOJI TV 
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=video/mp2t
