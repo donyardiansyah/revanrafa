@@ -1,5 +1,7 @@
 
 ========= NASIONAL TV--=====
+#EXTINF:-1 group-title="test" group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png" tvg-id="INews.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/640px-GTV_%282017%29.svg.png",test
+http://yoi.tvking.xyz:8080/live/Azman7/3890096/5127.ts?token=ShNcU0IKFAIVXQYPXwkHAggFAgYGUFFTUAUBVVBSW1VXVAcGAFFVWlNHGhVKRRNXUQtvWVcTCAJVBAcfRxARU0NuXVYTWBQLAFEOARsdQ0ZZC1USCQAFBFMAAwRSV1EaE0FdVhNYFAkCUQ4BGx1DV0gSVUJdUF5oAFNGWgYAQAxfRFheHUBZVmgBU1pYXwUQCkQAEh8TW0QUFAoRNTFMFmJEWVBUEBZ8VhFXF3BfBV1eA0NZUhMeFQZfREEEEQcUCxMGCgdQFBQVBllCV0UTSxJcEnl3Ex4VAU5EVgsWC1lfEw4QRREUFBUMRWhLVBJGQgNRXVZDEA1GBhIfRwgDTm5SW1xfB1VMXgpYRBsLQwMSShJdXF9bQwtEb0MMAUAMEwAEAwJaFEU=
 
 
 #EXTINF:-1 tvg-id="dummy" tvg-logo="https://i.ytimg.com/vi/LYf2Ky2q3Xc/maxresdefault.jpg" group-title="NASIONAL TV",INDO-LIGA 1
@@ -172,7 +174,6 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mp
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/INews.png/1200px-INews.png" group-title="NASIONAL TV",INEWS TV(V+)
 https://cempedak-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
-#EXTINF:-1 group-title="NASIONAL TV" group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png" tvg-id="INews.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/INews.png/1200px-INews.png",INEWS H
 
 #EXTINF:-1 group-title="NASIONAL TV" tvg-id="JTV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium4.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/JTV_%28Indonesian_TV_channel%29_2022.svg/1200px-JTV_%28Indonesian_TV_channel%29_2022.svg.png",JTV
 https://63b2dc7196c38.streamlock.net:1937/ch2/myStream/playlist.m3u8
