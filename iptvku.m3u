@@ -1,20 +1,16 @@
 
 ========= NASIONAL TV--=====
 #EXTINF:-1 group-title="test" group-logo="https://www.visionplus.id/images/repository/954/49954-SNAPSHOT-m.png" tvg-id="INews.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjM6WQygJnxBDPiTnWaahYF1bJfck9EPLieKo8izWTaWe9rT4&s",ORANGE SPORT
-http://tv.kudigital.pw:8080/live/28122024KM/28122024/27.m3u8
+
 
 #EXTINF:-1 tvg-id="dummy" tvg-logo="https://i.ytimg.com/vi/LYf2Ky2q3Xc/maxresdefault.jpg" group-title="test",LIGA 1
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/LYf2Ky2q3Xc/maxresdefault.jpg" group-title="NASIONAL TV", INDO king
-#KODIPROP:=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-#http://yoi.tvking.xyz:8080/live/Azman7/3890096/5117.ts?token=ShNcU0IKFAIVUVcCCFMDV1ZWBVMKAQoHVFBWVVNdUgJXAgFTAgAED1ZHGhVKRRNXUQtvWVcTCAJVBwcfRxARU0NuXVYTWBQLAFEOARsdQ0ZZC1USCQAFBFMDAANWVlEaE0FdVhNYFAoHVwYDGx1DV0gSVUJdUF5oAFNGWgYAQAxfRFheHUBZVmgBU1pYXwUQCkQAEh8TW0QUFAoRNTFMFmJEWVBUEBZ8VhFXF3BfBV1eA0NZUhMeFQZfREEEEQcUCxMHAQFQFBQVBllCV0UTSxJcEnl3Ex4VAU5EVgsWC1lfEw4QRREUFBUMRWhLVBJGQgNRXVZDEA1GBhIfRwgDTm5SW1xfB1VMXgpYRBsLQwMSShJdXF9bQwtEb0MMAUAMEwABAghTFEU=
 
 #EXTINF:-1 tvg-id="" tvg-name="PROLIGA" tvg-logo="https://thumbor.prod.vidiocdn.com/WgV08OmwI9p1qd7IJTni1t9uxoo=/640x360/filters:quality(70)/vidio-web-prod-video/uploads/video/image/8156027/press-conference-proliga-2024-c0be19.jpg" group-title="NASIONAL TV",MOJI PRO
-https://av-cdn.rakuda.online:8443/memfs/8e5f0af9-6086-4cdb-b3e3-4a111bdb9dd2.m3u8
+#https://av-cdn.rakuda.online:8443/memfs/8e5f0af9-6086-4cdb-b3e3-4a111bdb9dd2.m3u8
+http://tv.kudigital.pw:8080/live/28122024KM/28122024/30.m3u8
 
 #EXTINF:-1 group-title="NASIONAL TV" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d7/Channel_Jowo.png",JOWO CHANEL
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
@@ -28,8 +24,8 @@ http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
 #EXTINF:-1 tvg-id="Indosiar" tvg-name="INDOSIAR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjGhP9BxyggeKaEAHJITGr-fcFFWjQxC5LCj4NGR9hDReTvnY&s" group-title="NASIONAL TV",INDOSIAR 2
 #http://tvking.xyz:8080/live/wanz2022/asdf2022/5117.ts
-https://av-cdn.rakuda.online:8443/memfs/fddea167-9689-4113-8e40-64d756d8e9be.m3u8
-#https://perfecttv.net:443/Perfecttv/Perfecttv/1604
+#https://av-cdn.rakuda.online:8443/memfs/fddea167-9689-4113-8e40-64d756d8e9be.m3u8
+http://tv.kudigital.pw:8080/live/28122024KM/28122024/27.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/640px-Indosiar_2015.svg.png" group-title="NASIONAL TV", INDOSIAR2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
