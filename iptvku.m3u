@@ -23,6 +23,9 @@ http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 #https://av-cdn.rakuda.online:8443/memfs/fddea167-9689-4113-8e40-64d756d8e9be.m3u8
 http://tv.kudigital.pw:8080/live/28122024KM/28122024/27.m3u8
 
+#EXTINF:-1 tvg-id="dummy" tvg-logo="https://perfecttv.net/logo/indosiar.png" group-title="NASIONAL TV",8 Indosiar
+https://perfecttv.net:443/Perfecttv/Perfecttv/1604
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/640px-Indosiar_2015.svg.png" group-title="NASIONAL TV", INDOSIAR2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -151,6 +154,9 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd|Refe
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/640px-GTV_%282017%29.svg.png" group-title="NASIONAL TV",GTV+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
+
+#EXTINF:-1 tvg-id="" tvg-name="GTV" tvg-logo="https://perfecttv.net/logo/gtv.png" group-title="NASIONAL TV",GTV
+https://perfecttv.net:443/Perfecttv/Perfecttv/1577
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/640px-GTV_%282017%29.svg.png" group-title="NASIONAL TV", Gtv
