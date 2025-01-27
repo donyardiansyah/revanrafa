@@ -1,7 +1,7 @@
 
 ========= NASIONAL TV--=====
 #EXTINF:-1 group-title="test" group-logo="https://www.visionplus.id/images/repository/954/49954-SNAPSHOT-m.png" tvg-id="INews.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjM6WQygJnxBDPiTnWaahYF1bJfck9EPLieKo8izWTaWe9rT4&s",ORANGE SPORT
-http://tvking.xyz:8080/wanz2022/asdf2022/5117.ts
+http://tvking.xyz:8080/live/Azman7/3890096/5117.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="PROLIGA" tvg-logo="https://thumbor.prod.vidiocdn.com/WgV08OmwI9p1qd7IJTni1t9uxoo=/640x360/filters:quality(70)/vidio-web-prod-video/uploads/video/image/8156027/press-conference-proliga-2024-c0be19.jpg" group-title="NASIONAL TV",MOJI PRO
 #https://av-cdn.rakuda.online:8443/memfs/8e5f0af9-6086-4cdb-b3e3-4a111bdb9dd2.m3u8
@@ -156,7 +156,6 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 #EXTINF:-1 tvg-id="" tvg-name="GTV" tvg-logo="https://perfecttv.net/logo/gtv.png" group-title="NASIONAL TV",GTV
 https://perfecttv.net:443/Perfecttv/Perfecttv/1577
 
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/640px-GTV_%282017%29.svg.png" group-title="NASIONAL TV", Gtv
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -174,7 +173,6 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mp
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/INews.png/1200px-INews.png" group-title="NASIONAL TV",INEWS TV(V+)
 https://cempedak-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
-
 
 #EXTINF:-1 group-title="NASIONAL TV" tvg-id="JTV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium4.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/JTV_%28Indonesian_TV_channel%29_2022.svg/1200px-JTV_%28Indonesian_TV_channel%29_2022.svg.png",JTV
 https://63b2dc7196c38.streamlock.net:1937/ch2/myStream/playlist.m3u8
@@ -219,7 +217,6 @@ https://streaming.indihometv.com/atm/DASH/jtv/manifest.mpd
 
 #EXTINF:-1 group-title="NASIONAL TV " group-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/16/CNBC_Indonesia_logo.svg/1024px-CNBC_Indonesia_logo.svg.png?20231118105655" tvg-id="CNBCAsia.id"  tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/16/CNBC_Indonesia_logo.svg/1024px-CNBC_Indonesia_logo.svg.png?20231118105655",CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
-
 
 ========= BRI LIGA 1 =================
 
