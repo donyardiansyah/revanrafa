@@ -27,9 +27,9 @@ http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
 #EXTINF:-1 tvg-id="Indosiar" tvg-name="INDOSIAR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjGhP9BxyggeKaEAHJITGr-fcFFWjQxC5LCj4NGR9hDReTvnY&s" group-title="NASIONAL TV",INDOSIAR 2
 #http://tvking.xyz:8080/live/wanz2022/asdf2022/5117.ts
-#https://av-cdn.rakuda.online:8443/memfs/fddea167-9689-4113-8e40-64d756d8e9be.m3u8
-#http://tvking.xyz:8080/live/Azman7/3890096/5117.ts
-https://12a001a90a8c45927f7710a6ee02e8e6.v.smtcdns.net/play1nm.hnyongshun.cn/live/ballbar_18700.m3u8
+https://av-cdn.rakuda.online:8443/memfs/13eadf5e-2197-43fd-8327-9f15c92279b2.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/640px-Indosiar_2015.svg.png" group-title="NASIONAL TV", INDOSIAR2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
