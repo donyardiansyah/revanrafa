@@ -9,7 +9,6 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
 #http://tvking.xyz:8080/live/Azman7/3890096/5117.ts
-https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/idwthsxb3lapahmezjbd24kbpxctsgkz0wpo/playlist.m3u8?hdnts=st=1738667784~exp=1738700194~acl=*/idwthsxb3lapahmezjbd24kbpxctsgkz0wpo/*~hmac=7796030a314e043febb42cfc682f0ef3da57ba13c83fc9c31e16ea13a9cca317
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/LYf2Ky2q3Xc/maxresdefault.jpg" group-title="NASIONAL TV", LIVE 2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -21,7 +20,7 @@ https://f7ccf7fc.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 #EXTINF:-1 tvg-id="" tvg-name="PROLIGA" tvg-logo="https://thumbor.prod.vidiocdn.com/WgV08OmwI9p1qd7IJTni1t9uxoo=/640x360/filters:quality(70)/vidio-web-prod-video/uploads/video/image/8156027/press-conference-proliga-2024-c0be19.jpg" group-title="NASIONAL TV",MOJI PRO
 #https://av-cdn.rakuda.online:8443/memfs/8e5f0af9-6086-4cdb-b3e3-4a111bdb9dd2.m3u8
 #https://mantul.biz.id:443/live/inetwork/gayanet12/8251.ts
-https://perfecttv.net/live/Perfecttv/Perfecttv/1604.ts
+https://perfecttv.net/Perfecttv/Perfecttv/1604
 
 #EXTINF:-1 group-title="NASIONAL TV" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d7/Channel_Jowo.png",JOWO CHANEL
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
