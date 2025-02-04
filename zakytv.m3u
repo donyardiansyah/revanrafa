@@ -10,6 +10,12 @@
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
 #http://tvking.xyz:8080/live/Azman7/3890096/5117.ts
 https://wowowoiy.com/live/v1/5vYSl7GP9nainI63tns8r3TDPx0biG9W3cHhOvVAGowI1K0afQU5Jg-A-Xn206q8/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/LYf2Ky2q3Xc/maxresdefault.jpg" group-title="NASIONAL TV", LIVE 2
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
+
 https://wowowoiy.com/live/v1/1HuIhI1l1pecLJ7OyBLd+DwB-TLKeBjm4-MNL+32kVjxNzp9Vv99ruBiA5DP8kW3/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="PROLIGA" tvg-logo="https://thumbor.prod.vidiocdn.com/WgV08OmwI9p1qd7IJTni1t9uxoo=/640x360/filters:quality(70)/vidio-web-prod-video/uploads/video/image/8156027/press-conference-proliga-2024-c0be19.jpg" group-title="NASIONAL TV",MOJI PRO
