@@ -3,7 +3,7 @@
 
 ========= NASIONAL TV--=====
 #EXTINF:-1 tvg-id="" tvg-name="RCTI" tvg-logo="https://i.ytimg.com/vi/LYf2Ky2q3Xc/maxresdefault.jpg" group-title="NASIONAL TV",vision+
-https://av-ch-cdn.mncnow.id/live/eds/rcti-soccerchannel-hd/sa_hls/rcti-soccerchannel-hd.m3u8?c
+https://av-ch-cdn.mncnow.id/live/eds/rcti-soccerchannel-hd/sa_hls/rcti-soccerchannel-hd.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/LYf2Ky2q3Xc/maxresdefault.jpg" group-title="NASIONAL TV", LIVE
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -123,8 +123,6 @@ http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
 #KODIPROP:inputstream.adaptive.license_key=9ba3e153ef8956d6e2b0684fcf74f58f:dbc28cb5c6426080f984a5b6d436bb30
 https://dsgtq5sngxkde.cloudfront.net/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd|Referer=https://www.visionplus.id/&user-agent=Android
 
-#EXTINF:-1 tvg-id="" tvg-name="RCTI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMgelskN9ulvtQuJCjh3F95FUbyN3BJ_CnegPAb4Qc8dJ6o_K9&s" group-title="NASIONAL TV",RCTI
-https://av-ch-cdn.mncnow.id/live/eds/rcti-soccerchannel-hd/sa_hls/rcti-soccerchannel-hd.m3u8?c
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
