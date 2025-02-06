@@ -3,22 +3,22 @@
 
 ========= NASIONAL TV--=====
 #EXTINF:-1 tvg-id="" tvg-name="RCTI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOzd170sFeWhD4fl7Whtw4WOxMPE-P4yHrM6eeK1phbB3JAouk&s" group-title="NASIONAL TV",live spot
-https://12a001a90a8c45927f7710a6ee02e8e6.v.smtcdns.net/play1nm.hnyongshun.cn/live/ballbar_20150.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/LYf2Ky2q3Xc/maxresdefault.jpg" group-title="NASIONAL TV", LIVE
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-https://12a001a90a8c45927f7710a6ee02e8e6.v.smtcdns.net/play1nm.hnyongshun.cn/live/ballbar_20700.m3u8
-https://12a001a90a8c45927f7710a6ee02e8e6.v.smtcdns.net/play1nm.hnyongshun.cn/live/ballbar_20150.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/WgV08OmwI9p1qd7IJTni1t9uxoo=/640x360/filters:quality(70)/vidio-web-prod-video/uploads/video/image/8156027/press-conference-proliga-2024-c0be19.jpg" group-title="NASIONAL TV", LIVE 2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/l95jmjsslrphvkv7ezrc28ihr9gy7lyrcrzu/playlist.m3u8?hdnts=st=1738750155~exp=1738782565~acl=*/l95jmjsslrphvkv7ezrc28ihr9gy7lyrcrzu/*~hmac=34b6e4f26ba7bc105b134ab69ba7cc238a6f67e5aa6c9c5d125102aeb986c9c0
+https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0002/aiqqcrrhm6onslfviqdlfppexihsxr6znslp/playlist.m3u8?hdnts=st=1738836140~exp=1738868550~acl=*/aiqqcrrhm6onslfviqdlfppexihsxr6znslp/*~hmac=4b041ca58fe7a3ec604c2bc78fea3ee1278afb461e1913554d2e874af512490c
 
-#EXTINF:-1 tvg-id="" tvg-name="PROLIGA" tvg-logo="https://thumbor.prod.vidiocdn.com/WgV08OmwI9p1qd7IJTni1t9uxoo=/640x360/filters:quality(70)/vidio-web-prod-video/uploads/video/image/8156027/press-conference-proliga-2024-c0be19.jpg" group-title="NASIONAL TV",MOJI PRO
+#EXTINF:-1 tvg-id="" tvg-name="PROLIGA" tvg-logo="https://thumbor.prod.vidiocdn.com/WgV08OmwI9p1qd7IJTni1t9uxoo=/640x360/filters:quality(70)/vidio-web-prod-video/uploads/video/image/8156027/press-conference-proliga-2024-c0be19.jpg" group-title="NASIONAL TV",KOVO
 #https://mantul.biz.id:443/live/inetwork/gayanet12/8251.ts
 
 
