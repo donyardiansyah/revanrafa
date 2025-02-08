@@ -10,9 +10,6 @@
 https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/f5fo4p7itt5qkxru8lourkhgk4p97x1lowz3/playlist.m3u8?hdnts=st=1738997703~exp=1739030113~acl=*/f5fo4p7itt5qkxru8lourkhgk4p97x1lowz3/*~hmac=8a486e8c1f126a683be6105fb9660f5b3a34005c84e3d6b68d3cb685ac232c38
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/LYf2Ky2q3Xc/maxresdefault.jpg" group-title="NASIONAL TV", LIVE
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
 https://wowowoiy.com/live/v1/DNGoBHbFqxm93vcqgYO3ShOZT6svEZ6SGcq6ksqbPKdOlwg7+MpTMapdB0j3UifU/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtaTaPGtceb9h2v1z7ISs4XMUk4Al942kVZQXpysoZdVSslf5n&s" group-title="NASIONAL TV", LIVE 2
