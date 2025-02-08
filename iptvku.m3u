@@ -19,7 +19,7 @@ https://12a001a90a8c45927f7710a6ee02e8e6.v.smtcdns.net/play1nm.hnyongshun.cn/liv
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://viphomal.xyz:8080/live/VIP0192170801043953/c3448c66c871/34327.ts
+http://viphomal.xyz:8080/VIP0192170801043953/c3448c66c871/34327
 
 #EXTINF:-1 tvg-id="" tvg-name="PROLIGA" tvg-logo="https://thumbor.prod.vidiocdn.com/WgV08OmwI9p1qd7IJTni1t9uxoo=/640x360/filters:quality(70)/vidio-web-prod-video/uploads/video/image/8156027/press-conference-proliga-2024-c0be19.jpg" group-title="NASIONAL TV",MOJI PRO
 https://mantul.biz.id:443/live/inetwork/gayanet12/8251.ts
