@@ -7,7 +7,7 @@
 
 
 #EXTINF:-1 tvg-id="" tvg-name="RCTI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRInb3SawIO75jiVxqTG33glNabTTYw9wPkOMsh6TmRR97ygC8&s" group-title="NASIONAL TV",KOVO
-https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/f5fo4p7itt5qkxru8lourkhgk4p97x1lowz3/playlist.m3u8?hdnts=st=1738997703~exp=1739030113~acl=*/f5fo4p7itt5qkxru8lourkhgk4p97x1lowz3/*~hmac=8a486e8c1f126a683be6105fb9660f5b3a34005c84e3d6b68d3cb685ac232c38
+https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/lp0ssytrcnygbuuy4nsj49zqbjk8x07t6fxi/playlist.m3u8?hdnts=st=1739083501~exp=1739115911~acl=*/lp0ssytrcnygbuuy4nsj49zqbjk8x07t6fxi/*~hmac=b5beb9fcd67d326a860b3f3e03bb9f294871bf0fc7f5a168b8ab8918862c38d6
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/LYf2Ky2q3Xc/maxresdefault.jpg" group-title="NASIONAL TV", LIVE
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -19,7 +19,7 @@ https://wowowoiy.com/live/v1/DNGoBHbFqxm93vcqgYO3ShOZT6svEZ6SGcq6ksqbPKdOlwg7+Mp
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://viphomal.xyz:8080/VIP0192170801043953/c3448c66c871/34327
+http://viphomal.xyz:8080/VIP0192170801043953/c3448c66c87134327
 
 #EXTINF:-1 tvg-id="" tvg-name="PROLIGA" tvg-logo="https://thumbor.prod.vidiocdn.com/WgV08OmwI9p1qd7IJTni1t9uxoo=/640x360/filters:quality(70)/vidio-web-prod-video/uploads/video/image/8156027/press-conference-proliga-2024-c0be19.jpg" group-title="NASIONAL TV",MOJI PRO
 https://mantul.biz.id:443/live/inetwork/gayanet12/8251.ts
