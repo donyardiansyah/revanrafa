@@ -2,10 +2,10 @@
 
 
 ========= NASIONAL TV--=====
-#EXTINF:-1 tvg-id="" tvg-name="RCTI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOzd170sFeWhD4fl7Whtw4WOxMPE-P4yHrM6eeK1phbB3JAouk&s" group-title="NASIONAL TV",vision+
-
-#EXTINF:-1 tvg-id="" tvg-name="RCTI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRInb3SawIO75jiVxqTG33glNabTTYw9wPkOMsh6TmRR97ygC8&s" group-title="NASIONAL TV",KOVO
-
+#EXTINF:-1 tvg-id="" tvg-name="RCTI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOzd170sFeWhD4fl7Whtw4WOxMPE-P4yHrM6eeK1phbB3JAouk&s" group-title="NASIONAL TV",LIVE
+https://av-cdn.rakuda.online:8443/memfs/7662a040-fd13-411a-8b7b-d62e2d610bdd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RCTI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRInb3SawIO75jiVxqTG33glNabTTYw9wPkOMsh6TmRR97ygC8&s" group-title="NASIONAL TV",LIVE2
+https://av-cdn.rakuda.online:8443/memfs/14fbf51e-3ae6-455f-bc12-5b14ba9918ca.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/LYf2Ky2q3Xc/maxresdefault.jpg" group-title="NASIONAL TV", LIVE
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
