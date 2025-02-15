@@ -7,7 +7,6 @@ https://av-cdn.rakuda.online:8443/memfs/7662a040-fd13-411a-8b7b-d62e2d610bdd.m3u
 #EXTINF:-1 tvg-id="" tvg-name="RCTI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRInb3SawIO75jiVxqTG33glNabTTYw9wPkOMsh6TmRR97ygC8&s" group-title="NASIONAL TV",LIVE2
 https://av-cdn.rakuda.online:8443/memfs/14fbf51e-3ae6-455f-bc12-5b14ba9918ca.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRInb3SawIO75jiVxqTG33glNabTTYw9wPkOMsh6TmRR97ygC8&s" group-title="NASIONAL TV", KOVO
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -35,7 +34,6 @@ https://mantul.biz.id:443/live/inetwork/gayanet12/8251.ts
 #EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d7/Channel_Jowo.png" group-title="NASIONAL TV",Jowo Channel 
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c685910daca60191a29de97f443a/manifest.mpd
 
-
 #EXTINF:-1 tvg-id="Indosiar - [Channel 78].id" tvg-name="Indosiar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/640px-Indosiar_2015.svg.png" group-title="NASIONAL TV", INDOSIAR 
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -44,10 +42,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 #EXTINF:-1 tvg-id="Indosiar" tvg-name="INDOSIAR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjGhP9BxyggeKaEAHJITGr-fcFFWjQxC5LCj4NGR9hDReTvnY&s" group-title="NASIONAL TV",INDOSIAR 2
 #https://12a001a90a8c45927f7710a6ee02e8e6.v.smtcdns.net/play1nm.hnyongshun.cn/live/ballbar_37670.m3u8
 http://tvking.xyz:8080/live/Azman7/3890096/5117.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/640px-Indosiar_2015.svg.png" group-title="NASIONAL TV", INDOSIAR2
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
+
 
 #EXTINF:-1 tvg-id="sctv - [Channel 78].id" tvg-name="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/640px-SCTV_Logo.svg.png" group-title="NASIONAL TV", SCTV
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
