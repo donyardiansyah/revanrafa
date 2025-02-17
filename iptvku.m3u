@@ -3,19 +3,19 @@
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-https://wowowoiy.com/live/v1/AX8AG8sq-ncvoEykJ4BYve9WAnG8QW6ICa-lN44QGLIQxJwFLgqqBKAMNjCSe0f1/master.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/9/99/Logo_Terbaru_Liga_2_Indonesia.png/800px-Logo_Terbaru_Liga_2_Indonesia.png" group-title="NASIONAL TV", loga2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-#https://wowowoiy.com/live/v1/VpCOc5vOUQrDg6cn7sscZaecvIQsukhv-5+T7IKNWxkVGPwpsD5PiuJJvKPRv2Ol/master.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/9/99/Logo_Terbaru_Liga_2_Indonesia.png/800px-Logo_Terbaru_Liga_2_Indonesia.png" group-title="NASIONAL TV", liga 2°
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-https://wowowoiy.com/live/v1/EWTr79pGClNVjFAE-GXI2SlxpT4xXJ1F9hPnoi78sczbNvvJ4-hfu2z08ve+6tk5/master.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtaTaPGtceb9h2v1z7ISs4XMUk4Al942kVZQXpysoZdVSslf5n&s" group-title="NASIONAL TV", LIVE BRI
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -30,10 +30,10 @@ https://wowowoiy.com/live/v1/EWTr79pGClNVjFAE-GXI2SlxpT4xXJ1F9hPnoi78sczbNvvJ4-h
 
 
 #EXTINF:-1 tvg-id="" tvg-name="RCTI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOzd170sFeWhD4fl7Whtw4WOxMPE-P4yHrM6eeK1phbB3JAouk&s" group-title="NASIONAL TV",LIVE
-https://av-cdn.rakuda.online:8443/memfs/7662a040-fd13-411a-8b7b-d62e2d610bdd.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="RCTI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRInb3SawIO75jiVxqTG33glNabTTYw9wPkOMsh6TmRR97ygC8&s" group-title="NASIONAL TV",LIVE2
-https://av-cdn.rakuda.online:8443/memfs/14fbf51e-3ae6-455f-bc12-5b14ba9918ca.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRInb3SawIO75jiVxqTG33glNabTTYw9wPkOMsh6TmRR97ygC8&s" group-title="NASIONAL TV", KOVO
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
