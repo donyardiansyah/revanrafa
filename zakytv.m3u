@@ -3,15 +3,15 @@
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-https://wowowoiy.com/live/v1/fkULGkPguZTXaLOGbVKdbr8guxlTBlLJXFjyHPljysiuOl94xm2Z25HVyIapPkVf/master.m3u8
+https://wowowoiy.com/live/v1/LMuvcY65fhgICIdqqSzpBUupPq6SBK5Ndx5tmcoT5LCY16Anmfi0vpGiIlWBCawV/master.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtaTaPGtceb9h2v1z7ISs4XMUk4Al942kVZQXpysoZdVSslf5n&s" group-title="NASIONAL TV", LIVE BRI 2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-https://wowowoiy.com/live/v1/LlNY+Rt4RhGATwqWMtQ4wezL8MuxJC0q5YCMYE0AK6D6E0bJHck7GHKaoS7fER8u/master.m3u8
+#https://wowowoiy.com/live/v1/LlNY+Rt4RhGATwqWMtQ4wezL8MuxJC0q5YCMYE0AK6D6E0bJHck7GHKaoS7fER8u/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="RCTI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOzd170sFeWhD4fl7Whtw4WOxMPE-P4yHrM6eeK1phbB3JAouk&s" group-title="NASIONAL TV",LIVE
-https://av-cdn.rakuda.online:8443/memfs/7662a040-fd13-411a-8b7b-d62e2d610bdd.m3u8
+#https://av-cdn.rakuda.online:8443/memfs/7662a040-fd13-411a-8b7b-d62e2d610bdd.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="RCTI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRInb3SawIO75jiVxqTG33glNabTTYw9wPkOMsh6TmRR97ygC8&s" group-title="NASIONAL TV",LIVE2
 https://av-cdn.rakuda.online:8443/memfs/14fbf51e-3ae6-455f-bc12-5b14ba9918ca.m3u8
@@ -21,7 +21,7 @@ https://av-cdn.rakuda.online:8443/memfs/14fbf51e-3ae6-455f-bc12-5b14ba9918ca.m3u
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
 #http://viphomal.xyz:8080/VIP0192170801043953/c3448c66c87134327
-https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0002/7klmxvndg6vw6lclec9chxpktnve0u6ur35x/playlist.m3u8?hdnts=st=1739688795~exp=1739721205~acl=*/7klmxvndg6vw6lclec9chxpktnve0u6ur35x/*~hmac=f3975d9aa3b7ffee2759ff5ade2b81d9e816cefaec722a860951357a00bdc3bd
+#https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0002/7klmxvndg6vw6lclec9chxpktnve0u6ur35x/playlist.m3u8?hdnts=st=1739688795~exp=1739721205~acl=*/7klmxvndg6vw6lclec9chxpktnve0u6ur35x/*~hmac=f3975d9aa3b7ffee2759ff5ade2b81d9e816cefaec722a860951357a00bdc3bd
 
 #EXTINF:-1 tvg-id="" tvg-name="PROLIGA" tvg-logo="https://thumbor.prod.vidiocdn.com/WgV08OmwI9p1qd7IJTni1t9uxoo=/640x360/filters:quality(70)/vidio-web-prod-video/uploads/video/image/8156027/press-conference-proliga-2024-c0be19.jpg" group-title="NASIONAL TV",MOJI PRO
 https://mantul.biz.id:443/live/inetwork/gayanet12/8251.ts
