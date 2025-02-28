@@ -462,11 +462,6 @@ https://cempedak-live-cdn.mncnow.id/live/eds/BEIN05/sa_dash_vmx/BEIN05.mpd
 
 
 <=======SPORTS===========>
-#EXTINF:-1 tvg-logo="https://img.sportcorner.id/uploads/bb/38/Liga_Voli_Korea_Selatan_6332e3b8e3.jpg" group-title="Sports", MEN HD 
-https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0001/rjn9uthdyzjqiwgyns2ceuhggx2j3au1t5dh/hdntl=exp=1740509333~acl=*%2frjn9uthdyzjqiwgyns2ceuhggx2j3au1t5dh%2f*~data=hdntl~hmac=06122646faeab5b21e683169115dd132b8975adb3edeb4182de6a89acd2370a4/chunklist_720.stream.m3u8
-
-$EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT34Wn0rxPb2sNAMKUrXILM4zNxS3NOEl293A&s" group-title="Sports",WOMEN HD
-https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/9auuwlnu6hkcg5wlosqrpazqhkems0rrh5bh/hdntl=exp=1740509149~acl=*%2f9auuwlnu6hkcg5wlosqrpazqhkems0rrh5bh%2f*~data=hdntl~hmac=391e36f9c01d200b46daf43d393eab292a6733dc3cc3153304f7c854896e76fb/chunklist_720.stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.sbs.co.kr/medianet/favicon/sports_logo.png" group-title="Sports", SBS SPORTS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
