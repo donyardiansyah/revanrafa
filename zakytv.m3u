@@ -851,7 +851,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_v
 
 #EXTINF:-1 tvg-id="SAMURAI.th" tvg-name="SAMURAI" tvg-logo="https://www.lyngsat.com/logo/tv/aa/airtel_movies3.png" group-title="PREMIUM TV",SAMURAI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=40381&token=fb2e94da77630d22a5714ae79b923f1c&server=v2.catcast.tv
+#https://autopilot.catcast.tv/mobile.m3u8?channel_id=40381&token=fb2e94da77630d22a5714ae79b923f1c&server=v2.catcast.tv
 
 #EXTINF:-1 tvg-id="SAMURAI.th" tvg-name="SAMURAI" tvg-logo="https://statik.tempo.co/data/2023/12/06/id_1260965/1260965_720.jpg" group-title="PREMIUM TV",mgm
 https://www.dropbox.com/scl/fi/8ofout8vho3d6fj0k2rid/Misteri-Gunung-Merapi-I-Penghuni-Rumah-Tua-1989-Rumah-Film-Indonesia-Video-Dailymotion.mp4?rlkey=e4hpnc7ncxgm91jrqyv0h8nuu&st=9k04k634&dl=1
