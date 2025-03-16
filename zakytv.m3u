@@ -436,9 +436,9 @@ https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN05/sa_dash_vmx/BEIN05.mpd
 
 #EXTINF:-1 tvg-logo="https://image.sbs.co.kr/medianet/favicon/sports_logo.png" group-title="Sports", SBS SPORTS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0003/nclknqub5fsnkq7axuoe4vmc2ks8xpoqcwrw/playlist.m3u8?hdnts=st=1741859153~exp=1741891563~acl=*/nclknqub5fsnkq7axuoe4vmc2ks8xpoqcwrw/*~hmac=3704ea3fb0b729b73fec26d596ae95fb9e814f759da306de58c99aa7dab8efa2
-#EXTINF:-1 tvg-id="ONESPORTPLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/One_Sports_logo.svg/440px-One_Sports_logo.svg.png" group-title="Sports", One Sports HD
+https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0003/po7ikmmbctjx93frlq4bpco4bczmnju4u5zu/playlist.m3u8?hdnts=st=1742107897~exp=1742140307~acl=*/po7ikmmbctjx93frlq4bpco4bczmnju4u5zu/*~hmac=03beb24afaf30bf17959c4ea51d3600c892fdf7972b399389ee075a5ca5a82b9
 
+#EXTINF:-1 tvg-id="ONESPORTPLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/One_Sports_logo.svg/440px-One_Sports_logo.svg.png" group-title="Sports", One Sports HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=53c3bf2eba574f639aa21f2d4409ff11:3de28411cf08a64ea935b9578f6d0edd
