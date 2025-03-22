@@ -8,9 +8,6 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #http://tvking.xyz:8080/live/Azman7/3890096/5144.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="GTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjxrr5hTDKPaufhUZcQWM0vyJUj9cIvTY1xlaAcZW7sRSPdsb7EgFDwng&s=10" group-title="timnas",timnas 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#http://tvking.xyz:8080/live/Azman7/3890096/5127.ts
 
 #EXTINF:-1 tvg-id="Sportstars 2 HD - [Channel 422].id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjxrr5hTDKPaufhUZcQWM0vyJUj9cIvTY1xlaAcZW7sRSPdsb7EgFDwng&s=10" group-title="timnas ",timnas 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -27,7 +24,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
 #EXTINF:-1 tvg-id="Indosiar" tvg-name="INDOSIAR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjGhP9BxyggeKaEAHJITGr-fcFFWjQxC5LCj4NGR9hDReTvnY&s" group-title="NASIONAL TV",INDOSIAR 2
 #http://tvking.xyz:8080/live/Azman7/3890096/5117.ts
-https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
+https://warningfm.github.io/v3/live/str/id/575eeb9f08dc8db.m3u8
 
 #EXTINF:-1 tvg-id="sctv - [Channel 78].id" tvg-name="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/640px-SCTV_Logo.svg.png" group-title="NASIONAL TV", SCTV
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
@@ -259,7 +256,7 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6a8b65c83036329e7185b9cd8cbdee29:0eb2beb5633f8e35cafab45af3d21de0
-https://warningfm.github.io/v3/live/str/id/575eeb9f08dc8db.m3u8
+
 
 #EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://thumbor.prod.vidiocdn.com/aThN9BYQG4Y0_qtqym6rOwM7bNs=/filters:quality(70)/vidio-web-prod-category/uploads/category/image/59/bri-liga-1-2fbb85.png" group-title="NATIONAL SPORTS",LIVE 3 
 #EXTVLCOPT:http-referrer=https://m.vidio.com
@@ -272,7 +269,7 @@ https://sweet-night-1d1d.worst.workers.dev/?id=205&type=dash
 #EXTINF:-1 group-title="NATIONAL SPORTS" tvg-logo="https://thumbor.prod.vidiocdn.com/aThN9BYQG4Y0_qtqym6rOwM7bNs=/filters:quality(70)/vidio-web-prod-category/uploads/category/image/59/bri-liga-1-2fbb85.png", LIVE4
 #KODIPROP:inputstream.adaptive.license_type=6a8b65c83036329e7185b9cd8cbdee29:0eb2beb5633f8e35cafab45af3d21de0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0
-https://warningfm.github.io/v3/live/str/id/575eeb9f08dc8db.m3u8
+
 
 #EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://thumbor.prod.vidiocdn.com/WgV08OmwI9p1qd7IJTni1t9uxoo=/640x360/filters:quality(70)/vidio-web-prod-video/uploads/video/image/8156027/press-conference-proliga-2024-c0be19.jpg" group-title="NATIONAL SPORTS",MOJI PROLIGA
 #EXTVLCOPT:http-referrer=https://m.vidio.com
