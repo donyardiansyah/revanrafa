@@ -4,10 +4,6 @@
 #EXTINF:-1 tvg-id="" tvg-name="RCTI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjxrr5hTDKPaufhUZcQWM0vyJUj9cIvTY1xlaAcZW7sRSPdsb7EgFDwng&s=10" group-title="timnas",timnas1
 #http://83.142.30.171:8080/live/vip_xmmeq4rh/eg5qSZn3/2701.ts
 
-#EXTINF:-1 group-title="timnas" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjxrr5hTDKPaufhUZcQWM0vyJUj9cIvTY1xlaAcZW7sRSPdsb7EgFDwng&s=10",timnas 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-#http://tvking.xyz:8080/live/Azman7/3890096/5144.ts
-
 #EXTINF:-1 tvg-id="Sportstars 2 HD - [Channel 422].id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjxrr5hTDKPaufhUZcQWM0vyJUj9cIvTY1xlaAcZW7sRSPdsb7EgFDwng&s=10" group-title="timnas ",timnas 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
@@ -124,13 +120,8 @@ https://cempedak-cdn-fly.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 #EXTINF:-1 tvg-id="RCTI.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Logo_RCTI%2B.png" group-title="NASIONAL TV",RCTI+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 #https://rcti-cutv.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8
-
-#EXTINF:-1 group-title="NASIONAL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RCTI_logo_2015.svg/1200px-RCTI_logo_2015.svg.png",RCTI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-#http://tvking.xyz:8080/live/Azman7/3890096/5144.ts
-http://83.142.30.171:8080/live/vip_xmmeq4rh/eg5qSZn3/2701.ts
 
 #EXTINF:-1 tvg-id="MNCTV HD - [Channel 432].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/640px-MNCTV_logo_2015.svg.png" group-title="NASIONAL TV",MNC TV V+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
