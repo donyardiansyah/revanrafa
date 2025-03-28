@@ -5,7 +5,8 @@
 https://rcti-cutv.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="RCTI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjxrr5hTDKPaufhUZcQWM0vyJUj9cIvTY1xlaAcZW7sRSPdsb7EgFDwng&s=10" group-title="timnas",timnas2
-http://83.142.30.171:8080/live/vip_xmmeq4rh/eg5qSZn3/2701.ts
+#http://83.142.30.171:8080/live/vip_xmmeq4rh/eg5qSZn3/2701.ts
+https://www.dropbox.com/scl/fi/0bx2veqkwmlk35n3srxqx/SMPTE-Television-Color-Test-Calibration-Bars-and-1Khz-Sine-Wave-For-1-Hour-720P_HD.mp4?rlkey=9j11pdy2vstxrjs0z1r3mzt7o&dl=1
 
 #EXTINF:-1 tvg-id="Sportstars 2 HD - [Channel 422].id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjxrr5hTDKPaufhUZcQWM0vyJUj9cIvTY1xlaAcZW7sRSPdsb7EgFDwng&s=10" group-title="timnas ",timnas 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -22,7 +23,8 @@ http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
 #EXTINF:-1 tvg-id="Indosiar" tvg-name="INDOSIAR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjGhP9BxyggeKaEAHJITGr-fcFFWjQxC5LCj4NGR9hDReTvnY&s" group-title="NASIONAL TV",INDOSIAR DIGITAL
 #http://tvking.xyz:8080/live/Azman7/3890096/5117.ts
-http://83.142.30.171:8080/live/vip_xmmeq4rh/eg5qSZn3/2706.ts
+#http://83.142.30.171:8080/live/vip_xmmeq4rh/eg5qSZn3/2706.ts
+https://www.dropbox.com/scl/fi/0bx2veqkwmlk35n3srxqx/SMPTE-Television-Color-Test-Calibration-Bars-and-1Khz-Sine-Wave-For-1-Hour-720P_HD.mp4?rlkey=9j11pdy2vstxrjs0z1r3mzt7o&dl=1
 
 #EXTINF:-1 tvg-id="sctv - [Channel 78].id" tvg-name="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/640px-SCTV_Logo.svg.png" group-title="NASIONAL TV", SCTV
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
@@ -30,7 +32,8 @@ http://83.142.30.171:8080/live/vip_xmmeq4rh/eg5qSZn3/2706.ts
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SCTV" tvg-logo="https://perfecttv.net/logo/sctv.png" group-title="NASIONAL TV",SCTV DIGITAL
-http://83.142.30.171:8080/live/vip_xmmeq4rh/eg5qSZn3/2699.ts
+#http://83.142.30.171:8080/live/vip_xmmeq4rh/eg5qSZn3/2699.ts
+https://www.dropbox.com/scl/fi/0bx2veqkwmlk35n3srxqx/SMPTE-Television-Color-Test-Calibration-Bars-and-1Khz-Sine-Wave-For-1-Hour-720P_HD.mp4?rlkey=9j11pdy2vstxrjs0z1r3mzt7o&dl=1
 
 #EXTINF:-1 group-title="NASIONAL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/440px-Moji_blue.svg.png", MOJI TV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
@@ -142,7 +145,8 @@ https://cempedak-cdn-fly.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 #https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 
 #EXTINF:-1 tvg-id="" tvg-name="MNCTV" tvg-logo="https://perfecttv.net/logo/mnctv.png" group-title="NASIONAL TV",MNCTV
-http://83.142.30.171:8080/live/vip_xmmeq4rh/eg5qSZn3/2700.ts
+#http://83.142.30.171:8080/live/vip_xmmeq4rh/eg5qSZn3/2700.ts
+https://www.dropbox.com/scl/fi/0bx2veqkwmlk35n3srxqx/SMPTE-Television-Color-Test-Calibration-Bars-and-1Khz-Sine-Wave-For-1-Hour-720P_HD.mp4?rlkey=9j11pdy2vstxrjs0z1r3mzt7o&dl=1
 
 #EXTINF:-1 tvg-id="GTV HD - [Channel 431].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/640px-GTV_%282017%29.svg.png" group-title="NASIONAL TV",GTV v+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
