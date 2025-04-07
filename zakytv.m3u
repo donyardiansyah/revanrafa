@@ -1,9 +1,15 @@
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/aThN9BYQG4Y0_qtqym6rOwM7bNs=/filters:quality(70)/vidio-web-prod-category/uploads/category/image/59/bri-liga-1-2fbb85.png" group-title="test",test
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpmRH7-hi_LQG7HBTXjL_BsovX7TwNrrkigA&usqp=CAU" group-title="timnas",timnas1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6a8b65c83036329e7185b9cd8cbdee29:0eb2beb5633f8e35cafab45af3d21de0
 https://av-cdn.rakuda.online/memfs/111cc22c-a1d4-42fd-8f24-df9137c550a8.m3u8
 
+
+#EXTINF:-1 tvg-name="" group-title="timnas" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpmRH7-hi_LQG7HBTXjL_BsovX7TwNrrkigA&usqp=CAU", timnas2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5d5d9e0bb2cd4cd8954a894fd4377b6f:8c08b699ff6bff8e34ac518b334bafc2
+https://d1d2sbhidw0n3y.cloudfront.net/out/v1/00f8003079de4928bca50fe7c346b6ab/index.mpd
 
 #EXTINF:-1 group-title="timnas" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjxrr5hTDKPaufhUZcQWM0vyJUj9cIvTY1xlaAcZW7sRSPdsb7EgFDwng&s=10",timnas 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
