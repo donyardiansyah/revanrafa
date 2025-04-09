@@ -156,7 +156,7 @@ https://cempedak-cdn-fly.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 #EXTINF:-1 tvg-id="" tvg-name="MNCTV" tvg-logo="https://perfecttv.net/logo/mnctv.png" group-title="NASIONAL TV",MNCTV
 #http://83.142.30.171:8080/live/vip_xmmeq4rh/eg5qSZn3/2700.ts
 #https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dHIG9vZ6DBBWCXJknqq3AvJ
-#http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2700.ts
+http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2700.ts
 
 #EXTINF:-1 tvg-id="GTV HD - [Channel 431].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/640px-GTV_%282017%29.svg.png" group-title="NASIONAL TV",GTV v+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
@@ -172,7 +172,7 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 
 #EXTINF:-1 tvg-id="" tvg-name="GTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/640px-GTV_%282017%29.svg.png" group-title="NASIONAL TV",GTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dHnGOe5vSoeAmKlXiDbl8TA
+#https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dHnGOe5vSoeAmKlXiDbl8TA
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/640px-GTV_%282017%29.svg.png" group-title="NASIONAL TV", Gtv
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -480,9 +480,8 @@ https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN05/sa_dash_vmx/BEIN05.mpd
 
 #EXTINF:-1 tvg-logo="https://image.sbs.co.kr/medianet/favicon/sports_logo.png" group-title="Sports", SBS SPORTS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0003/nclknqub5fsnkq7axuoe4vmc2ks8xpoqcwrw/playlist.m3u8?hdnts=st=1741859153~exp=1741891563~acl=*/nclknqub5fsnkq7axuoe4vmc2ks8xpoqcwrw/*~hmac=3704ea3fb0b729b73fec26d596ae95fb9e814f759da306de58c99aa7dab8efa2
-#EXTINF:-1 tvg-id="ONESPORTPLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/One_Sports_logo.svg/440px-One_Sports_logo.svg.png" group-title="Sports", One Sports HD
 
+#EXTINF:-1 tvg-id="ONESPORTPLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/One_Sports_logo.svg/440px-One_Sports_logo.svg.png" group-title="Sports", One Sports HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=53c3bf2eba574f639aa21f2d4409ff11:3de28411cf08a64ea935b9578f6d0edd
