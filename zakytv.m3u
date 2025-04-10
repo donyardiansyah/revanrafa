@@ -9,7 +9,7 @@ https://av-cdn.rakuda.online/memfs/111cc22c-a1d4-42fd-8f24-df9137c550a8.m3u8
 
 #EXTINF:-1 xui-id="9507" tvg-id="" tvg-name="RCTI NS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0UXKVHyfASCaTrij6hufLrDvfF0_OIdeVnSMwp6WKWEjgV5xqzpORmao&s=10" group-title="test",GDS SPORT2
 #https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dFj0uwerKtEsbEL2ZFk10cB
-https://www.dropbox.com/scl/fi/zyoa6txoy09syyqvt62sb/SnapTik_App_7482016126029925637-HD.mp4?rlkey=zz4jktysr5bkuitry2r6nzgw0&st=ioqraxyq&dl=1
+http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2701.ts
 
 #EXTINF:-1 tvg-name="" group-title="test" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI2gYcj58UvJ7jKc7lvxJZp_8QUR5WAACYbVBdMvBwW7K3nOza0apMf0wd&s=10", VSPORT 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -25,7 +25,7 @@ https://d1d2sbhidw0n3y.cloudfront.net/out/v1/00f8003079de4928bca50fe7c346b6ab/in
 #EXTINF:-1 tvg-id="" tvg-name="emtek" tvg-logo="https://thumbor.prod.vidiocdn.com/aThN9BYQG4Y0_qtqym6rOwM7bNs=/filters:quality(70)/vidio-web-prod-category/uploads/category/image/59/bri-liga-1-2fbb85.png" group-title="test",EMTEK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dH_CCeaUiEtL579pxQQMpQP
-https://www.dropbox.com/scl/fi/zyoa6txoy09syyqvt62sb/SnapTik_App_7482016126029925637-HD.mp4?rlkey=zz4jktysr5bkuitry2r6nzgw0&st=ioqraxyq&dl=1
+http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2706.ts
 ========= NASIONAL TV--=====
 
 #EXTINF:-1 tvg-id="Indosiar - [Channel 78].id" tvg-name="Indosiar" tvg-logo="https://i.imgur.com/S5k3QDO.png" group-title="NASIONAL TV", INDOSIAR 
