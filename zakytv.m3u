@@ -3,9 +3,9 @@
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bewe.biz.id/odeo/derem.mpd?id=17624&cyev=1745586838.aa2b43cc4b9d5107db209d5686c28a3b44b05399f5b769843c22ff82a90e696a 
-#EXTINF:-1 group-title="LIVE NOW - BRI Liga 1" tvg-logo="https://thumbor.prod.vidiocdn.com/n7KjUpPKEg14nKpzeA9JrVXsTxk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4237719/bbffd2.jpg",PSM Makassar vs Bali United FC - BRI Liga 1 18:37 WIB 25-04-2025
-https://bewe.biz.id/odeo/iti.mpd?id=17624&cyev=1745586838.aa2b43cc4b9d5107db209d5686c28a3b44b05399f5b769843c22ff82a90e696a
+#KODIPROP:inputstream.adaptive.license_key=https://bewe.biz.id/odeo/derem.mpd?id=17623&cyev=1745591690.c8354ce379f172baaace94e0944b32b17643992585d39aceffe5c54d6c0cabe1 
+#EXTINF:-1 group-title="LIVE NOW " tvg-logo="https://thumbor.prod.vidiocdn.com/7mnQlxkiIh0MJGXqocqev8tT454=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4240273/0f4a1b.jpg", BRI Liga 1 
+https://bewe.biz.id/odeo/iti.mpd?id=17623&cyev=1745591776.7e2709038463aced0ed193e9266601671a9207ff123d04b5909952952bde497d
 
 ========= NASIONAL TV--=====
 
