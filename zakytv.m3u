@@ -1,5 +1,11 @@
 
-
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bewe.biz.id/odeo/derem.mpd?id=17624&cyev=1745586838.aa2b43cc4b9d5107db209d5686c28a3b44b05399f5b769843c22ff82a90e696a 
+#EXTINF:-1 group-title="LIVE NOW - BRI Liga 1" tvg-logo="https://thumbor.prod.vidiocdn.com/n7KjUpPKEg14nKpzeA9JrVXsTxk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4237719/bbffd2.jpg",PSM Makassar vs Bali United FC - BRI Liga 1 18:37 WIB 25-04-2025
+https://bewe.biz.id/odeo/iti.mpd?id=17624&cyev=1745586838.aa2b43cc4b9d5107db209d5686c28a3b44b05399f5b769843c22ff82a90e696a
 
 ========= NASIONAL TV--=====
 
