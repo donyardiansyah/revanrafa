@@ -15,32 +15,7 @@ https://bf.jabflive.com/live/322663_hd01.m3u8?txSecret=802297ae0f11401f766f39db5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6a8b65c83036329e7185b9cd8cbdee29:0eb2beb5633f8e35cafab45af3d21de0
 #https://av-cdn.rakuda.online/memfs/111cc22c-a1d4-42fd-8f24-df9137c550a8.m3u8
-
-#EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://iili.io/3Wa3UMu.md.png", 09:00 WIB Sudirman Cup
-#EXTVLCOPT:http-origin=https://watch.plex.tv
-#EXTVLCOPT:http-referrer=https://watch.plex.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-652875586425fdb1f32d2169/variant.m3u8?x-plex-token=zEQs46SW1KqFyNQHEywq&x-plex-advertising-identifier=&x-plex-client-identifier=cdc8fe67-8dcd-4a12-98ae-7fa2147da27d&x-plex-playback-id=p_4db8374d-8fcc-4aac-8d5b-5c88d451fb0f&x-plex-playback-session-id=&x-plex-session-id=&x-plex-device=Windows&x-plex-device-name=Plex+Mediaverse&x-plex-advertising-donottrack=0&x-plex-drm=&x-plex-model=&x-plex-platform=Chrome&x-plex-platform-version=135.0.0.0&x-plex-product=Plex+Mediaverse&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-provider-streaming-start=1745811108&url=70a876351ceaf06ef73fa5ed3bc7d7fe-183ae743aecde01484ba708c346735e3e3cc846aa15f08682c7011ad3b783f92e971229ec2b31bbc1e62d2761f729f772dc61c22d66f6599b08643c3035dff1781217ee6b828bc6e4526deefebcc0c842561c20b81aff4edc37ff722efef89c98d5be2ed85d86d28b5d6cc334c7eb806afde94fc31035f5d2cdfc4aa3e2b8f333c100edd9141e26b6630981912189b8c866823886e1849f3338004e2e3a18fc7178d83e497a99c1ab3441d01b618ef1724db79896ed5e5572a1ed23f98325a41b8d5d0231702150b4128b733229aa588015e1caf55c4390945792ce71ce7cee5
-
-#EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://iili.io/3ceEq0b.md.png", 15:40 WIB Arema FC vs Persebaya Surabaya
-#EXTVLCOPT:http-origin=https://play.926003.tv
-#EXTVLCOPT:http-referrer=https://play.926003.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pl10.chinefore.com/live/289c2a34ccc2e24b.m3u8?txSecret=477367bdd72f8bafa2095f978647ec16&txTime=680F3A32
-
-#EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://iili.io/3ceEq0b.md.png", 15:40 WIB Arema FC vs Persebaya Surabaya Servet Vietnam
-#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
-#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://live-xlvb.nsnd.live/9GVkfQqYutfXd4ymyqgeEQ/1dae3400e4a56a95aa98d9615588b5c1/1745850684/live/_definst_/stream_1_1bda7@dungHD/chunklist.m3u8
-
-
-
-#EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://iili.io/3ceEq0b.md.png", 15:40 WIB Arema FC vs Persebaya Surabaya
-#EXTVLCOPT:http-origin=https://ppdd02.xiimadedishalthough.shop
-#EXTVLCOPT:http-referrer=https://ppdd02.xiimadedishalthough.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://tnt1-cf.boblcfwudz421.com/auth%3Da0c7be580ca3cbe958d2bad72b2d41486a6d7f0e9b1489dd6f6c39c8dc5cde211d9850fecac4007335dff21e81a105ed9872ef36de3412b6bd5b1d74b7544df95d9fea00bfab3104c9b5aa03791de6c9331c3c314d09fbcd6cd62202cf960a6c2b472509b1c27138ef57f7b9fa60e7d01c463671e42af2d86e5f7d14e231b39561fabc49c24310fa5e9a3a73c9bd03a478b3df9bf77737e44914355eaac75cb6%26cid%3Dys6pjqr7O8Uq8yB6gcbQu250427%26_v%3D2%26_r%3DHjAZ8r%26_vis%3D6998d145e04ae45565cb14351e89aa725b702d7556952765d4f559b7ab73627e%26_vvs%3D47bb28ca76669d58d68d3722e9ff16ddb53cc11e52b43fe8c0fac5a08d415b31/transcode/c345601_480p.m3u8
+http://opplex.tv:8080/live/mother/mother/350972.ts
 
 
 
