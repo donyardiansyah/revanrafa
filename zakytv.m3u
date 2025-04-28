@@ -8,13 +8,44 @@
 #https://bewe.biz.id/odeo/iti.mpd?id=17623&cyev=1745591776.7e2709038463aced0ed193e9266601671a9207ff123d04b5909952952bde497d
 
 #EXTINF:-1 tvg-id="Indosiar" tvg-name="INDOSIAR" tvg-logo="https://thumbor.prod.vidiocdn.com/aThN9BYQG4Y0_qtqym6rOwM7bNs=/filters:quality(70)/vidio-web-prod-category/uploads/category/image/59/bri-liga-1-2fbb85.png" group-title="LIVE NOW", BRI Liga 1
-https://bf.jabflive.com/live/5004451_hd01.m3u8?txSecret=a8e39110c01fc2a0d3df18bd10a9dc12&txTime=680e2495
+#https://bf.jabflive.com/live/5004451_hd01.m3u8?txSecret=a8e39110c01fc2a0d3df18bd10a9dc12&txTime=680e2495
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/aThN9BYQG4Y0_qtqym6rOwM7bNs=/filters:quality(70)/vidio-web-prod-category/uploads/category/image/59/bri-liga-1-2fbb85.png" group-title="LIVE NOW",BRI Liga  1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6a8b65c83036329e7185b9cd8cbdee29:0eb2beb5633f8e35cafab45af3d21de0
-https://av-cdn.rakuda.online/memfs/111cc22c-a1d4-42fd-8f24-df9137c550a8.m3u8
+#https://av-cdn.rakuda.online/memfs/111cc22c-a1d4-42fd-8f24-df9137c550a8.m3u8
+
+#EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://iili.io/3Wa3UMu.md.png", 09:00 WIB Sudirman Cup
+#EXTVLCOPT:http-origin=https://watch.plex.tv
+#EXTVLCOPT:http-referrer=https://watch.plex.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-652875586425fdb1f32d2169/variant.m3u8?x-plex-token=zEQs46SW1KqFyNQHEywq&x-plex-advertising-identifier=&x-plex-client-identifier=cdc8fe67-8dcd-4a12-98ae-7fa2147da27d&x-plex-playback-id=p_4db8374d-8fcc-4aac-8d5b-5c88d451fb0f&x-plex-playback-session-id=&x-plex-session-id=&x-plex-device=Windows&x-plex-device-name=Plex+Mediaverse&x-plex-advertising-donottrack=0&x-plex-drm=&x-plex-model=&x-plex-platform=Chrome&x-plex-platform-version=135.0.0.0&x-plex-product=Plex+Mediaverse&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-provider-streaming-start=1745811108&url=70a876351ceaf06ef73fa5ed3bc7d7fe-183ae743aecde01484ba708c346735e3e3cc846aa15f08682c7011ad3b783f92e971229ec2b31bbc1e62d2761f729f772dc61c22d66f6599b08643c3035dff1781217ee6b828bc6e4526deefebcc0c842561c20b81aff4edc37ff722efef89c98d5be2ed85d86d28b5d6cc334c7eb806afde94fc31035f5d2cdfc4aa3e2b8f333c100edd9141e26b6630981912189b8c866823886e1849f3338004e2e3a18fc7178d83e497a99c1ab3441d01b618ef1724db79896ed5e5572a1ed23f98325a41b8d5d0231702150b4128b733229aa588015e1caf55c4390945792ce71ce7cee5
+
+#EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://iili.io/3Wa3UMu.md.png", 10:00 WIB Korea Selatan VS Kanada
+#EXTVLCOPT:http-origin=https://vku.youku.com
+#EXTVLCOPT:http-referrer=https://vku.youku.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://dmd-v-fifajs-native-major-hb.youku.com/67756D6080932713CFC02204E/03000700005FC8D27A3229D2F2B8944FBAFF26-37D1-4CEC-99D0-BADBBFEA7560--fifa_jieshuo__YMQ-Court1HB_sjb360.m3u8?title=8192009&ver=1.0.0&uid=0&log_type=log_type&aliyun_uuid=5OiVIJcX2SkCAWdXlTpHaiXK&cdnQuality=abr&quality=2&multi_raw_stream=YMQ-Court1HB&ccode=live05010101&expire=21600&psid=CFE9CB29416868859E48492B88DCABDE&ups_client_netip=103.87.149.58&ups_ts=1745812346&ups_userid=0&utid=5OiVIJcX2SkCAWdXlTpHaiXK&vid=8192009_8117814&fn=03000700005FC8D27A3229D2F2B8944FBAFF26-37D1-4CEC-99D0-BADBBFEA7560--fifa&cug=10&t=7f5a5b0ea614298&vkey=Bd1e2c52db40af806e6a9f6544bfbbde4
+
+
+
+#EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://iili.io/3Wa3UMu.md.png", 10:00 WIB Malaysia VS Perancis
+#EXTVLCOPT:http-origin=https://vku.youku.com
+#EXTVLCOPT:http-referrer=https://vku.youku.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://dmd-v-fifajs-native-major-hb.youku.com/67756D6080932713CFC02204E/03000700005FC8D27A3229D2F2B8944FBAFF26-37D1-4CEC-99D0-BADBBFEA7560--fifa_jieshuo__YMQ-Court2HB_sjb480.m3u8?title=8192011&ver=1.0.0&uid=0&log_type=log_type&aliyun_uuid=5OiVIOG9wjUCAWdXlTq1oI5Z&cdnQuality=480p&quality=3&multi_raw_stream=YMQ-Court2HB&ccode=live05010101&expire=21600&psid=EDCA23A3F583B8BAC67196C905D98A47&ups_client_netip=103.87.149.58&ups_ts=1745812750&ups_userid=0&utid=5OiVIOG9wjUCAWdXlTq1oI5Z&vid=8192011_8117816&fn=03000700005FC8D27A3229D2F2B8944FBAFF26-37D1-4CEC-99D0-BADBBFEA7560--fifa_jieshuo__YMQ-Court2HB_sjb480&vkey=Bf012cc5a78483be4b8f7f1c40cd467c1&cug=10&t=7def60d878aba06&rid=20000000A8455A84E0880D9694CB233EB33C9C4200000000
+
+#EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://iili.io/3Wa3UMu.md.png", 10:00 WIB Jepang VS Australia
+#EXTVLCOPT:http-origin=https://vku.youku.com
+#EXTVLCOPT:http-referrer=https://vku.youku.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://dmd-v-fifajs-native-major-hb.youku.com/67756D6080932713CFC02204E/03000700005FC8D27A3229D2F2B8944FBAFF26-37D1-4CEC-99D0-BADBBFEA7560--fifa_jieshuo__YMQ-Court3HB_sjb480.m3u8?title=8192012&ver=1.0.0&uid=0&log_type=log_type&aliyun_uuid=5OiVIOG9wjUCAWdXlTq1oI5Z&cdnQuality=480p&quality=3&multi_raw_stream=YMQ-Court3HB&ccode=live05010101&expire=21600&psid=3B8DBF5284E0F98843BBA069591CEB77&ups_client_netip=103.87.149.58&ups_ts=1745812976&ups_userid=0&utid=5OiVIOG9wjUCAWdXlTq1oI5Z&vid=8192012_8117817&fn=03000700005FC8D27A3229D2F2B8944FBAFF26-37D1-4CEC-99D0-BADBBFEA7560--fifa_jieshuo__YMQ-Court3HB_sjb480&vkey=B1e5eaa1dd4e51ffbde18d3b6e31e8daa&cug=10&t=7b97a399429898a&rid=200000008BADCE3D4E90C224065004713191F0EC00000000
+
+
+
+
+
 
 ========= NASIONAL TV--=====
 
