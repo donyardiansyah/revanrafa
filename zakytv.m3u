@@ -29,7 +29,21 @@ https://tnt3-cf.boblcfwudz421.com/auth%3Ddbdfba3c186c4dd2b38c6b4efe79fb5dddd9133
 https://apisportzz179528093.nsnd.live/1WpHXTCWXhaeyWmBTvz3mQ/Fv2lucGIbhPi2caWYvF5Lg/1746210074081/live/sd-6MsDBFWccUzjHBjiV1/playlist.m3u8
 
 
+#EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://iili.io/3ceEq0b.md.png", 19:00 WIB Malut United vs Persib Bandung
+#EXTVLCOPT:http-origin=https://rakuda.infosport.web.id/
+#EXTVLCOPT:http-referrer=https:https://rakuda.infosport.web.id/live
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#EXTVLCOPT:http-connection-timeout=5000
+#EXTVLCOPT:http-reconnect=true
+https://av-cdn.rakuda.online:8443/memfs/87cafbdb-78a4-4b73-a52a-af58f4b42800.m3u8
 
+#EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://iili.io/3ceEq0b.md.png", 19:00 WIB Malut United vs Persib Bandung
+#EXTVLCOPT:http-origin=https://rakuda.infosport.web.id/
+#EXTVLCOPT:http-referrer=https:https://rakuda.infosport.web.id/live
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#EXTVLCOPT:http-connection-timeout=5000
+#EXTVLCOPT:http-reconnect=true
+https://av-cdn.rakuda.online:8443/memfs/bf2e7bf9-d57f-4cad-a438-7a53990a2ddc.m3u8
 
 #EXTINF:-1 tvg-id="Indosiar" tvg-name="INDOSIAR" tvg-logo="https://thumbor.prod.vidiocdn.com/aThN9BYQG4Y0_qtqym6rOwM7bNs=/filters:quality(70)/vidio-web-prod-category/uploads/category/image/59/bri-liga-1-2fbb85.png" group-title="LIVE NOW", BRI Liga 1
 https://bf.jabflive.cc/live/5004366_hd01.m3u8?txSecret=a0a944a0a6575c1dfe5717ef4d974302&txTime=6814b703
