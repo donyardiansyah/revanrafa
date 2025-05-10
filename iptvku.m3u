@@ -1,4 +1,32 @@
+#EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://iili.io/3ceEq0b.md.png", 15:30 WIB Madura United vs Borneo FC Samarinda JALALIVE
+#EXTVLCOPT:http-origin=https://jlbfpc.jlbfyh.com
+#EXTVLCOPT:http-referrer=https://jlbfpc.jlbfyh.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://bf.jabflive.cc/live/322708_hd01.m3u8?txSecret=cbe328ef8626fd427b4312c7a569da52&txTime=681f0ef1
+https://bf.jabflive.cc/live/322723_hd01.m3u8?txSecret=292f73e410000a685abbb90b8bba5af1&txTime=681f1196
+#EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://iili.io/3ceEq0b.md.png", LIGA 1
+#EXTVLCOPT:http-origin=https://ppdd02.xiimadedishalthough.shop
+#EXTVLCOPT:http-referrer=https://ppdd02.xiimadedishalthough.shop/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#EXTVLCOPT:http-connection-timeout=5000
+#EXTVLCOPT:http-reconnect=true
+https://tnt3-cf.boblcfwudz421.com/auth%3D88d2ca32175278b0f060e71f4363742caeb036b05e671c45847ecb1acb31f81c53d3df0a23cbd29059b2a8646ae43ff432f8aa5d6375bd333746531b9007a97c100778874d4f8aef61593e017a79e40edcc2582187201a52a0392bd7a601b2dff892a1e805b1ec0dc6f675b6e7b959e09fe05b0a71125d2f7926602378ed749da3aa0e6d011d8aa47eef5de9e446fbefbb64d4be4215df26bf6c85aa473bff20%26cid%3DvSjxG29i4mSgzFrcu_HWt250510%26_v%3D2%26_r%3D71YKAl%26_vis%3Daf6a4db30a949574966d85caaf6aa929142d77bd46403a40458b93d1d20d04b4%26_vvs%3Dfdcbd847eaa42fa2208f0a8d29c3d774b2017b493e633ba5172df6f4a09419e0/app/c348536.m3u8
 
+#EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://media1.tenor.com/m/03RHsZ8d2w0AAAAd/1996-ident.gif", INDOSIAR
+#EXTVLCOPT:http-origin=https://rakuda.infosport.web.id/
+#EXTVLCOPT:http-referrer=https:https://rakuda.infosport.web.id/live
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#EXTVLCOPT:http-connection-timeout=5000
+#EXTVLCOPT:http-reconnect=true
+https://av-cdn.rakuda.online:8443/memfs/87cafbdb-78a4-4b73-a52a-af58f4b42800.m3u8
+
+#EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://www.gifservice.fr/img/gif-vignette-large/f9beb660020fd187b190be8aeff5fb0b/368380.gif", mojitv
+#EXTVLCOPT:http-origin=https://rakuda.infosport.web.id/
+#EXTVLCOPT:http-referrer=https:https://rakuda.infosport.web.id/live
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#EXTVLCOPT:http-connection-timeout=5000
+#EXTVLCOPT:http-reconnect=true
+https://av-cdn.rakuda.online:8443/memfs/bf2e7bf9-d57f-4cad-a438-7a53990a2ddc.m3u8
 ========= NASIONAL TV--=====
 
 #EXTINF:-1 tvg-id="Indosiar - [Channel 78].id" tvg-name="Indosiar" tvg-logo="https://thumbor.prod.vidiocdn.com/o0hKYZSu2PBpihEdUvgmKbU8EQ4=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-bb689b.jpg" group-title="NASIONAL TV", INDOSIAR 
@@ -23,8 +51,8 @@ http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2699.ts
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://thumbor.prod.vidiocdn.com/WgV08OmwI9p1qd7IJTni1t9uxoo=/640x360/filters:quality(70)/vidio-web-prod-video/uploads/video/image/8156027/press-conference-proliga-2024-c0be19.jpg" group-title="NASIONAL TV",MOJI PROLIGA
-http://xtv.ooo:8080/live/213112/213112/350997.ts
-#https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dHLP5JRah115Nwa1mG6JlOT
+http://opplex.tv:8080/live/mother/mother/350997.ts
+
 
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
