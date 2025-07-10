@@ -7,6 +7,9 @@
 #EXTVLCOPT:http-reconnect=true
 #https://av-cdn.rakuda.online:8443/memfs/87cafbdb-78a4-4b73-a52a-af58f4b42800.m3u8
 
+#EXTINF:-1 group-title=" LIVE-EVENT" tvg-logo="https://cdn.rri.co.id/berita/Denpasar/f/1750442828814-pp/r7cz11ws0oh156n.jpeg", SINPO TV
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+http://103.159.195.61:9981/stream/channelid/828235930?profile=pass
 #EXTINF:-1 tvg-id="Indosiar" tvg-name="INDOSIAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/2025_Indonesia_National_Football_Team_Badge.png/500px-2025_Indonesia_National_Football_Team_Badge.png" group-title="INDONESIA",rcti
 #http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/157591
 
