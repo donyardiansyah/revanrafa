@@ -7,6 +7,12 @@
 #EXTVLCOPT:http-reconnect=true
 #https://av-cdn.rakuda.online:8443/memfs/87cafbdb-78a4-4b73-a52a-af58f4b42800.m3u8
 
+#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZKlZ-iVQvfD50-ei1mVZy2s4IKJQHJA5rkg&s", 20:00 WIB Indonesia vs Brunei Darussalam
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=af717f0a52834020a08b9ac454089b74:b1dcfea43ffe8735b3f2cc7c3ac8c24e
+https://tglmp04.akamaized.net/out/v1/a8aad32fefc2454f81a9998934b2a93f/manifest.mpd
+
+
 #EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZKlZ-iVQvfD50-ei1mVZy2s4IKJQHJA5rkg&s", AFF Indonesia-Brunei
 #EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
 #EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
