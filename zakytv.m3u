@@ -25,6 +25,7 @@ https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=19176
 https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=19176
 
 
+
 #EXTINF:-1 group-title="LIVE-EVENT " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZKlZ-iVQvfD50-ei1mVZy2s4IKJQHJA5rkg&s", AFF U 23
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
@@ -48,13 +49,11 @@ https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.m
 #KODIPROP:inputstream.adaptive.license_key=d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
 https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd
 
-#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZKlZ-iVQvfD50-ei1mVZy2s4IKJQHJA5rkg&s",  Indonesia vs Thailand
-#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
-#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://hotlivezz179026907.akainu.xyz/9FVaU9c3pJ-zNqcKgfc8vg/Fv2lucGIbhPi2caWYvF5Lg/1753454525057/live/may10/chunklist.m3u8
-
-
+#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://g-sports.id/wp-content/uploads/2025/07/Persija-vs-Arema-FC.jpg", 19:00 WIB persija vs arema
+#EXTVLCOPT:http-origin=https://ppdd02.dtfjinikdinbiframe.shop
+#EXTVLCOPT:http-referrer=https://ppdd02.dtfjinikdinbiframe.shop/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+https://twnx2-cf.boblcfwudz421.com/auth%3D0025a44969e818f0045d50c37c03590bda87932043e3f15b20e5fbbfa821d2cae6b85f496e5e7ad427f4b4b15ab93b9e3cbc49ce9e7c97a5e67e5ef9c33cc2505516c4fc1698a423aa387a9cd7d010988248abddbffce8ef6b103bbbdbed22919818a0774e078b0e112d757c5bee46eec0fbd3d5441be894fee0f88b869f97909980fea61352a99b929e8d8c2f150299d452c1c15ee1f7e193acb87f68d8856b%26cid%3DA4NWYFfvTKne0gvMqyP9L250726%26_v%3D2%26_r%3DYlSscN%26_vis%3D9b423ce02589ed4dbe540c4fe0cf76b2285f3325a2f516a1f24b63f60e285c0f%26_vvs%3Dc3499f28b030724f7838e1107eb1da01df18b3297747ec4378867ca3d0db46e4/app/c361629.m3u8
 ========= NASIONAL TV--=====
 
 #EXTINF:-1 tvg-id="Indosiar - [Channel 78].id" tvg-name="Indosiar" tvg-logo="https://thumbor.prod.vidiocdn.com/o0hKYZSu2PBpihEdUvgmKbU8EQ4=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-bb689b.jpg" group-title="NASIONAL TV", INDOSIAR 
@@ -111,6 +110,7 @@ http://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8?app_type=web&amp;userid
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-id="NET TV - [Channel 116].id" group-title="NASIONAL TV" tvg-url="tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/348/2025/02/25/6190412213303492665-3435062896.jpg",MDTV 
+#https://warningfm.github.io/v3/live/str/id/6cdb3402d11f58d.m3u8
 http://khano.nng.cloudns.us/live/m3u8/id/6cdb3402d11f58d.m3u8
 
 #EXTINF:-1 tvg-id="NET TV.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/Netmediatama.png/revision/latest" group-title="NASIONAL TV",MDTV
