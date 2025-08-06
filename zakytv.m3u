@@ -1,4 +1,9 @@
 
+#EXTINF:-1 " tvg-id=" mojitv" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.dens.tv/images/channel-logo/3.jpg" group-title="LIVE-EVENT", india vs indo
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
+https://bf.jlbflive.cc/live/5004423_hd01.m3u8?txSecret=6d2739a40d45988ae58de69c520029ad&txTime=68934c97
+
+
 #EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://www.dens.tv/images/channel-logo/3.jpg", LIVE STREAMING TV
 #EXTVLCOPT:http-origin=https://rakuda.infosport.web.id/
 #EXTVLCOPT:http-referrer=https:https://rakuda.infosport.web.id/live
@@ -7,9 +12,6 @@
 #EXTVLCOPT:http-reconnect=true
 #https://av-cdn.rkda.my.id:8443/memfs/9fbf03fd-232c-44a1-ba63-967d0e2b44f9_output_0.m3u8?session=SZHjPSqLaC9gGbwggUKR9v
 #https://cdn.videy.co/klSZ6Zn11.mp4
-
-#EXTINF:-1 tvg-id="Indosiar" tvg-name="GTV" tvg-logo="https://www.dens.tv/images/channel-logo/3.jpg" group-title="LIVE-EVENT",LIVE STREAMING TV
-https://bf.jlbflive.cc/live/5004423_hd01.m3u8?txSecret=6d2739a40d45988ae58de69c520029ad&txTime=68934c97
 
 #EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://iili.io/FJbkjte.png", VNL[1]
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
