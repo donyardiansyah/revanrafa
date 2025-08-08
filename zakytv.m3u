@@ -3,11 +3,11 @@
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
 #https://bf.jlbflive.cc/live/5004423_hd01.m3u8?txSecret=6d2739a40d45988ae58de69c520029ad&txTime=68934c97
 
-#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://cdns.klimg.com/bola.net/library/upload/21/2025/08/996x664/voli-2_4c6c6bc.jpg", 20:00 WIB Tunisia vs Bulgaria
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play?id=19332&type=drm
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-https://seprai.jasoncreak8.workers.dev/play.mpd?id=19332&type=dash
+#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 15:30 WIB Borneo FC Samarinda vs Bhayangkara Presisi Lampung FC
+#EXTVLCOPT:http-origin=https://play.926003.tv
+#EXTVLCOPT:http-referrer=https://play.926003.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://pl10.chinefore.com/live/1f6b94c224cba1e3.m3u8?txSecret=464328741e4ceaf0bd21c8872e5dc4f5&txTime=6895B4D5
 
 #EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://cdns.klimg.com/bola.net/library/upload/21/2025/08/996x664/voli-2_4c6c6bc.jpg", 14:00 WIB Serbia vs Vietnam 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
