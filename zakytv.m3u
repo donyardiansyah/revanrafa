@@ -1,6 +1,6 @@
 
 
-#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://www.dens.tv/images/channel-logo/3.jpg", LIVE STREAMING TV
+#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", LIVE STREAMING TV
 #EXTVLCOPT:http-origin=https://rakuda.infosport.web.id/
 #EXTVLCOPT:http-referrer=https:https://rakuda.infosport.web.id/live
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
@@ -8,32 +8,6 @@
 #EXTVLCOPT:http-reconnect=true
 https://av-cdn.rkda.my.id:8443/memfs/87cafbdb-78a4-4b73-a52a-af58f4b42800.m3u8
 #https://cdn.videy.co/klSZ6Zn11.mp4
-
-#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 19:00 WIB Persebaya Surabaya vs PSIM Yogyakarta
-#EXTVLCOPT:http-origin=https://play.926003.tv
-#EXTVLCOPT:http-referrer=https://play.926003.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://pl10.chinefore.com/live/1d384c5c3cb1695d.m3u8?txSecret=76dcbebb743ecf73900c351330e8aa54&txTime=6895E8A2&_=1754655154852
-
-
-#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 19:00 WIB Persebaya Surabaya vs PSIM Yogyakarta	
-#EXTVLCOPT:http-origin=https://ppdd02.dtfjinikdinbiframe.shop
-#EXTVLCOPT:http-referrer=https://ppdd02.dtfjinikdinbiframe.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://twnx2-cf.boblcfwudz421.com/auth%3Dffc123a37a0b79cd4e77ab9438e8be7565a0096740cbdece755cf465daad977bff44904aa5f6ed4655cc41fdc49832ce29fda40000286b85bf83e636053aae0ef74ceeb9fa1c39c6c01b2feba06f640068aabf2ba73a19b9f1b2718e6392677713bfa162537b6386ccb2c3bd891d0c1dfcf26f02eab3c2198facb17948c6caa0bd7cda7c752f7c9602adbd9d984defbc0772a8453c48fc364aed1811292c73bb%26cid%3D5HBjYeG5-hMGUMV2QnmGQ250808%26_v%3D2%26_r%3Dw6mCTP%26_vis%3D01b15ca507c6547892a9185f2c137f0535c96752b575154c9073e03682b492ac%26_vvs%3D19be4bc67f43bf0c4fe54d9f03e3bed031eaeb4bfd962c89df3750a28224f2ba/transcode/c363501_480p.m3u8
-
-#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 19:00 WIB PSM Makassar vs Persijap Jepara
-#EXTVLCOPT:http-origin=https://play.926003.tv
-#EXTVLCOPT:http-referrer=https://play.926003.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://pl10.chinefore.com/live/0eb6ab8fe240b7d7.m3u8?txSecret=f514300f057ff01e9c8922a36cb9b139&txTime=6895E775&_=1754654631322
-
-#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 19:00 WIB PSM Makassar vs Persijap Jepara
-#EXTVLCOPT:http-origin=https://ppdd02.dtfjinikdinbiframe.shop
-#EXTVLCOPT:http-referrer=https://ppdd02.dtfjinikdinbiframe.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://twnx2-cf.boblcfwudz421.com/auth%3Decd1fdda3ab25a84c13303891bb7d1afd9d151e468809cf750f13b981651fdc29b8da504e6e9fbcb9fa385b0a7d3824bb29e19a4202b59ac0b5b08d9e02b449060fa5def9f6aa3de756f9ad63ebb3111fa7807f5bdf4d7c5212cbf61475e5c5ff1fe7e5f3603c2980d732e2802ba7d8fc1a2f850e998508c140ad4d3b1b104af97718e7b913675175442eee6a351d032dbd3cb728351d44ccc1fcbc4636d0e9b%26cid%3D5HBjYeG5-hMGUMV2QnmGQ250808%26_v%3D2%26_r%3DhWHMgH%26_vis%3Dc78594c749d8fc19bd55cf5003a8bf962b4849a1a843ad2c7e2aef3d657f5b23%26_vvs%3D333692685398deabe65b8584686b3b6d7083b173ade6babbfbd7f91d9bb443d9/app/c363510.m3u8
-
 
 
 #EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a8/SEA_V.League.png", Sea V League Putri [1-10 Agustus 2025] 3
