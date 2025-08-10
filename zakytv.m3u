@@ -28,6 +28,12 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/in
 #EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://thumbor.prod.vidiocdn.com/39cNBGCdJLm2zfI-mWVG_MpND3Y=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/32244/bali-united-fc-vs-persik-kediri-d9337c.jpg", 15:30 WIB Bali United vs Persik Kediri
 https://twnx2-cf.boblcfwudz421.com/auth%3D5a8bcafcac91dcd3e7e2d506d73f859bb616a70e4b5ef2f7f18a6e18703d4a31a969ebac6e781161cd48b6e4a3dbf90f38830d5a8b7bf8ae7d2cc0afc60e06be6649669e8a913ac8b40c2599555517bd4e4d9e43e26f8232aaf57eb5f59d32527172bc1ab5d743a3cb28dc236bf4c044fe69e346cae492366ad891abfe23a7995f4c79f03e5759a6e8c3217934ccf590003d120c69523409d4aa8bcce885e4f1223c7e218e6b803c1fe7a4a9be51db28%26cid%3D5HBjYeG5-hMGUMV2QnmGQ250808%26_v%3D2%26_r%3DMNYxse%26_vis%3D74e6b23c83d0bd61b1e3def51c1a4a101ce57e387137acdae7c7d53551f7bc07%26_vvs%3Dd0938d58f9b17d08f832e975d353e158e9db250b3519dce04200c9d2d4cd0f47/transcode/c363798_480p.m3u8
 
+#EXTINF:-1 " tvg-id=" mojitv" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://thumbor.prod.vidiocdn.com/ygO0gMOeJm-28O7vrb4IfFsZ4ts=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/32287/persija-vs-persita-29ac11.jpg" group-title="LIVE-EVENT", bri super
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
+#https://wahyu1ptv.pages.dev/Moji-HD.m3u8
+https://bf.jlbflive.cc/live/322698_hd01.m3u8?txSecret=f012643e2d60e6f8121578134e7c8a1b&txTime=689884b3
+
+
 
 #EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a8/SEA_V.League.png", Sea V League Putri [1-10 Agustus 2025] 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -83,7 +89,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 
 #EXTINF:-1 " tvg-id=" mojitv" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://thumbor.prod.vidiocdn.com/WgV08OmwI9p1qd7IJTni1t9uxoo=/640x360/filters:quality(70)/vidio-web-prod-video/uploads/video/image/8156027/press-conference-proliga-2024-c0be19.jpg" group-title="NASIONAL TV", MOJITV PROLIGA
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
-#https://wahyu1ptv.pages.dev/Moji-HD.m3u8
+https://wahyu1ptv.pages.dev/Moji-HD.m3u8
 
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
