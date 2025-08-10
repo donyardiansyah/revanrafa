@@ -8,32 +8,33 @@
 #EXTINF:-1 tvg-id="MNCSports3.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Sportstars_3.png" group-title="LIVE-EVENT",Sportstars 3 ᴴᴰ
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
 
-#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://cdns.klimg.com/bola.net/library/upload/21/2025/08/996x664/voli-2_4c6c6bc.jpg", 19:00 WIB Brazil vs Thailand
+#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://assets.thehansindia.com/h-upload/2025/03/27/1536853-afc.jpg", 19:00 WIB Indonesia vs Turkmenistan
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play?id=19332&type=drm
+#KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play?id=19335&type=drm
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#https://seprai.jasoncreak8.workers.dev/play.mpd?id=19332&type=dash
-
-#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://cdns.klimg.com/bola.net/library/upload/21/2025/08/996x664/voli-2_4c6c6bc.jpg", 19:00 WIB Indonesia vs Puerto Rico
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play?id=19334&type=drm
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#https://seprai.jasoncreak8.workers.dev/play.mpd?id=19334&type=dash
+https://seprai.jasoncreak8.workers.dev/play.mpd?id=19335&type=dash
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ppdd02.dtfjinikdinbiframe.shop/
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-origin=https://ppdd02.dtfjinikdinbiframe.shop
-#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://thumbor.prod.vidiocdn.com/39cNBGCdJLm2zfI-mWVG_MpND3Y=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/32244/bali-united-fc-vs-persik-kediri-d9337c.jpg", 15:30 WIB Bali United vs Persik Kediri
-https://twnx2-cf.boblcfwudz421.com/auth%3D5a8bcafcac91dcd3e7e2d506d73f859bb616a70e4b5ef2f7f18a6e18703d4a31a969ebac6e781161cd48b6e4a3dbf90f38830d5a8b7bf8ae7d2cc0afc60e06be6649669e8a913ac8b40c2599555517bd4e4d9e43e26f8232aaf57eb5f59d32527172bc1ab5d743a3cb28dc236bf4c044fe69e346cae492366ad891abfe23a7995f4c79f03e5759a6e8c3217934ccf590003d120c69523409d4aa8bcce885e4f1223c7e218e6b803c1fe7a4a9be51db28%26cid%3D5HBjYeG5-hMGUMV2QnmGQ250808%26_v%3D2%26_r%3DMNYxse%26_vis%3D74e6b23c83d0bd61b1e3def51c1a4a101ce57e387137acdae7c7d53551f7bc07%26_vvs%3Dd0938d58f9b17d08f832e975d353e158e9db250b3519dce04200c9d2d4cd0f47/transcode/c363798_480p.m3u8
+#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 19:00 WIB Persija Jakarta vs Persita Tangerang
+https://twnx1-cf.boblcfwudz421.com/auth%3Dd302509db0834654a1eb3d91bb30b74a602fc96bd3b395f41b996142534fc5642d390b5e436bb0df60cec92c77a2409e786b02072450f1406551de9d87b211e4465a4158c0f277000bb826bd4958001bbb6777bc2309a5debf5ce8863cc8e70065c33897e8ba54670f835a7f28c84e5080c10408e09dffe6b1637c1ee189cf3f5de2b4fdb22477b277f603c33a05bbc5508255166036e6360c5bb22e755dd8d1fb8c65f1af4573e10537d274724925d59a5834daf95e1649fa7c2d0d1353e150%26cid%3D5HBjYeG5-hMGUMV2QnmGQ250808%26_v%3D2%26_r%3DRiUZ9p%26_vis%3D7948547f4b6b262904f1742aff07d930b13a8ea3ff8dd52f3ca2189d5eed5dea%26_vvs%3D5e123d64b553b742f9108ae900b1312376988e58f5a188b30ce3572eaa1758e0/transcode/c363799_480p.m3u8
+
+
+
+#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 19:00 WIB Persija Jakarta vs Persita Tangerang
+#EXTVLCOPT:http-origin=https://play.926003.tv
+#EXTVLCOPT:http-referrer=https://play.926003.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://pl10.chinefore.com/live/a3abeda351b2b8f3.m3u8?txSecret=6a75edb3c4df24a976c7c241854bc2e0&txTime=68988A75
+
 
 #EXTINF:-1 " tvg-id=" mojitv" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://thumbor.prod.vidiocdn.com/ygO0gMOeJm-28O7vrb4IfFsZ4ts=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/32287/persija-vs-persita-29ac11.jpg" group-title="LIVE-EVENT", bri super
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
 #https://wahyu1ptv.pages.dev/Moji-HD.m3u8
 https://bf.jlbflive.cc/live/322698_hd01.m3u8?txSecret=f012643e2d60e6f8121578134e7c8a1b&txTime=689884b3
-
-
 
 #EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a8/SEA_V.League.png", Sea V League Putri [1-10 Agustus 2025] 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
