@@ -4,7 +4,6 @@
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #https://seprai.jasoncreak8.workers.dev/play.mpd?id=19331&type=dash
 
-
 #EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://cdns.klimg.com/bola.net/library/upload/21/2025/08/996x664/voli-2_4c6c6bc.jpg", 19:00 WIB Brazil vs Thailand
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play?id=19332&type=drm
@@ -16,8 +15,6 @@
 #KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play?id=19334&type=drm
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #https://seprai.jasoncreak8.workers.dev/play.mpd?id=19334&type=dash
-
-
 
 #EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a8/SEA_V.League.png", Sea V League Putri [1-10 Agustus 2025] 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
