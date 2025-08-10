@@ -82,7 +82,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 #EXTINF:-1 " tvg-id=" mojitv" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://thumbor.prod.vidiocdn.com/WgV08OmwI9p1qd7IJTni1t9uxoo=/640x360/filters:quality(70)/vidio-web-prod-video/uploads/video/image/8156027/press-conference-proliga-2024-c0be19.jpg" group-title="NASIONAL TV", MOJITV PROLIGA
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
 #https://wahyu1ptv.pages.dev/Moji-HD.m3u8
-http://iptvtree.net:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/298550.ts
+
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=video/mp2t
