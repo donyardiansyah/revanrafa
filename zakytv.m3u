@@ -27,6 +27,15 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/in
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #https://seprai.jasoncreak8.workers.dev/play.mpd?id=19334&type=dash
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ppdd02.dtfjinikdinbiframe.shop/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-origin=https://ppdd02.dtfjinikdinbiframe.shop
+#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://thumbor.prod.vidiocdn.com/39cNBGCdJLm2zfI-mWVG_MpND3Y=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/32244/bali-united-fc-vs-persik-kediri-d9337c.jpg", 15:30 WIB Bali United vs Persik Kediri
+https://twnx2-cf.boblcfwudz421.com/auth%3D5a8bcafcac91dcd3e7e2d506d73f859bb616a70e4b5ef2f7f18a6e18703d4a31a969ebac6e781161cd48b6e4a3dbf90f38830d5a8b7bf8ae7d2cc0afc60e06be6649669e8a913ac8b40c2599555517bd4e4d9e43e26f8232aaf57eb5f59d32527172bc1ab5d743a3cb28dc236bf4c044fe69e346cae492366ad891abfe23a7995f4c79f03e5759a6e8c3217934ccf590003d120c69523409d4aa8bcce885e4f1223c7e218e6b803c1fe7a4a9be51db28%26cid%3D5HBjYeG5-hMGUMV2QnmGQ250808%26_v%3D2%26_r%3DMNYxse%26_vis%3D74e6b23c83d0bd61b1e3def51c1a4a101ce57e387137acdae7c7d53551f7bc07%26_vvs%3Dd0938d58f9b17d08f832e975d353e158e9db250b3519dce04200c9d2d4cd0f47/transcode/c363798_480p.m3u8
+
+
 #EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a8/SEA_V.League.png", Sea V League Putri [1-10 Agustus 2025] 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=322d06e9326f4753a7ec0908030c13d8:1e3e0ca32d421fbfec86feced0efefda
