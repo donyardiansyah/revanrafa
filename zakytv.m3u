@@ -2,55 +2,21 @@
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play?id=19331&type=drm
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-https://seprai.jasoncreak8.workers.dev/play.mpd?id=19331&type=dash
+#https://seprai.jasoncreak8.workers.dev/play.mpd?id=19331&type=dash
 
 
 #EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://cdns.klimg.com/bola.net/library/upload/21/2025/08/996x664/voli-2_4c6c6bc.jpg", 19:00 WIB Brazil vs Thailand
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play?id=19332&type=drm
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-https://seprai.jasoncreak8.workers.dev/play.mpd?id=19332&type=dash
+#https://seprai.jasoncreak8.workers.dev/play.mpd?id=19332&type=dash
 
 #EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://cdns.klimg.com/bola.net/library/upload/21/2025/08/996x664/voli-2_4c6c6bc.jpg", 19:00 WIB Indonesia vs Puerto Rico
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play?id=19334&type=drm
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-https://seprai.jasoncreak8.workers.dev/play.mpd?id=19334&type=dash
+#https://seprai.jasoncreak8.workers.dev/play.mpd?id=19334&type=dash
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ppdd02.dtfjinikdinbiframe.shop/
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-origin=https://ppdd02.dtfjinikdinbiframe.shop
-#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 19:00 WIB Dewa United Banten vs Malut United
-https://twnx2-cf.boblcfwudz421.com/auth%3D72628f87890580808ce4bf69d6b08e6c5ebd18ea3bcb56516b257efa6ad5c83f67efbda9944710dbd2c7e8adc4155c552b63fec2691d8e90531b85a86c5ffa366889c3de9de46f63e638fe72e2d23b749dba45e4592c4b84b0027607d4d6b7cc56e6307b6c82b07f99d9b888083716a19088a13069d8d1a82239285a9e77bb609b2ab8c5b1cdc784573b3de8dd3bcf6d5df23973a3a88b938c904a0881aaf59399c3162755705c3e1d25f189fd5b369c%26cid%3D5HBjYeG5-hMGUMV2QnmGQ250808%26_v%3D2%26_r%3DEJCwQW%26_vis%3D6d777556e77233c98dea1b55528da4e6aececc862ccf2c12299ca79de2beec46%26_vvs%3D4b35c18497e83cddc50a702d8ed430b7cfb6eba4f64c528afbdb124ac6c7d98c/transcode/c363672_480p.m3u8
-
-#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 19:00 WIB Dewa United Banten vs Malut United
-#EXTVLCOPT:http-origin=https://play.926003.tv
-#EXTVLCOPT:http-referrer=https://play.926003.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://pl10.chinefore.com/live/5887270d31b6fcb1.m3u8?txSecret=70a8a6171bdb379589b0c3d9588671b2&txTime=68973931
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ppdd02.dtfjinikdinbiframe.shop/
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-origin=https://ppdd02.dtfjinikdinbiframe.shop
-#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 19:00 WIB Madura United vs Persis Solo
-https://twnx1-cf.boblcfwudz421.com/auth%3De8e43b2af4b0f22715bdc931d8c9f85895b46b4545db384e99a120503b9c6f578c281681fe4d7d1198caad3ccdd8c31657621fd34004079212d2970c59a1325ed181d6a71d6f1ab6ded4adf774febd868e291e9d36e31e1022887b784c56d2a50c8ec1883981fad47e59ed70ded3097327d7c0268094d1251326d4555704e293d760660b48b985a66a1c01eada084b20f3b96123e5f85ac0e2ca2217fb247eeb8cd6c44d3ef68ca92be19bb7bb0fc6889aa5632c7f3124322390695d89b3f8f6%26cid%3D5HBjYeG5-hMGUMV2QnmGQ250808%26_v%3D2%26_r%3DwdiNFp%26_vis%3D2fd8d80345576ddb3d56fccdc08ef37de26d48a3767d3562808b081904817dd4%26_vvs%3Dacda8a9d7ab2bf61c9fbba43fee829e155c3cfc453aa1c0745f8767e9afd6d84/app/c363454.m3u8
-
-#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 19:00 WIB Madura United vs Persis S
-#EXTVLCOPT:http-origin=https://play.926003.tv
-#EXTVLCOPT:http-referrer=https://play.926003.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://pl10.chinefore.com/live/eacebbd44dad2c43.m3u8?txSecret=3c2fdef97029ba862affc89ee3f394a9&txTime=6897396D
-
-#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://assets-skorid.s3.ap-southeast-1.amazonaws.com/Skor_id_118e171bd6.jpeg", 19:30 WIB Indonesia (w) vs Vietnam (w)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 
 
 #EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a8/SEA_V.League.png", Sea V League Putri [1-10 Agustus 2025] 3
@@ -66,11 +32,11 @@ https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_onesportsplus_hd1.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #EXTVLCOPT:http-connection-timeout=5000
 #EXTVLCOPT:http-reconnect=true
-https://av-cdn.rkda.my.id:8443/memfs/bf2e7bf9-d57f-4cad-a438-7a53990a2ddc.m3u8
+#https://av-cdn.rkda.my.id:8443/memfs/bf2e7bf9-d57f-4cad-a438-7a53990a2ddc.m3u8
 
 ========= NASIONAL TV--=====
 
-#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", DENSTV SPORT
+#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://thumbor.prod.vidiocdn.com/RRKqA-C_gfSnlqfHRgyGbfLEvjM=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/32178/bri-super-league-2025-26-d75572.jpg", DENSTV SPORT
 #EXTVLCOPT:http-origin=https://rakuda.infosport.web.id/
 #EXTVLCOPT:http-referrer=https:https://rakuda.infosport.web.id/live
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
