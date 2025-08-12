@@ -1,12 +1,4 @@
-#EXTINF:-1 group-title="LIVE-EVENT" tvg-id="Sportstars 3 - [Channel 99].id" tvg-name="Sportstars 3 - [Channel 99].id" tvg-logo="https://bmeidch.github.io/bemu/chlogo/sportstars3.gif",Sportstars 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=114
-#EXTINF:-1 tvg-id="MNCSports3.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Sportstars_3.png" group-title="LIVE-EVENT",Sportstars 3 ᴴᴰ
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
+
 
 
 #EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a8/SEA_V.League.png", Sea V League Putri [1-10 Agustus 2025] 3
@@ -313,7 +305,15 @@ https://cdn10jtedge.indihometv.com/atm/DASH/mncnews/manifest.mpd
 
 ======  NATIONAL SPORTS=================
 
-
+#EXTINF:-1 group-title="NATIONAL SPORTS" tvg-id="Sportstars 3 - [Channel 99].id" tvg-name="Sportstars 3 - [Channel 99].id" tvg-logo="https://bmeidch.github.io/bemu/chlogo/sportstars3.gif",Sportstars 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=114
+#EXTINF:-1 tvg-id="MNCSports3.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Sportstars_3.png" group-title="NATIONAL SPORTS",Sportstars 3 ᴴᴰ
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
 #EXTINF:-1 tvg-logo="https://media1.tenor.com/m/03RHsZ8d2w0AAAAd/1996-ident.gif" group-title="NATIONAL SPORTS",LIVE SPORT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
