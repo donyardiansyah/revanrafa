@@ -8,34 +8,6 @@
 #EXTINF:-1 tvg-id="MNCSports3.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Sportstars_3.png" group-title="LIVE-EVENT",Sportstars 3 ᴴᴰ
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
 
-#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://thumbor.prod.vidiocdn.com/GRgxIftzShG6s4BE2j9_T_CQLYw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4488446/23e94a.jpg", 15:30 WIB Arema FC vs PSBS Biak
-#EXTVLCOPT:http-origin=https://demo.zplayer.xyz
-#EXTVLCOPT:http-referrer=https://demo.zplayer.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://hotlivezz179602324.akainu.xyz/bFBKx6a3VjhmxhfqIfn6Vg/Fv2lucGIbhPi2caWYvF5Lg/1754922083764/live/kienSD/chunklist.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.plcdn.xyz/ajax/chanel/type/7/link/channel6
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-origin=https://xl365.plcdn.xyz
-#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 15:30 WIB Arema FC vs PSBS Biak
-https://live1.pro2cdnlive.com/live/channel6.flv?wsSecret=f0cfc067409a289faccf145ddff5a7b8&wsABSTime=1754930311
-
-#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://thumbor.prod.vidiocdn.com/GRgxIftzShG6s4BE2j9_T_CQLYw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4488446/23e94a.jpg", 15:30 WIB Arema FC vs PSBS Biak
-#EXTVLCOPT:http-origin=https://demo.zplayer.xyz
-#EXTVLCOPT:http-referrer=https://demo.zplayer.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://bf.jlbflive.cc/live/322729_hd01.m3u8?txSecret=3af1936174ecd5c952bf4ed8eb9796bf&txTime=6899af8b
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ppdd02.dtfjinikdinbiframe.shop/
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-origin=https://ppdd02.dtfjinikdinbiframe.shop
-#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://thumbor.prod.vidiocdn.com/GRgxIftzShG6s4BE2j9_T_CQLYw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4488446/23e94a.jpg", 15:30 WIB Arema FC vs PSBS Biak
-https://twnx1-cf.boblcfwudz421.com/auth%3D345978861a8c7d23fdceeca2422b265b888e7af5a01f9d53b8a7f221560a237d521cf0dd5bfc8c4c906dc850336b6b466370d85343941e3440cc7a18ffec161e28ba4feb717f19e8686942a77a9b8cd46a27eaefafaf66f77b8d3b2344403ed918725eb803dae9092527310f898b3fc0ddc0f20a1e06116467b47c1f0f8fa530a4fbed8f438e15c8b4adfec92a830525518cbbf5df3f2a915c70ac971b15cf11%26cid%3D5HBjYeG5-hMGUMV2QnmGQ250808%26_v%3D2%26_r%3Dfil8SV%26_vis%3D83a955df12950227608b1e3ec8b1ab759c5619df9f49594413a599a240bab25c%26_vvs%3Df5043b41005c608100827d010d9177a6768983f7cb67776c0a3fe68e944d73c9/transcode/c363964_480p.m3u8
-
 
 #EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a8/SEA_V.League.png", Sea V League Putri [1-10 Agustus 2025] 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
