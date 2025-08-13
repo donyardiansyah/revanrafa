@@ -1,12 +1,7 @@
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ppdd02.dtfjinikdinbiframe.shop/
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-origin=https://ppdd02.dtfjinikdinbiframe.shop
-#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://akcdn.detik.net.id/community/media/visual/2025/08/11/logo-piala-kemerdekaan-1754892270596_43.png?w=600&q=90", 19:00 WIB Indonesia vs Tajikistan
-https://twnx1-cf.boblcfwudz421.com/auth%3D2c4dca04a3dc225d8daa742989ef6a621c06a05bb4bffbfe473200536621ffea0b2bfdd620a605f20f2c0f237b4e1a3d91908774aa8d22eef70df517c4f9d7b207130ef0a612a9d04f7831de36348a503cb8a6131c6ffbfaa809c63ed721c1a6f0234ef59e51046a5232d2d91ff98b5fe21505bb777fbbe473b3bb735bb66cd0263fe71365e37664d68867e8d3c844b57474c22ac03de1693d271d8ce50bd436a2e472040dc49d26468ba1c6b7e77a045f47c6dcd77d26279fe93bb62bfd25dc%26cid%3D5HBjYeG5-hMGUMV2QnmGQ250808%26_v%3D2%26_r%3DwpiYfa%26_vis%3Dcf692398067f25c99b5feedd29dbe187c239ef98545eadd0971213df9ba7a711%26_vvs%3Dc914fec68effa9c6ac9009ceca09b581cec0ae8a2455ee3dc29c140b6f5a15d9/app/c364114.m3u8
 
+#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://akcdn.detik.net.id/community/media/visual/2025/08/11/logo-piala-kemerdekaan-1754892270596_43.png?w=600&q=90",INDOSIAR
+http://filex.me:8080/live/@B1gM0/qsavC6NPSm/302264.ts
 
 
 #EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://assets-skorid.s3.ap-southeast-1.amazonaws.com/Skor_id_118e171bd6.jpeg", 19:30 WIB Indonesia vs Kamboja	
