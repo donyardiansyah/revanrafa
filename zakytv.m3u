@@ -1,14 +1,31 @@
-#EXTINF:-1 " tvg-id=" mojitv" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png" group-title="LIVE-EVENT", timnas
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
-https://bf.jlbflive.cc/live/322677_hd01.m3u8?txSecret=bdb8ff6a314beab45e225a583312655b&txTime=689f28a0
+#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://cdns.klimg.com/bola.net/library/upload/21/2025/08/996x664/voli-2_4c6c6bc.jpg", 002 09:00 14:00 17:00 dan 20:00 WIB
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play?id=19332&type=drm
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+https://seprai.jasoncreak8.workers.dev/play.mpd?id=19332&type=dash
 
-#EXTINF:-1 " tvg-id=" mojitv" tvg-url="https://akcdn.detik.net.id/community/media/visual/2025/08/11/logo-piala-kemerdekaan-1754892270596_43.png?w=600&q=90" tvg-logo="https://akcdn.detik.net.id/community/media/visual/2025/08/11/logo-piala-kemerdekaan-1754892270596_43.png?w=600&q=90" group-title="LIVE-EVENT", liga super
+
+
+#EXTINF:-1 " tvg-id=" mojitv" tvg-url="https://akcdn.detik.net.id/community/media/visual/2025/08/11/logo-piala-kemerdekaan-1754892270596_43.png?w=600&q=90" tvg-logo="https://akcdn.detik.net.id/community/media/visual/2025/08/11/logo-piala-kemerdekaan-1754892270596_43.png?w=600&q=90" group-title="LIVE-EVENT", timnas
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
 https://bf.jlbflive.cc/live/322713_hd01.m3u8?txSecret=df34fc69b353ea4d810cf6433fd43809&txTime=689f2adb
 
 
 #EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://akcdn.detik.net.id/community/media/visual/2025/08/11/logo-piala-kemerdekaan-1754892270596_43.png?w=600&q=90",INDOSIAR
 http://filex.me:8080/live/@B1gM0/qsavC6NPSm/302264.ts
+
+EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 19:00 WIB Malut United vs Bali United
+#EXTVLCOPT:http-origin=https://play.926003.tv
+#EXTVLCOPT:http-referrer=https://play.926003.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://pl10.chinefore.com/live/477fba55075a5098.m3u8?txSecret=b73421cd26bc2fb8186e1910d567bb5c&txTime=689F2321
+
+#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 19:00 WIB Malut United vs Bali United
+#EXTVLCOPT:http-origin=https://demo.zplayer.xyz
+#EXTVLCOPT:http-referrer=https://demo.zplayer.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://apisportzz179528093.nsnd.live/WLs7GaHg6igPB_dWhhwukw/Fv2lucGIbhPi2caWYvF5Lg/1755282091076/live/sd-6MuTNFjr5oDCw94EJf/chunklist.m3u8
+
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ppdd02.dtfjinikdinbiframe.shop/
