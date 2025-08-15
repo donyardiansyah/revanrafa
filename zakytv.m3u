@@ -1,3 +1,12 @@
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ppdd02.dtfjinikdinbiframe.shop/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-origin=https://ppdd02.dtfjinikdinbiframe.shop
+#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 15:30 WIB Semen Padang vs Dewa United Banten
+https://twnx1-cf.boblcfwudz421.com/auth%3D4c51015280d6b7942c133b35bebb4bd2664ff1a1809a18ff9eb0f2b0f14a902af4f7ffb8fc0e6978d01b601ce513ccdcf907d5dd0a23e8cd312876cf4a91c0e350d9d225c3193b8fc313659528201bf9d7ce879cd424efecd86d45d0a65c48b0bb1d86c58d35082adce101c80a3ecb5e3f9120da8db37268c87cb9a2fd28e4e9614b0ac21bcc41d5a7afb8053244fca0c1129fd115f27e96bc84f8bad9c1f8abeb3ccbfcb2c7d16a47d010ea79def3bcca15df212a7cef15ec2e3286185d18d86914d3fa42234fa5a96cd8d9f19ab98429ebdf330768330279a47f876eb706af%26cid%3D5HBjYeG5-hMGUMV2QnmGQ250808%26_v%3D2%26_r%3DXpa81R%26_vis%3D3f15c3246a92b5cb797b7e006fae2d303916e55a1944531e4e351e0f71d35e2a%26_vvs%3D545ea75c7f30eff21dd4977093d12017166e545e8b94f0bd98d5bf76ab64bb9f/app/c364726.m3u8
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.plcdn.xyz/ajax/chanel/type/7/link/channel9
 #EXTVLCOPT:network-caching=1000
