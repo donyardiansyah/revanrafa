@@ -3,6 +3,14 @@
 #EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://akcdn.detik.net.id/community/media/visual/2025/08/11/logo-piala-kemerdekaan-1754892270596_43.png?w=600&q=90",INDOSIAR
 http://filex.me:8080/live/@B1gM0/qsavC6NPSm/302264.ts
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ppdd02.dtfjinikdinbiframe.shop/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-origin=https://ppdd02.dtfjinikdinbiframe.shop
+#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 19:00 WIB Malut United vs Bali United
+https://twnx2-cf.boblcfwudz421.com/auth%3Da4737e3dc9e17a98667e75712a15d917298d32a5a2ecb73b851787f43472edf4bf22f3676eedb56b93b3b2644a9c738b3e2e8b4441763d9b60bc1455e296c9e537f3e151cfab8e966c9421d4f13023502e838819ccf4340b0e0fbc747b588919f1fab58145299be24e6579dc8d4d22c36482eb11826426cbb2f4c23cfea9cdc9e3582a7e3b0d6938b14bdff1b02e4f6537e16bde00b5487c0310031a2b1af1da%26cid%3D5HBjYeG5-hMGUMV2QnmGQ250808%26_v%3D2%26_r%3DBilWPV%26_vis%3D5c5356322daf029d79c6e7a0fe564227f241b3d4a6449a3e2912ee28237caeed%26_vvs%3Dc18b6f8a10783b0b25e54ca6e6ef2288671679b7d1809c7b12fcde8bc170029e/transcode/c364620_480p.m3u8
+
 
 #EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a8/SEA_V.League.png", Sea V League Putri [1-10 Agustus 2025] 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
