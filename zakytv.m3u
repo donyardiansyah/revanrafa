@@ -1,3 +1,10 @@
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.plcdn.xyz/ajax/chanel/type/7/link/channel9
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-origin=https://xl365.plcdn.xyz
+#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 15:30 WIB Semen Padang vs Dewa United Banten
+https://live1.pro2cdnlive.com/live/channel5.flv?wsSecret=67d8abe5b90921f54604785565586ac8&wsABSTime=1755275404
 
 
 #EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://akcdn.detik.net.id/community/media/visual/2025/08/11/logo-piala-kemerdekaan-1754892270596_43.png?w=600&q=90",INDOSIAR
