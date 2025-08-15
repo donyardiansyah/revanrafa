@@ -4,17 +4,14 @@
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 https://seprai.jasoncreak8.workers.dev/play.mpd?id=19332&type=dash
 
-
-
 #EXTINF:-1 " tvg-id=" mojitv" tvg-url="https://akcdn.detik.net.id/community/media/visual/2025/08/11/logo-piala-kemerdekaan-1754892270596_43.png?w=600&q=90" tvg-logo="https://akcdn.detik.net.id/community/media/visual/2025/08/11/logo-piala-kemerdekaan-1754892270596_43.png?w=600&q=90" group-title="LIVE-EVENT", timnas
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
 https://bf.jlbflive.cc/live/322713_hd01.m3u8?txSecret=df34fc69b353ea4d810cf6433fd43809&txTime=689f2adb
 
-
 #EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://akcdn.detik.net.id/community/media/visual/2025/08/11/logo-piala-kemerdekaan-1754892270596_43.png?w=600&q=90",INDOSIAR
 http://filex.me:8080/live/@B1gM0/qsavC6NPSm/302264.ts
 
-EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 19:00 WIB Malut United vs Bali United
+#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 19:00 WIB Malut United vs Bali United
 #EXTVLCOPT:http-origin=https://play.926003.tv
 #EXTVLCOPT:http-referrer=https://play.926003.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
@@ -26,7 +23,6 @@ https://pl10.chinefore.com/live/477fba55075a5098.m3u8?txSecret=b73421cd26bc2fb81
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://apisportzz179528093.nsnd.live/WLs7GaHg6igPB_dWhhwukw/Fv2lucGIbhPi2caWYvF5Lg/1755282091076/live/sd-6MuTNFjr5oDCw94EJf/chunklist.m3u8
 
-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ppdd02.dtfjinikdinbiframe.shop/
 #EXTVLCOPT:network-caching=1000
@@ -34,7 +30,6 @@ https://apisportzz179528093.nsnd.live/WLs7GaHg6igPB_dWhhwukw/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-origin=https://ppdd02.dtfjinikdinbiframe.shop
 #EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 19:00 WIB Malut United vs Bali United
 https://twnx2-cf.boblcfwudz421.com/auth%3Da4737e3dc9e17a98667e75712a15d917298d32a5a2ecb73b851787f43472edf4bf22f3676eedb56b93b3b2644a9c738b3e2e8b4441763d9b60bc1455e296c9e537f3e151cfab8e966c9421d4f13023502e838819ccf4340b0e0fbc747b588919f1fab58145299be24e6579dc8d4d22c36482eb11826426cbb2f4c23cfea9cdc9e3582a7e3b0d6938b14bdff1b02e4f6537e16bde00b5487c0310031a2b1af1da%26cid%3D5HBjYeG5-hMGUMV2QnmGQ250808%26_v%3D2%26_r%3DBilWPV%26_vis%3D5c5356322daf029d79c6e7a0fe564227f241b3d4a6449a3e2912ee28237caeed%26_vvs%3Dc18b6f8a10783b0b25e54ca6e6ef2288671679b7d1809c7b12fcde8bc170029e/transcode/c364620_480p.m3u8
-
 
 #EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a8/SEA_V.League.png", Sea V League Putri [1-10 Agustus 2025] 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -86,7 +81,6 @@ http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 #EXTINF:0 tvg-id="" tvg-name="ID: Moji" tvg-logo="https://thumbor.prod.vidiocdn.com/WgV08OmwI9p1qd7IJTni1t9uxoo=/640x360/filters:quality(70)/vidio-web-prod-video/uploads/video/image/8156027/press-conference-proliga-2024-c0be19.jpg" group-title="NASIONAL TV",MOJI
 https://raw.githubusercontent.com/quuen2024/oy/refs/heads/queen/moj1.m3u8
-
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=video/mp2t
@@ -183,7 +177,6 @@ http://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
-
 
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
