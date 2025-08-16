@@ -44,38 +44,11 @@ https://twnx1-cf.boblcfwudz421.com/auth%3Df23a092ad90ffe8cbb431440ffba71786db688
 #EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 15:30 WIB BRI Super League WIFI ONLY
 https://twnx3-cf.boblcfwudz421.com/auth%3Dd4a0687aab8dad65e0913c7001582ca0611d2ffe39326ecc5ad3c6846dafd03c6fc38b53b57a929dca2ce244732a91cd82fa700f2051f1780949922df43510cf7044fd76ba68e437d7f70114a2d2e14411b4cee5c49f11b0185a870a14ac70dcf1501b7e94717b33fd429f607aed6d425e127b1893b0bc52676bb260a04c478705674b9f97cbf6aab0bc34a0d468323dc450926bab05254f8bbce27d522919bb54a07cc28919cb243213bd399a11eac9e38c75f3d953695c1ca0ebe3eb2042a1a3e9ee958de03f95709ff32c541e338e7640a3a064c6475201e35c0a4e6f82a135443b20911edf725d73636c55f16e64b231a460b32c7932a191285dacbc7d0c9d46689dcd9a68fc1b3cd618e6270ae799e0027af1716642445f88fceb983c65%26cid%3D5HBjYeG5-hMGUMV2QnmGQ250808%26_v%3D2%26_r%3D4s6ent%26_vis%3D89a78f3bc278036bc064e4113f272d063cf27c92162f936e8fb9643d05b57044%26_vvs%3Da75ae6e414d373d64a0d3c781bf6dda8ba718a2831ea1373a4d930f33ef22202/app/c364538.m3u8
 
-
-
 #EXTINF:-1 " tvg-id=" mojitv" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://thumbor.prod.vidiocdn.com/aPPmW1_4evxhzTorDecdCNYJtp0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4501329/f3833f.jpg" group-title="LIVE-EVENT", jogja vs arema
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
 https://bf.jlbflive.cc/live/322715_hd01.m3u8?txSecret=383ffce94bf962b268c4b6a1a04620c6&txTime=68a041a1
 
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.plcdn.xyz/ajax/chanel/type/7/link/channel9
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-origin=https://xl365.plcdn.xyz
-#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://cdns.klimg.com/bola.net/library/upload/21/2025/08/996x664/voli-2_4c6c6bc.jpg", 002 10:00 13:00 16:00 dan 19:00 WIB
-https://live1.pro2cdnlive.com/live/channel9.flv?wsSecret=3b3000f1b98e7c7defac6866a4528409&wsABSTime=1754931890
-
-#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://cdns.klimg.com/bola.net/library/upload/21/2025/08/996x664/voli-2_4c6c6bc.jpg", 002 10:00 13:00 16:00 dan 19:00 WIB
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play?id=19331&type=drm
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-https://seprai.jasoncreak8.workers.dev/play.mpd?id=19331&type=dash
-
-#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://cdns.klimg.com/bola.net/library/upload/21/2025/08/996x664/voli-2_4c6c6bc.jpg", 002 10:00 13:00 16:00 dan 19:00 WIB
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play?id=19332&type=drm
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-https://seprai.jasoncreak8.workers.dev/play.mpd?id=19332&type=dash
-
-#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://cdns.klimg.com/bola.net/library/upload/21/2025/08/996x664/voli-2_4c6c6bc.jpg", 002 10:00 13:00 16:00 dan 19:00 WIB
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play?id=19334&type=drm
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-https://seprai.jasoncreak8.workers.dev/play.mpd?id=19334&type=dash
 
 
 ========= NASIONAL TV--=====
