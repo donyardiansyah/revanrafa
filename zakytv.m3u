@@ -6,43 +6,15 @@
 #EXTVLCOPT:http-reconnect=true
 https://av-cdn.rkda.my.id:8443/memfs/87cafbdb-78a4-4b73-a52a-af58f4b42800.m3u8
 
-#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 15:30 WIB Bhayangkara vs PSM
-#EXTVLCOPT:http-origin=https://demo.zplayer.xyz
-#EXTVLCOPT:http-referrer=https://demo.zplayer.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://apisportzz179528093.nsnd.live/CnaBCf3anwBNXpKcGIqvAw/Fv2lucGIbhPi2caWYvF5Lg/1755354232457/live/sd-6MuTNFjrG4rRo9wasd/playlist.m3u8
-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ppdd02.dtfjinikdinbiframe.shop/
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-origin=https://ppdd02.dtfjinikdinbiframe.shop
-#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 15:30 WIB BRI Super League WIFI ONLY
-https://twnx2-cf.boblcfwudz421.com/auth%3D4e20cf4040d39f2c0edabf9a33f0aeb2ec64f929472058cb30a14c0c534686690506c2e4c864b824bf95bc18539d75673c443193ff126c4d036bd212f6b5ceef30d64290b9679ecaed5ca258034b708f6749ddf6d5c90e5bd881fc04165f202977c017878d92b6b262cb6dfea1f9586e2ef61f4ecbf0d2b5bd9ee332314315fca68361e317ac6f781b087d0e81929767f9968ab54adebf054ad518b0edea5acc%26cid%3D5HBjYeG5-hMGUMV2QnmGQ250808%26_v%3D2%26_r%3Dgg4j50%26_vis%3D0d53913541657d4ae5a8d820af86fd0a48fcbdb9d6637a044b0fc4ad61bde4df%26_vvs%3D14a4f51932b7d611a7bb58b7f8a5990e2c5776231b188d45fa50bd1d9d9aa522/app/c364740.m3u8
+#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 19:00 WIB Persis Solo vs Persija
+https://twnx2-cf.boblcfwudz421.com/auth%3Dfae3500a34a15e5181151ec6823204e629b09b40ca59002a4330c0cbc3c53cab9d45a51ee4cfa36a890122961b7d31ee6bdd0fd89bc0ed70c49a69b70a05516aaeb8b22adaa288f39ca2f056104271c4e06c119aca9ef9d5f441577d78bcf7228c0e43297b95851ed87ed8776dff0701b728bcb1bcebe6b4b1c53f26725a0adea849e895578369aeca562ecdea86a6ca6780caf028f8431b0949f489a6868a01%26cid%3D5HBjYeG5-hMGUMV2QnmGQ250808%26_v%3D2%26_r%3DTDN75L%26_vis%3D7f6d0164a35629c8b97a58b9a9f12e7eeca1c78216dba1d998016c0db460c09d%26_vvs%3D93b2d777dd6eaec279c92a88cabb8a23b0e2d996e74500ee3efb8dbcb41af53c/app/c364965.m3u8
+https://twnx3-cf.boblcfwudz421.com/auth%3Dfae3500a34a15e5181151ec6823204e629b09b40ca59002a4330c0cbc3c53cab9d45a51ee4cfa36a890122961b7d31ee6bdd0fd89bc0ed70c49a69b70a05516aaeb8b22adaa288f39ca2f056104271c4e06c119aca9ef9d5f441577d78bcf7228c0e43297b95851ed87ed8776dff0701b728bcb1bcebe6b4b1c53f26725a0adea849e895578369aeca562ecdea86a6ca6780caf028f8431b0949f489a6868a01%26cid%3D5HBjYeG5-hMGUMV2QnmGQ250808%26_v%3D2%26_r%3DTDN75L%26_vis%3D7f6d0164a35629c8b97a58b9a9f12e7eeca1c78216dba1d998016c0db460c09d%26_vvs%3D93b2d777dd6eaec279c92a88cabb8a23b0e2d996e74500ee3efb8dbcb41af53c/app/c364965.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ppdd02.dtfjinikdinbiframe.shop/
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-origin=https://ppdd02.dtfjinikdinbiframe.shop
-#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 15:30 WIB BRI Super League WIFI ONLY
-https://twnx1-cf.boblcfwudz421.com/auth%3D34bc61c841e9594ef7b54f038514b5aa516999ffc0601e50e20f12926cfb82a46f5fce32f748e5b5c8851ae20840d07202f3ede56970d3a575f4a033b592e05e224138fda32fa9ff832741a0b2560889144bd5e779b6c2691861360ab59f7dcf8c5a0a973cd4f6f02885e46a95b5763f8a2b1e0cde48093ee06c7848fced15882489c6c0375f65bd6c276561e16daf1d004b70804c1b583021380e4a3eabc284%26cid%3D5HBjYeG5-hMGUMV2QnmGQ250808%26_v%3D2%26_r%3D3wGfyt%26_vis%3D313ac7b6cb2d4d4afa6892a128b047592bbb0981507d7c9d5fcc0ec742a6c6b1%26_vvs%3Dc9306cbf7d8bc34a075f12ada47438246202ecbf4994dd7930188e3aff05f90c/app/c364966.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ppdd02.dtfjinikdinbiframe.shop/
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-origin=https://ppdd02.dtfjinikdinbiframe.shop
-#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 15:30 WIB BRI Super League WIFI ONLY
-https://twnx1-cf.boblcfwudz421.com/auth%3Df23a092ad90ffe8cbb431440ffba71786db688054d1da08475cc56c7738f070e1eb0f50bebaa743bc35101a6879d890f05d2fd98a511176cd2f729604d9f5239a780468aa229026921da790bd190c80ef9d5b66d2e93b91c113d489bfdd8757baa3c81975b7da6f5942f53a35b6290a81577a98dac8098a42f88ed6530dab5bec2adfac876013a1d0ca4933176dafd94d92df38a3ab3834db5f2659e765ad421%26cid%3D5HBjYeG5-hMGUMV2QnmGQ250808%26_v%3D2%26_r%3DmmkQzM%26_vis%3Dbfaa806fb80c0212109d6b586c1e29d4c8aaca154ce835fb1c13c92418fe0a26%26_vvs%3D442e78af010ee9c65484fec9e2ae09d8f39e0fc182e838c4bd1b0ba45564d6fa/transcode/c364975_480p.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ppdd02.dtfjinikdinbiframe.shop/
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-origin=https://ppdd02.dtfjinikdinbiframe.shop
-#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 15:30 WIB BRI Super League WIFI ONLY
-https://twnx3-cf.boblcfwudz421.com/auth%3Dd4a0687aab8dad65e0913c7001582ca0611d2ffe39326ecc5ad3c6846dafd03c6fc38b53b57a929dca2ce244732a91cd82fa700f2051f1780949922df43510cf7044fd76ba68e437d7f70114a2d2e14411b4cee5c49f11b0185a870a14ac70dcf1501b7e94717b33fd429f607aed6d425e127b1893b0bc52676bb260a04c478705674b9f97cbf6aab0bc34a0d468323dc450926bab05254f8bbce27d522919bb54a07cc28919cb243213bd399a11eac9e38c75f3d953695c1ca0ebe3eb2042a1a3e9ee958de03f95709ff32c541e338e7640a3a064c6475201e35c0a4e6f82a135443b20911edf725d73636c55f16e64b231a460b32c7932a191285dacbc7d0c9d46689dcd9a68fc1b3cd618e6270ae799e0027af1716642445f88fceb983c65%26cid%3D5HBjYeG5-hMGUMV2QnmGQ250808%26_v%3D2%26_r%3D4s6ent%26_vis%3D89a78f3bc278036bc064e4113f272d063cf27c92162f936e8fb9643d05b57044%26_vvs%3Da75ae6e414d373d64a0d3c781bf6dda8ba718a2831ea1373a4d930f33ef22202/app/c364538.m3u8
 
 #EXTINF:-1 " tvg-id=" mojitv" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://thumbor.prod.vidiocdn.com/aPPmW1_4evxhzTorDecdCNYJtp0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4501329/f3833f.jpg" group-title="LIVE-EVENT", jogja vs arema
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
