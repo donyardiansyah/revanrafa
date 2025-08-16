@@ -6,35 +6,11 @@
 #EXTVLCOPT:http-reconnect=true
 https://av-cdn.rkda.my.id:8443/memfs/87cafbdb-78a4-4b73-a52a-af58f4b42800.m3u8
 
-#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://iili.io/FtSr5Mb.jpg", 18:30 WIB Aston Villa vs Newcastle United
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=333962e3e1383529867a9a0e28a5e5d1:5d3fcbed53749ee622ed0e64f31c1cbf
-https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
 
-#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://iili.io/FtSr5Mb.jpg", 21:00 WIB Brighton & Hove Albion vs Fulham
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=333962e3e1383529867a9a0e28a5e5d1:5d3fcbed53749ee622ed0e64f31c1cbf
-https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
-
-#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://iili.io/FtSr5Mb.jpg", 21:00 WIB Tottenham Hotspur vs Burnley
-#EXTVLCOPT:http-origin=https://demo.zplayer.xyz
-#EXTVLCOPT:http-referrer=https://demo.zplayer.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://hotlivezz179602324.akainu.xyz/MuQF-kEj_D3LNss97T4OUg/Fv2lucGIbhPi2caWYvF5Lg/1754650862142/live/trauSD/chunklist.m3u8
-
-#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://iili.io/FtSr5Mb.jpg", 23:30 WIB Wolverhampton Wanderers vs Manchester City
-#EXTVLCOPT:http-origin=https://demo.zplayer.xyz
-#EXTVLCOPT:http-referrer=https://demo.zplayer.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://hotlivezz179602324.akainu.xyz/MTA0hlGbu-RDT0QYH7dvfQ/Fv2lucGIbhPi2caWYvF5Lg/1754674242274/live/mySD/chunklist.m3u8
 
 #EXTINF:-1 " tvg-id="jalalive" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png" group-title="LIVE-EVENT", PSO VS PSJ
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
-https://bf.jlbflive.cc/live/5004455_hd01.m3u8?txSecret=90422a51926b196ff41c35201efedb3f&txTime=68a08633
+
 
 ========= NASIONAL TV--=====
 
