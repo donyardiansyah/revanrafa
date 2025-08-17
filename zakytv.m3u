@@ -6,11 +6,11 @@
 #EXTVLCOPT:http-reconnect=true
 #https://av-cdn.rkda.my.id:8443/memfs/87cafbdb-78a4-4b73-a52a-af58f4b42800.m3u8
 
-
-#EXTINF:-1 tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/RRKqA-C_gfSnlqfHRgyGbfLEvjM=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/32178/bri-super-league-2025-26-d75572.jpg" group-title="LIVE-EVENT" ,TEST VIDIO
+#EXTINF:-1 tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/0plBZ7Gso7gNBJxid9ksA8HMGxc=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/54ab19.png" group-title="LIVE-EVENT" ,VIDIO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://popmi.my.id/tes.m3u8?id=205
+
 
 #EXTINF:-1 " tvg-id="jalalive" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png" group-title="LIVE-EVENT", PSO VS PSJ
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
