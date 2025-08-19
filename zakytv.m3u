@@ -4,7 +4,7 @@
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19354&type=drm
-https://spacetv.my.id/index.mpd?id=19354&type=dash
+#https://spacetv.my.id/index.mpd?id=19354&type=dash
 
 #EXTVLCOPT:http-referrer=https://ppdd02.dtfjinikdinbiframe.shop/
 #EXTVLCOPT:network-caching=1000
@@ -13,19 +13,50 @@ https://spacetv.my.id/index.mpd?id=19354&type=dash
 #EXTVLCOPT:http-origin=https://ppdd02.dtfjinikdinbiframe.shop
 #EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVMLy_MRGHl4sdLzEYpmH9MCL81Febx-5PmA&s", 20:30 WIB Indonesia U17 vs Mali U17
 #https://twnx3-cf.boblcfwudz421.com/auth%3D94356bdbf70d69a541b7d44050e9ee870db20d54676faa9ea696ccfcb089e66edcccc22dea4a4e1958f72ed77ad2450520d836d766cb43a42f449038955da44a143cc411f2a464419a97b38910081efe3956a42316f4a1c9cedfdad7e5766ff25c4d41521fd26f8bb4ddd2e343d3df974205e48c313d0810c458d0e6314f653d840ea9ab9f6cd830106c0328e364e77e718704970b28b536d430a431c72ed112%26cid%3D5HBjYeG5-hMGUMV2QnmGQ250808%26_v%3D2%26_r%3D0e6lPP%26_vis%3D1c9cf11dd0833e932ecd34cfa4158aab79c8bcf71d188bf203cc53f23a8b5c78%26_vvs%3D10c0d5ae7b14f8a0e80d3c96270e6024dfb9a2650c5db8b1cada2c52dec5fe96/transcode/c365405_480p.m3u8
-https://twnx3-cf.boblcfwudz421.com/auth%3D94356bdbf70d69a541b7d44050e9ee870db20d54676faa9ea696ccfcb089e66edcccc22dea4a4e1958f72ed77ad2450520d836d766cb43a42f449038955da44a143cc411f2a464419a97b38910081efe3956a42316f4a1c9cedfdad7e5766ff25c4d41521fd26f8bb4ddd2e343d3df974205e48c313d0810c458d0e6314f653d840ea9ab9f6cd830106c0328e364e77e718704970b28b536d430a431c72ed112%26cid%3D5HBjYeG5-hMGUMV2QnmGQ250808%26_v%3D2%26_r%3D0e6lPP%26_vis%3D1c9cf11dd0833e932ecd34cfa4158aab79c8bcf71d188bf203cc53f23a8b5c78%26_vvs%3D10c0d5ae7b14f8a0e80d3c96270e6024dfb9a2650c5db8b1cada2c52dec5fe96/transcode/c365405_480p.m3u8
+#https://twnx3-cf.boblcfwudz421.com/auth%3D94356bdbf70d69a541b7d44050e9ee870db20d54676faa9ea696ccfcb089e66edcccc22dea4a4e1958f72ed77ad2450520d836d766cb43a42f449038955da44a143cc411f2a464419a97b38910081efe3956a42316f4a1c9cedfdad7e5766ff25c4d41521fd26f8bb4ddd2e343d3df974205e48c313d0810c458d0e6314f653d840ea9ab9f6cd830106c0328e364e77e718704970b28b536d430a431c72ed112%26cid%3D5HBjYeG5-hMGUMV2QnmGQ250808%26_v%3D2%26_r%3D0e6lPP%26_vis%3D1c9cf11dd0833e932ecd34cfa4158aab79c8bcf71d188bf203cc53f23a8b5c78%26_vvs%3D10c0d5ae7b14f8a0e80d3c96270e6024dfb9a2650c5db8b1cada2c52dec5fe96/transcode/c365405_480p.m3u8
 
 
 #EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVMLy_MRGHl4sdLzEYpmH9MCL81Febx-5PmA&s", 20:30 WIB Indonesia U17 vs Mali U17
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play?id=19367&type=drm
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-https://seprai.jasoncreak8.workers.dev/play.mpd?id=19367&type=dash
+$https://seprai.jasoncreak8.workers.dev/play.mpd?id=19367&type=dash
 
 #EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVMLy_MRGHl4sdLzEYpmH9MCL81Febx-5PmA&s", 20:30 WIB Indonesia U17 vs Mali U17
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19367&type=drm
+
+#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://iili.io/FtSMHX9.jpg", 02:00 WIB Real Madrid vs Osasuna
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
+
+
+#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRraikz1kfcz-nF2WVlSwIpTDDYSa3YRt5qjw&s", 02:00 WIB Crvena Zvezda vs Pafos
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
+
+#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRraikz1kfcz-nF2WVlSwIpTDDYSa3YRt5qjw&s", 02:00 WIB Rangers vs Club Brugge
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
+
+#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRraikz1kfcz-nF2WVlSwIpTDDYSa3YRt5qjw&s", 02:00 WIB Ferencvarosi TC vs Qarabag
+#EXTVLCOPT:http-origin=https://demo.zplayer.xyz
+#EXTVLCOPT:http-referrer=https://demo.zplayer.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://hotlivezz179602324.akainu.xyz/VQisL1gf0ICTUWhInO-M2Q/Fv2lucGIbhPi2caWYvF5Lg/1755377706459/live/cuonSD/chunklist.m3u8
 https://spacetv.my.id/index.mpd?id=19367&type=dash
 
 
@@ -35,16 +66,21 @@ https://spacetv.my.id/index.mpd?id=19367&type=dash
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #EXTVLCOPT:http-connection-timeout=5000
 #EXTVLCOPT:http-reconnect=true
-https://av-cdn.rkda.my.id:8443/memfs/87cafbdb-78a4-4b73-a52a-af58f4b42800.m3u8
+#https://av-cdn.rkda.my.id:8443/memfs/87cafbdb-78a4-4b73-a52a-af58f4b42800.m3u8
 
 #EXTINF:-1 tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/0plBZ7Gso7gNBJxid9ksA8HMGxc=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/54ab19.png" group-title="LIVE-EVENT" ,VIDIO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #https://popmi.my.id/tes.m3u8?id=205
 
+#EXTINF:-1 tvg-logo="https://static.rctiplus.id/media/400/files/fta_rcti/Channel_Logo/RCTI.png" group-title="LIVE-EVENT",GDSTV
+http://extraott-iptv.com:88/live/0229477349/8104258135/400200742.m3u8
+
+
 #EXTINF:-1 " tvg-id="jalalive" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png" group-title="LIVE-EVENT",idn vs mali
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
-https://bf.jlbflive.cc/live/5004443_hd01.m3u8?txSecret=5b6e66c63a4224f77aafbe95294e80c2&txTime=68a32b47
+
+
 ========= NASIONAL TV--=====
 
 #EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://thumbor.prod.vidiocdn.com/RRKqA-C_gfSnlqfHRgyGbfLEvjM=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/32178/bri-super-league-2025-26-d75572.jpg", DENSTV SPORT
