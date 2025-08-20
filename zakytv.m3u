@@ -1,6 +1,46 @@
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNs8LLr96r4G0zeESJfmxcXcVA8ftYK0y9sg&usqp=CAU" group-title="LIVE-EVENT",OJO SUE SUE - GADIS MURYANI OM WONGJOWO MADIUN X CEP AUDIO
 https://www.dropbox.com/scl/fi/omz93l1jovgdufr28qidz/OJO-SUE-SUE-GADIS-MURYANI-OM-WONGJOWO-MADIUN-X-CEP-AUDIO-PRO-720P_60FPS.mp4?rlkey=u7id1o4r0g6fk8pceqscpbln5&st=1lxm06iu&dl=1
 
+
+#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://cms.disway.id/uploads/ecd822490e7c3145b74f5f84314462ee.png", 18:00 WIB Dynamic Herb Cebu vs Tampines Rovers FC
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
+
+#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://cms.disway.id/uploads/ecd822490e7c3145b74f5f84314462ee.png", 19:00 WIB Buriram United vs Selangor
+#EXTVLCOPT:http-origin=https://demo.zplayer.xyz
+#EXTVLCOPT:http-referrer=https://demo.zplayer.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://apisportzz179528093.nsnd.live/SL_sK-50qve2EIG_OX3PWQ/Fv2lucGIbhPi2caWYvF5Lg/1755712517582/live/sd-6MvXbwFUnY9urGY94P/chunklist.m3u8
+https://hotlivezz179602324.akainu.xyz/F6LXH75UqjSl8IFdeEYkag/Fv2lucGIbhPi2caWYvF5Lg/1755378612443/live/dungSD/chunklist.m3u8
+
+#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://cms.disway.id/uploads/ecd822490e7c3145b74f5f84314462ee.png", 18:00 WIB Dynamic Herb Cebu vs Tampines Rovers FC
+#EXTVLCOPT:http-origin=https://demo.zplayer.xyz
+#EXTVLCOPT:http-referrer=https://demo.zplayer.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://hotlivezz179602324.akainu.xyz/lMOUfmCtx8JMNagn7zHocA/Fv2lucGIbhPi2caWYvF5Lg/1753982712229/live/conSD/chunklist.m3u8
+
+#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://cms.disway.id/uploads/ecd822490e7c3145b74f5f84314462ee.png", 19:00 WIB BG Pathum United vs Công An Hà Nội
+#EXTVLCOPT:http-origin=https://demo.zplayer.xyz
+#EXTVLCOPT:http-referrer=https://demo.zplayer.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://hotlivezz179602324.akainu.xyz/ac-WkMjrAClNtg7p_XpZkA/Fv2lucGIbhPi2caWYvF5Lg/1754584506572/live/cunSD/chunklist.m3u8
+
+
+#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://pbs.twimg.com/media/Gtz44SaWsAAn99R.jpg", 19:00 WIB  Al Qadasiya vs Al Ahli
+#EXTVLCOPT:http-origin=https://play.926001.cc
+#EXTVLCOPT:http-referrer=https://play.926001.cc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://pl10.chinefore.com/live/66bf292b043ca613.m3u8?txSecret=03f2af8dd8510277f3758f30a60abbfb&txTime=68A5B975
+
+#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://pbs.twimg.com/media/Gtz44SaWsAAn99R.jpg", 19:00 WIB  Al Qadasiya vs Al Ahli
+#EXTVLCOPT:http-origin=https://demo.zplayer.xyz
+#EXTVLCOPT:http-referrer=https://demo.zplayer.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://hotlivezz179602324.akainu.xyz/By182A9yeJK1hzewXJqvBw/Fv2lucGIbhPi2caWYvF5Lg/1755710661221/live/Z1SD/chunklist.m3u8
+
 #EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 18:30 WIB Persijap vs Persib
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
