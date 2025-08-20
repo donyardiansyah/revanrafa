@@ -77,9 +77,9 @@ https://seprai.jasoncreak8.workers.dev/play.mpd?id=19406&type=dash
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #https://popmi.my.id/tes.m3u8?id=205
 
-#EXTINF:-1 " tvg-id="jalalive" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png" group-title="LIVE-EVENT",timoer lestevs idn
+#EXTINF:-1 " tvg-id="jalalive" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png" group-title="LIVE-EVENT",timoer leste vs idn
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
-https://bf.jlbflive.cc/live/322720_hd01.m3u8?txSecret=e3fe46017c271e61827f2872bce86068&txTime=68a5c07f
+https://bf.jlbflive.cc/live/322720_hd01.m3u8?txSecret=ceb0edb28f7698fa3bfc4d57870396b2&txTime=68a5c1f3
 
 ========= NASIONAL TV--=====
 
