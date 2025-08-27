@@ -2,18 +2,18 @@
 #EXTINF:-1 " tvg-id="jalalive" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png" group-title="LIVE-EVENT",timoer leste vs idn
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
 
-#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWD30aTjJLa9hs4101I54HYSWkO-rSqXlcmg&s", 19:30 WIB Indonesia vs Malaysia Women U-16
+#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://thumbor.prod.vidiocdn.com/U-HgR1xywV1tsJGZLHyvoEvS7ic=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/32541/indonesia-vs-australia-e93705.jpg", 19:30 WIB Indonesia vs Australia Women U-16
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19406&type=drm
 https://spacetv.my.id/index.mpd?id=19406&type=dash
 
 
-#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0TM6Wbes1mPSabldXbtHfUe-teHeFnldfNw&s", Volly ball
+#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://thumbor.prod.vidiocdn.com/U-HgR1xywV1tsJGZLHyvoEvS7ic=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/32541/indonesia-vs-australia-e93705.jpg", test
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play?id=19332&type=drm
+#KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play?id=19406&type=drm
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#https://seprai.jasoncreak8.workers.dev/play.mpd?id=19332&type=dash
+#https://seprai.jasoncreak8.workers.dev/play.mpd?id=19406&type=dash
 
 #EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", LIGA BRI
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
