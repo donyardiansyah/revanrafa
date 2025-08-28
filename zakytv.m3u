@@ -6,61 +6,70 @@
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19406&type=drm
-https://spacetv.my.id/index.mpd?id=19406&type=dash
-
+#https://spacetv.my.id/index.mpd?id=19406&type=dash
 
 #EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWD30aTjJLa9hs4101I54HYSWkO-rSqXlcmg&s", test
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play?id=19406&type=drm
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-https://seprai.jasoncreak8.workers.dev/play.mpd?id=19406&type=dash
+#https://seprai.jasoncreak8.workers.dev/play.mpd?id=19406&type=dash
 
 #EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", LIGA BRI
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play?id=19354&type=drm
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-https://seprai.jasoncreak8.workers.dev/play.mpd?id=19354&type=dash
+#https://seprai.jasoncreak8.workers.dev/play.mpd?id=19354&type=dash
 
 #EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0TM6Wbes1mPSabldXbtHfUe-teHeFnldfNw&s", volly ball
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play?id=19331&type=drm
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-https://seprai.jasoncreak8.workers.dev/play.mpd?id=19331&type=dash
+#https://seprai.jasoncreak8.workers.dev/play.mpd?id=19331&type=dash
 
 
 #EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0TM6Wbes1mPSabldXbtHfUe-teHeFnldfNw&s", Volly ball
 #KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play?id=19334&type=drm
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-https://seprai.jasoncreak8.workers.dev/play.mpd?id=19334&type=dash
+#https://seprai.jasoncreak8.workers.dev/play.mpd?id=19334&type=dash
 
 #EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0TM6Wbes1mPSabldXbtHfUe-teHeFnldfNw&s", Volly ball
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19334&type=drm
-https://spacetv.my.id/index.mpd?id=19334&type=dash
+#https://spacetv.my.id/index.mpd?id=19334&type=dash
 
 
 #EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://thumbor.prod.vidiocdn.com/EltXwTqLhCP2mHbPb_eTw6iSPQE=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/32301/indonesia-vs-puerto-rico-c18a46.jpg", Volly ball
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play?id=19412&type=drm
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-https://seprai.jasoncreak8.workers.dev/play.mpd?id=19412&type=dash
+#https://seprai.jasoncreak8.workers.dev/play.mpd?id=19412&type=dash
 
 #EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://thumbor.prod.vidiocdn.com/EltXwTqLhCP2mHbPb_eTw6iSPQE=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/32301/indonesia-vs-puerto-rico-c18a46.jpg", Volly ball
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19412&type=drm
-https://spacetv.my.id/index.mpd?id=19412&type=dash
+#https://spacetv.my.id/index.mpd?id=19412&type=dash
 
 #EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", BRI SUPER LEAGUE
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19354&type=drm
-https://spacetv.my.id/index.mpd?id=19354&type=dash
+#https://spacetv.my.id/index.mpd?id=19354&type=dash
 
 
-#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://cms.disway.id/uploads/ecd822490e7c3145b74f5f84314462ee.png", 16:30 WIB Johor Darul Takzim vs Lion City Sailors
+
+#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCL0c7oJjAWwd33gJPx1AZevMJ3A5xwbr_eA&s", 19:30 WIB UEFA Conference League 2025/2026 Draw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
+https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+
+
+#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://cms.disway.id/uploads/ecd822490e7c3145b74f5f84314462ee.png", live sport
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
