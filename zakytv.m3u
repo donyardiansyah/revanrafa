@@ -42,9 +42,9 @@ https://spacetv.my.id/index.mpd?id=19497&type=dash
 #https://seprai.jasoncreak8.workers.dev/play.mpd?id=9182&type=dash
 
 
-#EXTINF:-1 " tvg-id="jalalive" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png" group-title="LIVE-EVENT",idn vs laos
+#EXTINF:-1 " tvg-id="jalalive" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png" group-title="LIVE-EVENT",idn vs taipeh
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
-#https://bf.jlbflive.cc/live/322677_hd01.m3u8?txSecret=2ef3ad402d49878dc3f61f63e64b01f9&txTime=68b839aa
+https://bf.jlbflive.cc/live/322720_hd01.m3u8?txSecret=ab445447d0052baf03b63fc70451e81e&txTime=68baec6a
 
 #EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://thumbor.prod.vidiocdn.com/xEvVJ3LBNVhT0xtVS-CQ7zNC91k=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/32488/vietnam-vs-indonesia-b2ca7d.jpg", Vietnam vs Indonesia  
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
