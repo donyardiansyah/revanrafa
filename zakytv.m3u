@@ -4,7 +4,7 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3dcfbec0e7146928baa55210bf2cb62f:bc85f74f815d9be5ae1dd6defaa05135
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
-############################################voli#####$$$$$$$$$$$$
+############################################  voli #####$$$$$$$$$$$$
 
 #EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/08/Logo_Livoli_Divisi_Utama.png", 16:00 WIB Livoli Divisi Utama 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -24,7 +24,7 @@ https://spacetv.my.id/index.mpd?id=19488&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19488&type=drm
 https://spacetv.my.id/index.mpd?id=19488&type=dash
 
-@###############$$############timnas#######$$$$
+@###############$$############ timnas #######$$$$#####$$$$$
 #EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png", 20:30 WIB Indonesia vs Chinese Taipei
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play?id=19497&type=drm
@@ -51,12 +51,13 @@ https://hotlivezz179602324.akainu.xyz/0l-zbavOG-tDeHH0JS5xSQ/Fv2lucGIbhPi2caWYvF
 #EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png", 20:30 WIB Indonesia vs Chinese Taipei
 https://twnx3-cf.boblcfwudz421.com/auth%3Dd08e9d65fbd0c649f53bc8436cabf1ad7af766f181670d2a18a8b649896a6267b1bd21bde1030efa19d35237cda451fc5c4750cbad8abb29a6ab8edddcaad1e0629404716e8822bbebbb5396dbe810be1ae2aa0345430fdfe6c7e754eb3b0c67d88fc576e466e9c1c500bad862035e2404e6092e1704758f977508e77724929d483b5e236d0c834f2434927ecb6a88f0d14f56979778c7cbdb3bd79dd192d09e%26cid%3DYvoz9_UXqTEZam7X2zhhz250903%26_v%3D2%26_r%3Dt22Beq%26_vis%3D6c2d24113ff392ddd0a73c231aa6e347e9dc6dea8653262e328d767d76207154%26_vvs%3Dd9e7e6a2c4f01ba24b197ac7e9615bb6ddd14c250a25df820dcbf06581ba843e/transcode/c368840_480p.m3u8
 
-#####################$$$$$$$$$$$$$$$*******
+##################### jala live *******##########
 
 
 #EXTINF:-1 " tvg-id="jalalive" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png" group-title="LIVE-EVENT",idn vs taipeh
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
-https://bf.jlbflive.cc/live/322720_hd01.m3u8?txSecret=ab445447d0052baf03b63fc70451e81e&txTime=68baec6a
+
+
 
 
 
@@ -66,7 +67,7 @@ https://bf.jlbflive.cc/live/322720_hd01.m3u8?txSecret=ab445447d0052baf03b63fc704
 
 ========= NASIONAL TV--=====
 
-#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://thumbor.prod.vidiocdn.com/RRKqA-C_gfSnlqfHRgyGbfLEvjM=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/32178/bri-super-league-2025-26-d75572.jpg", DENSTV SPORT
+#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgtAr1Qk7haSGeYoerGdJhZL6T86_c_Lak4WDzxrz7S_CXRi_5T_a8bOA&s=10", INDOSIAR SPORT
 #EXTVLCOPT:http-origin=https://rakuda.infosport.web.id/
 #EXTVLCOPT:http-referrer=https:https://rakuda.infosport.web.id/live
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
