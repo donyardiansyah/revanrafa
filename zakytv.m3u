@@ -10,13 +10,13 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play?id=19488&type=drm
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-https://seprai.jasoncreak8.workers.dev/play.mpd?id=19488&type=dash
+#https://seprai.jasoncreak8.workers.dev/play.mpd?id=19488&type=dash
 
 #EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/08/Logo_Livoli_Divisi_Utama.png", 16:00 WIB Livoli Divisi Utama 
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19488&type=drm
-https://spacetv.my.id/index.mpd?id=19488&type=dash
+#https://spacetv.my.id/index.mpd?id=19488&type=dash
 
 ##############$$############ timnas #######$$$$#####$$$$$
 
@@ -25,36 +25,36 @@ https://spacetv.my.id/index.mpd?id=19488&type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play?id=19497&type=drm
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-https://seprai.jasoncreak8.workers.dev/play.mpd?id=19497&type=dash
+#https://seprai.jasoncreak8.workers.dev/play.mpd?id=19497&type=dash
 
 #EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://thumbor.prod.vidiocdn.com/FCu5I2dpyay5CXffcr3ZnvczP54=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4543775/d692b7.jpg", 20:30 WIB Indonesia vs Lebanon
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19497&type=drm
-https://spacetv.my.id/index.mpd?id=19497&type=dash
+#https://spacetv.my.id/index.mpd?id=19497&type=dash
 
 #EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png", 20:30 WIB Indonesia vs Lebanon
 #EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
 #EXTVLCOPT:http-referrer=https://demo.crunchyrolll.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-https://hotlivezz179602324.akainu.xyz/eSCipoeGBrgpDjRypUT3Hg/Fv2lucGIbhPi2caWYvF5Lg/1757181358701/live/dungSD/chunklist.m3u8
+#https://hotlivezz179602324.akainu.xyz/eSCipoeGBrgpDjRypUT3Hg/Fv2lucGIbhPi2caWYvF5Lg/1757181358701/live/dungSD/chunklist.m3u8
 
 ##################### jala live *******##########
 
 
 #EXTINF:-1 " tvg-id="jalalive" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxQ-ThZkSn9_qRdbZjauPCpPxxdpX0bimpPQ&s" group-title="LIVE-EVENT",idn vs lebanon
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
-https://bf.jlbflive.cc/live/322677_hd01.m3u8?txSecret=13ff04994a52663c449e36ce2da408d3&txTime=68bed3bc
+
 
 ========= NASIONAL TV--=====
 
 #EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgtAr1Qk7haSGeYoerGdJhZL6T86_c_Lak4WDzxrz7S_CXRi_5T_a8bOA&s=10", INDOSIAR SPORT
 #EXTVLCOPT:http-origin=https://rakuda.infosport.web.id/
-#EXTVLCOPT:http-referrer=https:https://rakuda.infosport.web.id/live
+#EXTVLCOPT:http-referrer=https://rakuda.infosport.web.id/live
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-#EXTVLCOPT:http-connection-timeout=1000
+#EXTVLCOPT:http-connection-timeout=5000
 #EXTVLCOPT:http-reconnect=true
-https://av-cdn.rkda.my.id:8443/memfs/4bc5fbd4-17f6-4d92-856c-ac395f620af5.m3u8
+#https://av-cdn.rkda.my.id:8443/memfs/4bc5fbd4-17f6-4d92-856c-ac395f620af5.m3u8
 
 
 ###############################
