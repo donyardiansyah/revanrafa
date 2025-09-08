@@ -7,22 +7,10 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/
 ############################################  voli #####$$$$$$$$$$$$
 
 #EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/08/Logo_Livoli_Divisi_Utama.png", 16:00 WIB Livoli Divisi Utama 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ppdd02.playerktidfintkd.shop/
-https://twnx2-cf.boblcfwudz421.com/auth%3Da1e8acc9c04f4fcf8e70714f06e6b83345c136dda30f0028b8a36217875ff5797f86d699cd5b65f2fe0e3e1e2cc2d1df13c08ab555ceba5d7462762dfe9b8ef18328cd70dcf8e698654c52f73c7d1394c32b2977ea347dd2035bd6036181c50fab4e895619f43edefcddf2623ffe0d2911989e61e5ef1c90da1fe50f698defba782ba3648ad018f0d65e97f0c6b0ac4186c0ee5787edc2680cad02ac07488d93%26cid%3DfAuiawZil6JYhdONrj_De250908%26_v%3D2%26_r%3DhI1UOF%26_vis%3D2f59f33a136c1757f7f59d778ffd71f08d1f7199bf8d3b2b30fb01cb9c42912c%26_vvs%3D12984ee13f3dce24015914bd33176df8c24ed8e84d7137f0fd985873b76d6de2/app/c369249.m3u8
-
-#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/08/Logo_Livoli_Divisi_Utama.png", 16:00 WIB Livoli Divisi Utama 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play?id=19488&type=drm
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 https://seprai.jasoncreak8.workers.dev/play.mpd?id=19488&type=dash
-
-#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/08/Logo_Livoli_Divisi_Utama.png", 16:00 WIB Livoli Divisi Utama 
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19488&type=drm
-https://spacetv.my.id/index.mpd?id=19488&type=dash
-
 
 ##############$$############ timnas #######$$$$#####$$$$$
 
@@ -32,12 +20,6 @@ https://spacetv.my.id/index.mpd?id=19488&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play?id=19497&type=drm
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 https://seprai.jasoncreak8.workers.dev/play.mpd?id=19497&type=dash
-
-#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://thumbor.prod.vidiocdn.com/FCu5I2dpyay5CXffcr3ZnvczP54=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4543775/d692b7.jpg", 20:30 WIB Indonesia vs Lebanon
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19497&type=drm
-https://spacetv.my.id/index.mpd?id=19497&type=dash
 
 #EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png", 20:30 WIB Indonesia vs Lebanon
 #EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
