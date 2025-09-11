@@ -24,6 +24,11 @@ https://spacetv.my.id/index.mpd?id=19488&type=dash
 
 ##############$$############ timnas #######$$$$#####$$$$$
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
+#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvFviODVI4Qkupxv_VINLouvPSfsdI7_JYPA&s", Indonesia VS Denmark
+https://fta4-cdn-flr.visionplus.id/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd|Referer=https://www.visionplus.id/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+
 #EXTINF:-1 " tvg-id=" GDS" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://thumbor.prod.vidiocdn.com/RRKqA-C_gfSnlqfHRgyGbfLEvjM=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/32178/bri-super-league-2025-26-d75572.jpg" group-title="LIVE-EVENT", GDS SPORT
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
 
