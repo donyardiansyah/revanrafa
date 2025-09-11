@@ -1,5 +1,15 @@
+################liga bri###################
 
+#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 15:30 WIB Semen Padang vs PSBS Biak Numfor
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.plcdn.xyz/
+https://live1.pro2cdnlive.com/live/channel11.flv?wsSecret=47c4e1e2584218e80ab6fc8f7fc2efc1&wsABSTime=1756251627
 
+#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 19:00 WIB Persita vs PSM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.plcdn.xyz/
+https://live1.pro2cdnlive.com/live/channel5.flv?wsSecret=b78b6c91295d4a15888a27433e645ce0&wsABSTime=1756918060
+#######$#####$$$$$$$$####################
 #EXTINF:-1 tvg-id="PL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpeX6xrZP32SHBfDPZciY-PHuQqoAaVTsgKqaWxPexGQ&s" group-title="LIVE-EVENT", DENSTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -21,6 +31,11 @@ https://seprai.jasoncreak8.workers.dev/play.mpd?id=19488&type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19488&type=drm
 https://spacetv.my.id/index.mpd?id=19488&type=dash
+
+#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/08/Logo_Livoli_Divisi_Utama.png", 13:00 WIB Berlian Bank Jateng vs Singo Yudha Kutai Barat
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ppdd02.playerktidfintkd.shop/
+https://twnx3-cf.boblcfwudz421.com/auth%3Dd850872655b78d1e0eb4056cadc45f50e590c025894d4e0a768f74381168d176bee5f26f64400e470db0ee8a4796059c67144a6dd79a17df06282220a95ac0d545162b0e1a5bde91fa337f8f1cacbccd49b244829585815a3afa75d360ea10b3a4af5dbb0d6237917a37da3154a557fe05b23e7cad7385712b68c7a89f5d47cdf6c06fc2e8275157d259e699ffce59fa6af30562875f59b7fe27a304ddf86c03bf80580b3790400d0df6edeea4371cfc%26cid%3DYvoz9_UXqTEZam7X2zhhz250903%26_v%3D2%26_r%3D6WwrVs%26_vis%3D407a3f2898bc34589b8e3425c79d3c77b4f8b8594af2f083228c5fa9347a9d93%26_vvs%3Dc8a4c37bb41c4a683b64ffb3de5ad8c3e7c94578707d68770121ac3caa9f9ce1/app/c369572.m3u8
 
 ##############$$############ timnas #######$$$$#####$$$$$
 
