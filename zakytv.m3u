@@ -21,7 +21,7 @@ https://apisportzz179528093.nsnd.live/yRI5BJRlt0gFhiZtGS4IGg/Fv2lucGIbhPi2caWYvF
 https://live1.pro2cdnlive.com/live/channel5.flv?wsSecret=b78b6c91295d4a15888a27433e645ce0&wsABSTime=1756918060
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/640px-Indosiar_2015.svg.png" group-title="LIVE-EVENT",INDOSIAR
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/11.m3u8
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/11.ts
 
 #######$#####$$$$$$$$####################
 #EXTINF:-1 tvg-id="PL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpeX6xrZP32SHBfDPZciY-PHuQqoAaVTsgKqaWxPexGQ&s" group-title="LIVE-EVENT", DENSTV
@@ -34,7 +34,7 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/m
 
 ############################################  voli #####$$$$$$$$$$$$
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/f_h2OorvlQ_UEx9OjX7b8uQ4-gE=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a19694.jpg" group-title="LIVE-EVENT",MOJI TV
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/23.m3u8
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/23.ts
 
 #EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/08/Logo_Livoli_Divisi_Utama.png", 16:00 WIB Livoli Divisi Utama 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
