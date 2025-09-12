@@ -2,24 +2,8 @@
 #EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 15:30 WIB Semen Padang vs PSBS Biak Numfor
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsplayer.net/
-https://stream.titanlivescore.com/live/LXSCORE-4879781.m3u8
 
 
-#EXTINF:-1 group-title="LIVE-EVENT"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 19:00 WIB Persita vs PSM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.plcdn.xyz/
-https://live1.pro2cdnlive.com/live/channel5.flv?wsSecret=b78b6c91295d4a15888a27433e645ce0&wsABSTime=1756918060
-
-#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 19:00 WIB Persita vs PSM
-#EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
-#EXTVLCOPT:http-referrer=https://demo.crunchyrolll.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-https://apisportzz179528093.nsnd.live/Mj-ThuelQE-CjF1wkxKzVw/Fv2lucGIbhPi2caWYvF5Lg/1757614692260/live/sd-6MuTNFjrFoU4hoAAoM/chunklist.m3u8
-
-#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 19:00 WIB Persita vs PSM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ppdd02.playerktidfintkd.shop/
-https://twnx2-cf.boblcfwudz421.com/auth%3D440032e33b39e7b1fe9c28ce9e4c51eef0ca0f88ea5639e6f1b3f1ddf0303ef7fd4755760854d967a5e2c63e5e3a45d624b24884ac677337248653fb9c3929d803ffeaf1cb3e3ee1a0c9e591bbe1d0a2097da12c5937fb1b8cc3a06b83fc47be375f3ce6e2ac4e0866fec9c3c640bd631b5958d18c3aaa0d54a82080d8de15441bd19e7837f40cdb312f6797b3df05b1cb5cf85be6ec8c119dface04870239d3667beaf73ff8138c1e3204ca115ffdf91ff52c7567291451826575cb4cf728e8%26cid%3DYvoz9_UXqTEZam7X2zhhz250903%26_v%3D2%26_r%3DeDnTn4%26_vis%3D9d3a0dcbe95c366fd0e29028463c7bb3f2fa6cd298e988c462bd2bed53ca560d%26_vvs%3D868eeb538539413e128a1b99897964e66002631092dc410b6306ad9013053a6d/transcode/c369591_480p.m3u8
 
 
 
@@ -58,12 +42,7 @@ https://twnx1-cf.boblcfwudz421.com/auth%3Dc8ee04828242406348a4146184f61fb2b0655a
 
 
 ##############$$############ timnas #######$$$$#####$$$$$
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
-#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvFviODVI4Qkupxv_VINLouvPSfsdI7_JYPA&s", Indonesia VS Denmark
-https://fta4-cdn-flr.visionplus.id/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd|Referer=https://www.visionplus.id/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-
+ 
 #EXTINF:-1 " tvg-id=" GDS" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://thumbor.prod.vidiocdn.com/RRKqA-C_gfSnlqfHRgyGbfLEvjM=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/32178/bri-super-league-2025-26-d75572.jpg" group-title="LIVE-EVENT", GDS SPORT
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
 
