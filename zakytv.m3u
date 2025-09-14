@@ -7,6 +7,10 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 https://apisportzz179528093.nsnd.live/rP_f2TsH2DD-7UQRhijfkg/Fv2lucGIbhPi2caWYvF5Lg/1757861593568/live/sd-6MvY6pCCZxB7ETfnpb/chunklist.m3u8
 
+#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 19:00 WIB Persija vs Bali United
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://hlsplayer.net/
+https://stream.titanlivescore.com/live/LXSCORE-4879789.m3u8
 
 
 
