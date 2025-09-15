@@ -1,11 +1,21 @@
 ################$$$   LIGA BRI   ####################
 
-
-#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/99/Logo_Terbaru_Liga_2_Indonesia.png", 15:30 WIB Sriwijaya FC vs Garudayaksa FC
+#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/99/Logo_Terbaru_Liga_2_Indonesia.png", 19:00 WIB PSS Sleman vs Persiba Balikpapan
 #EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
 #EXTVLCOPT:http-referrer=https://demo.crunchyrolll.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-https://apisportzz179528093.nsnd.live/rP_f2TsH2DD-7UQRhijfkg/Fv2lucGIbhPi2caWYvF5Lg/1757861593568/live/sd-6MvY6pCCZxB7ETfnpb/chunklist.m3u8
+https://apisportzz179528093.nsnd.live/Su0CuaeK3nihmRveseFIyA/Fv2lucGIbhPi2caWYvF5Lg/1757959548959/live/sd-6MvY6pCCZzNb6wVhyV/chunklist.m3u8
+
+#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://iili.io/KfT7PJ2.jpg", Testing
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ppdd02.playerktidfintkd.shop/
+https://twnx3-cf.boblcfwudz421.com/auth%3Db968fce4845e6aaf69c5ae9e4c95d9f497635a59fb3c82b9fac7eed6c89f88c608158b57600c0d133745b9df2f151f5cc296d865352173421f9141ee8841141d00e236d5cd8555f6038a2df1196442ba3b4d5e5f24c74a1207f2d6a90f9e0aa1e43c64a7e26039b5113c3cd04509b1943741fab672c9445f241cedebe5bead83d577a5fb60537352b1d74567b00a9ab70b7cc791adbb06d033e110a5e8310c57%26cid%3DaW4--kBpsAdKTsUqeDOIb250914%26_v%3D2%26_r%3DbZFXft%26_vis%3Ddd5f64a67ef7be4da2038f23cf09dc6063a79d9cd902c262fd008980d3a51986%26_vvs%3D7a40a38a755c06aee7d2a4bc586b140a9f23a954162e8397f4fedacedd37af05/app/c370727.m3u8
+
+#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/99/Logo_Terbaru_Liga_2_Indonesia.png", 19:00 WIB PSS Sleman vs Persiba Balikpapan
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ppdd02.playerktidfintkd.shop/
+https://twnx3-cf.boblcfwudz421.com/auth%3Dfec8eddf3e056125082b4521b084fde7e126a380e198fec2adbe63d6aa18905aad45572543769f6f4140c91450dc9db065c2cb82511448eede6d364523b93c1bf21f410c8c4c602a47477fd38c6b918a955ce7df9d701298cec96ece525d7b0ea205ecccece4f33014bde13f796f7e42593a54474f106edb91a05b8bd47cf4878fe74db997b8bd1f02625a29bb753e5244eb596a05aabec2c000e109b008a866%26cid%3DaW4--kBpsAdKTsUqeDOIb250914%26_v%3D2%26_r%3DEx2qVd%26_vis%3Db53853b2da0cc0917bd49f9261326b1ce52762e988708e90fdb4b67e7d88dc12%26_vvs%3D7966ecdd3bfa2de3852426fa803006ba9b53999620021b1e2d9c6b42ef967d6e/app/c370457.m3u8
+
 
 #EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 19:00 WIB Persija vs Bali United
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
