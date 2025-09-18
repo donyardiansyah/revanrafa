@@ -616,119 +616,6 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/m
 #EXTINF:-1 channel-id="65ea8b928145cb0008509426" tvg-id="65ea8b928145cb0008509426" tvg-chno="2831" tvg-name="UEFA Champions League" tvg-logo="https://images.pluto.tv/channels/65ea8b928145cb0008509426/colorLogoPNG.png" group-title="NATIONAL SPORTS", UEFA Champions League
 https://jmp2.uk/plu-65ea8b928145cb0008509426.m3u8
 
-#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="Channel Vision+", Rock Action
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000120/1024.m3u8
-#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="Channel Vision+", STUDIO UNIVERSAL
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000121/1024.m3u8
-#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="Channel Vision+", ANIMAX
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000122/1024.m3u8
-#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="Channel Vision+",ONE
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000123/1024.m3u8
-
-#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="Channel Vision+", GALAXI PREMIUM
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000126/1024.m3u8
-#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="Channel Vision+", LOVE NATURE
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000127/1024.m3u8
-#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="Channel Vision+", INEWS
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000128/1024.m3u8
-#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="Channel Vision+", MUSIC TV
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000129/1024.m3u8
-
-#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="Channel Vision+", VISION PRIME
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000130/1024.m3u8
-#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="Channel Vision+", TRT WORLD
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000131/1024.m3u8
-#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="Channel Vision+", GLOBAL TREKKER
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000132/1024.m3u8
-#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="Channel Vision+", IMC
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000133/1024.m3u8
-#EXTINF:-1 tvg-id="Vision+" tvg-name="Vision+" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="Channel Vision+", CINEEDGE
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000145/1024.m3u8
-#EXTINF:-1 tvg-id="Vision+" tvg-name="Vision+" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="Channel Vision+", BBC NEWS
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000146/1024.m3u8
-#EXTINF:-1 tvg-id="Vision+" tvg-name="Vision+" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="Channel Vision+", ZOO MOO
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000151/1024.m3u8
-#EXTINF:-1 tvg-id="Vision+" tvg-name="Vision+" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="Channel Vision+", RT
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000153/1024.m3u8
-#EXTINF:-1 tvg-id="Vision+" tvg-name="Vision+" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="Channel Vision+",ORIGINAL
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000154/1024.m3u8
-#EXTINF:-1 tvg-id="Vision+" tvg-name="Vision+" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="Channel Vision+", SUPERRIX
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000155/1024.m3u8
-#EXTINF:-1 tvg-id="Vision+" tvg-name="Vision+" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="Channel Vision+", UNIQUES
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000156/1024.m3u8
-#EXTINF:-1 tvg-id="Vision+" tvg-name="Vision+" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="Channel Vision+",BUDDY STAR
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000157/1024.m3u8
-#EXTINF:-1 tvg-id="Vision+" tvg-name="Vision+" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="Channel Vision+",DW NEWS
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000158/1024.m3u8
-#EXTINF:-1 tvg-id="Vision+" tvg-name="Vision+" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="Channel Vision+", OUTDOOR
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000161/1024.m3u8
-#EXTINF:-1 tvg-id="Vision+" tvg-name="Vision+" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="Channel Vision+", MOONBUG
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000162/1024.m3u8
-#EXTINF:-1 tvg-id="Vision+" tvg-name="Vision+" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="Channel Vision+", FIGHT SPORT
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000163/1024.m3u8
-#EXTINF:-1 tvg-id="Vision+" tvg-name="Vision+" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="Channel Vision+", DREAM CHANNEL
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000164/1024.m3u8
-
-###########   CHANNEL INDO ############
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB2muorAZqV8eDfs-SmH4zzWX06kZxgoBzIg&s" group-title="CHANNEL INDO",VOLI TV
-#EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=video/mp2t
-#KODIPROP:inputstream.ffmpegdirect.program_number=350997
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-http://103.179.182.117:6768/hls/2/2.m3u8
-
-#EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=video/mp2t
-#KODIPROP:inputstream.ffmpegdirect.program_number=350997
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.pinimg.com/236x/a1/fd/2b/a1fd2bae03716b1d10f6eaef11f0e193.jpg" group-title="CHANNEL INDO",MOJI TV HD
-http://103.179.182.117:6768/hls/50/50.m3u8
-
-
-#EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=video/mp2t
-#KODIPROP:inputstream.ffmpegdirect.program_number=350997
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo_oWLELtHJhooLOAV_iwtu_z-em7Ku-QpGw&usqp=CAU" group-title="CHANNEL INDO",TVRI SPORT
-http://103.179.182.117:6768/hls/49/49.m3u8
-
-#EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=video/mp2t
-#KODIPROP:inputstream.ffmpegdirect.program_number=350997
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.pinimg.com/236x/fb/f8/49/fbf849605237ee56c69a37510e215ea8.jpg" group-title="CHANNEL INDO",RCTI
-http://103.179.182.117:6768/hls/51/51.m3u8
-
-inews
-#EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=video/mp2t
-#KODIPROP:inputstream.ffmpegdirect.program_number=350997
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.pinimg.com/236x/bf/88/3c/bf883c51dfcb53f0132cd8997f7b0377.jpg" group-title="CHANNEL INDO",INEWS TV
-http://103.179.182.117:6768/hls/52/52.m3u8
-
-mentari
-#EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=video/mp2t
-#KODIPROP:inputstream.ffmpegdirect.program_number=350997
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#EXTINF:-1 tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/gx5s0Vd8cyaZv0UjVvWcMsKWVFE=/233x132/filters:quality(70)/vidio-web-prod-video/uploads/video/image/8941091/katuri-15-september-2025-5e7018.jpg" group-title="CHANNEL INDO",MENTARI
-http://103.179.182.117:6768/hls/48/48.m3u8
-
-#EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=video/mp2t
-#KODIPROP:inputstream.ffmpegdirect.program_number=350997
-
-
 
 
 
@@ -1389,8 +1276,6 @@ http://op-group1-swiftservehd-1.dens.tv/h/h15/index.m3u8?app_type=web&amp;userid
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=26bfec0f1cb047d7963f37e1b6401ec0:60e2302b29cb9cabf7e1743fc2f0f059
 https://atemeshield1-voe.sysln.id/live/eds/HITSNowHD/mpd/HITSNowHD.mpd
-
-
 
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUMtKSR5T3BUCKFiU-q1gxvjSGq7GYOwTSihLjhifhryzRtGAZyFUoz_QB0CSgJai9vBfILvcfAfNnyy_BpTKY5cx9Z_ie1-urA_kAm9uQyFiRaLL7xhJkoJWMZCyfTXh1HBt2eUJrSwMTCLX-XQHL8QdH0KUepvttJF1mN1bWNiypaebE_7FKRDu289Ca/s700/AXN.png" group-title="Entertainment & LifeStyle",AXN
