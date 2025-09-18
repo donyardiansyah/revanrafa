@@ -34,7 +34,7 @@ http://103.179.182.117:6768/hls/13/13.m3u8
 #KODIPROP:mimetype=video/mp2t
 #KODIPROP:inputstream.ffmpegdirect.program_number=350997
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvEONeGcvjKtZLTzeFfTdrFfG8Z_TqOmGZTn-jNHJ8tg&s=10" group-title="LIVE-EVENT",WOKO
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsDb3VbwuIcnJG8KgOQT2WHN4Odd71o6nhN9Myc_-w0q8IjbHiF0cO9YM&s=10" group-title="LIVE-EVENT",WOKO
 http://103.179.182.117:6768/hls/71/71.m3u8
 
 ############################################  voli #####$$$$$$$$$$$$
@@ -606,7 +606,7 @@ https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9183&type=dash
 #KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
 
-#EXTINF:-1 tvg-id="PL" tvg-logo="https://i.ibb.co.com/Vprs3ftF/Premier-League-TV.png" group-title="LIVE-EVENT",pl tv
+#EXTINF:-1 tvg-id="PL" tvg-logo="https://i.ibb.co.com/Vprs3ftF/Premier-League-TV.png" group-title="NATIONAL SPORTS",pl tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
