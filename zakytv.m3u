@@ -8,12 +8,37 @@
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgtAr1Qk7haSGeYoerGdJhZL6T86_c_Lak4WDzxrz7S_CXRi_5T_a8bOA&s=10" group-title="LIVE-EVENT",INDOSIAR
 https://iptv.lancartech.co.id:443/Farhan@90/18062025/11.ts
 
-#######$#####$$$$$$$$####################
-
-
-############################################  voli #####$$$$$$$$$$$$
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/f_h2OorvlQ_UEx9OjX7b8uQ4-gE=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a19694.jpg" group-title="LIVE-EVENT",MOJI TV
 https://iptv.lancartech.co.id:443/Farhan@90/18062025/23.ts
+
+#######$#####$$$$$$$$####################
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ce/VoliTV2023.png/revision/latest?cb=20231115114023" group-title="LIVE-EVENT",VOLI TV
+#EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.program_number=350997
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+http://103.179.182.117:6768/hls/2/2.m3u8
+
+#EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.program_number=350997
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.pinimg.com/originals/03/2b/08/032b0870b9053a191b67dc8c3f340345.gif" group-title="LIVE-EVENT",DENSTV HD
+http://103.179.182.117:6768/hls/13/13.m3u8
+
+#EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.program_number=350997
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvEONeGcvjKtZLTzeFfTdrFfG8Z_TqOmGZTn-jNHJ8tg&s=10" group-title="LIVE-EVENT",WOKO
+http://103.179.182.117:6768/hls/71/71.m3u8
+
+############################################  voli #####$$$$$$$$$$$$
+
 
 #EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/08/Logo_Livoli_Divisi_Utama.png", 16:00 WIB Livoli Divisi Utama 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -44,29 +69,7 @@ https://spacetv.my.id/index.mpd?id=19488&type=dash
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
 ############### LIVE EVENT############
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB2muorAZqV8eDfs-SmH4zzWX06kZxgoBzIg&s" group-title="LIVE-EVENT",VOLI TV
-#EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=video/mp2t
-#KODIPROP:inputstream.ffmpegdirect.program_number=350997
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-http://103.179.182.117:6768/hls/2/2.m3u8
 
-#EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=video/mp2t
-#KODIPROP:inputstream.ffmpegdirect.program_number=350997
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpeX6xrZP32SHBfDPZciY-PHuQqoAaVTsgKqaWxPexGQ&s" group-title="LIVE-EVENT",DENSTV HD
-http://103.179.182.117:6768/hls/13/13.m3u8
-
-#EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=video/mp2t
-#KODIPROP:inputstream.ffmpegdirect.program_number=350997
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfT3zykVaydmsmEa4T55at3gaA0SxunLfgq58j0L8iyg&s=10" group-title="LIVE-EVENT",WOKO
-http://103.179.182.117:6768/hls/71/71.m3u8
 
 
 ========= NASIONAL TV--=====
