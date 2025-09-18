@@ -109,8 +109,6 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/in
 #EXTINF:-1 tvg-logo="https://static.rctiplus.id/media/400/files/fta_rcti/Channel_Logo/RCTI.png" group-title="NASIONAL TV",RCTI SD
 http://extraott-iptv.com:88/live/0229477349/8104258135/400200742.m3u8
 
-
-
 #KODIPROP:inputstream.adaptive.license_type=rg.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=251c384e846841abafa1f7c723d57e66:e45b06a38cd261b74c5160f0912c042f
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
@@ -168,10 +166,6 @@ https://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8?app_type=web&userid=li
 #KODIPROP:inputstream.adaptive.license_key=b6486d00c9d842d88ba1660deec8becc:67ed72016590f2138d9fc10b807708b2
 https://atemeshield1-voe.sysln.id/live/eds/TvOne/mpd/TvOne.mpd
 
-#EXTINF:-1 group-title="NASIONAL TV" tvg-logo="https://thumbor.prod.vidiocdn.com/f_h2OorvlQ_UEx9OjX7b8uQ4-gE=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a19694.jpg", MOJI TV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:network-caching=1000
@@ -206,9 +200,14 @@ http://extraott-iptv.com:88/live/0229477349/8104258135/45066.m3u8
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 #https://gtv-cutv.rctiplus.id/gtv-sdi.m3u8
 #https://rplus.xyssatu.workers.dev/xPLAY.m3u8?id=gtv
+
 #EXTINF:-1 " tvg-id=" mojitv" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://thumbor.prod.vidiocdn.com/WgV08OmwI9p1qd7IJTni1t9uxoo=/640x360/filters:quality(70)/vidio-web-prod-video/uploads/video/image/8156027/press-conference-proliga-2024-c0be19.jpg" group-title="NASIONAL TV", MOJITV PROLIGA
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
 #https://wahyu1ptv.pages.dev/Moji-HD.m3u8
+
+#EXTINF:-1 group-title="NASIONAL TV" tvg-logo="https://thumbor.prod.vidiocdn.com/f_h2OorvlQ_UEx9OjX7b8uQ4-gE=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a19694.jpg", MOJI TV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 
 #EXTINF:-1 group-title="NASIONAL TV" tvg-name="TV Lokal HD" tvg-country="ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/440px-Moji_blue.svg.png", MOJI HD
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -242,23 +241,24 @@ http://khano.nng.cloudns.us/live/m3u8/id/6cdb3402d11f58d.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h37/01.m3u8
 
-#EXTINF:-1 group-title="NASIONAL TV" tvg-logo="https://thumbor.prod.vidiocdn.com/u0aa_S_rQeujrp5eR6LwXdertrI=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/777/ea8483.png",Metro TV
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=http://dens.tv
-https://op-group1-swiftservehd-1.dens.tv/h/h12/01.m3u8
-
 #EXTINF:-1 tvg-id="Kompastv" tvg-name="Tvone" tvg-logo="https://thumbor.prod.vidiocdn.com/ALtHeA-1MMsZqKlyPAX8RMDvFF8=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-396453.jpg" group-title="NASIONAL TV", Kompastv 
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
 
-#EXTINF:-1 group-title="NASIONAL TV" tvg-name="TV Lokal HD" tvg-country="ID" tvg-logo="", Kompas HD 
+#EXTINF:-1 group-title="NASIONAL TV" tvg-name="TV Lokal HD" tvg-country="ID" tvg-logo="https://thumbor.prod.vidiocdn.com/ALtHeA-1MMsZqKlyPAX8RMDvFF8=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-396453.jpg", Kompas HD 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a898c1af1a76498788cb616d39e551a6:f4c0c13bb1b84004b32ae4e9042d1571
 https://atemeshield1-voe.sysln.id/live/eds/KOMPASTVHD/mpd/KOMPASTVHD.mpd
+
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/524/59524-SNAPSHOT-m.png" group-title="NASIONAL TV",RCTI FHD
 #http://103.180.118.5:9981/stream/channelid/675124063
+
+#EXTINF:-1 group-title="NASIONAL TV" tvg-logo="https://thumbor.prod.vidiocdn.com/u0aa_S_rQeujrp5eR6LwXdertrI=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/777/ea8483.png",Metro TV
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+https://op-group1-swiftservehd-1.dens.tv/h/h12/01.m3u8
 
 #EXTINF:-1 tvg-id="MetroTV.id" group-title="NASIONAL TV" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/c/c1/LogoMetroTVsince2010.svg/640px-LogoMetroTVsince2010.svg.png",Metro TV hd
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -273,6 +273,13 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/MetroTVHD/mpd/MetroTVHD.mpd
 #EXTINF:-1 tvg-id="iNews.id" tvg-name="iNews" tvg-logo="https://www.visionplus.id/images/repository/528/59528-SNAPSHOT-m.png" group-title="NASIONAL TV", iNews (v*) 
 https://d2tjypxxy769fn.cloudfront.net/out/v1/7b0404cd6a8a4a908123f10774854e46/index.mpd
 #https://fta2-cdn-flr.visionplus.id/out/v1/7b0404cd6a8a4a908123f10774854e46/index.mpd
+
+#EXTINF:0 CUID="15" tvg-name="INewsTV" tvg-id="inews.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/INews.png/1200px-INews.png" group-title="NASIONAL TV",INewsTV
+#EXTVLCOPT:http-referrer=https://m.rctiplus.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+#https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
+#https://inews-cutv.rctiplus.id/inews-sdi.m3u8
+https://rplus.xyssatu.workers.dev/xPLAY.m3u8?id=inews
 
 #EXTINF:-1 group-title="NASIONAL TV" tvg-id="JTV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium4.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/JTV_%28Indonesian_TV_channel%29_2022.svg/1200px-JTV_%28Indonesian_TV_channel%29_2022.svg.png",JTV
 #https://63b2dc7196c38.streamlock.net:1937/ch2/myStream/playlist.m3u8
@@ -311,13 +318,6 @@ EXTINF:0 CUID="10" tvg-name="GTV" tvg-id="gtv.id" tvg-logo="https://upload.wikim
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #https://1s1.rctiplus.id/gtv2023.m3u8
-
-#EXTINF:0 CUID="15" tvg-name="INewsTV" tvg-id="inews.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/INews.png/1200px-INews.png" group-title="NASIONAL TV",INewsTV
-#EXTVLCOPT:http-referrer=https://m.rctiplus.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
-#https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
-#https://inews-cutv.rctiplus.id/inews-sdi.m3u8
-https://rplus.xyssatu.workers.dev/xPLAY.m3u8?id=inews
 
 #EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Logo_GarudaTV_Merah_Putih_Silver_Merah.png/1200px-Logo_GarudaTV_Merah_Putih_Silver_Merah.png" group-title="NASIONAL TV",Garuda TV
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
