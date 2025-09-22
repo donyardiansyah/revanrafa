@@ -5,8 +5,17 @@
 #EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
 
 
-#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 19:00 WIB Bali United vs PSIM Yogyakarta
+#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://thumbor.prod.vidiocdn.com/evK7tGI71OTBL7qQ0edzj5O7qlw=/filters:strip_icc():quality(70)/vidio-web-prod-user/uploads/user/avatar/22062300/PROFILECUSTOMBG-7686dbeeb3196eba.jpg", BRI SUPER LEAGUE 1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=205&type=drm
+https://spacetv.my.id/index.mpd?id=205&type=dash
 
+#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://thumbor.prod.vidiocdn.com/evK7tGI71OTBL7qQ0edzj5O7qlw=/filters:strip_icc():quality(70)/vidio-web-prod-user/uploads/user/avatar/22062300/PROFILECUSTOMBG-7686dbeeb3196eba.jpg", BRI SUPER LEAGUE 2
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19354&type=drm
+https://spacetv.my.id/index.mpd?id=19354&type=dash
 
 #EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 19:00 WIB Bali United vs PSIM Yogyakarta
 #EXTVLCOPT:http-origin=https://ppdd02.playerktidfintkd.shop
@@ -45,7 +54,7 @@ https://iptv.lancartech.co.id:443/Farhan@90/18062025/23.ts
 #KODIPROP:mimetype=video/mp2t
 #KODIPROP:inputstream.ffmpegdirect.program_number=350997
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-http://103.179.182.117:6768/hls/2/2.m3u8
+#http://103.179.182.117:6768/hls/2/2.m3u8
 
 #EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -53,7 +62,7 @@ http://103.179.182.117:6768/hls/2/2.m3u8
 #KODIPROP:inputstream.ffmpegdirect.program_number=350997
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.pinimg.com/originals/03/2b/08/032b0870b9053a191b67dc8c3f340345.gif" group-title="LIVE-EVENT",DENSTV HD
-http://103.179.182.117:6768/hls/13/13.m3u8
+#http://103.179.182.117:6768/hls/13/13.m3u8
 
 #EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -61,7 +70,7 @@ http://103.179.182.117:6768/hls/13/13.m3u8
 #KODIPROP:inputstream.ffmpegdirect.program_number=350997
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsDb3VbwuIcnJG8KgOQT2WHN4Odd71o6nhN9Myc_-w0q8IjbHiF0cO9YM&s=10" group-title="LIVE-EVENT",WOKO
-http://103.179.182.117:6768/hls/71/71.m3u8
+#http://103.179.182.117:6768/hls/71/71.m3u8
 
 ############################################  voli #####$$$$$$$$$$$$
 
