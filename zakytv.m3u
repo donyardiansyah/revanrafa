@@ -37,7 +37,7 @@ https://hotlivezz179602324.akainu.xyz/oqOtltdUOoVriveAbOHg-g/Fv2lucGIbhPi2caWYvF
 #EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 19:00 WIB Borneo vs Persis Solo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsplayer.net/
-https://v4-81285a097b2cd341b7871fa3aafac269.livehwc4.com/stream.titanlivescore.com/live/LXSCORE-4879798.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=fdaa95c59e9edc0f3b7ba975d7065c9b
+#https://v4-81285a097b2cd341b7871fa3aafac269.livehwc4.com/stream.titanlivescore.com/live/LXSCORE-4879798.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=fdaa95c59e9edc0f3b7ba975d7065c9b
 
 #EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 19:00 WIB Borneo vs Persis Solo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
@@ -55,7 +55,7 @@ https://play-cdn.sportsbal.com/sport/202_3937760_1.m3u8?hls_ctx=9ts46679&sign=mO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://www.instreamtv.xyz
 #EXTVLCOPT:http-referrer=https://www.instreamtv.xyz/
-https://play-cdn.sportsbal.com/sport/202_4294554_1.m3u8?hls_ctx=539qc871&sign=PJI-3e3azIg2GQjHC4XecJQ87zRpGSFRjD7NTrapLtWMBsOXSwAWE7XjSzaBsfToeTct9s0lZFILaPVHxWi1GTiKdDVRqWab2GI-uGB5VvAjB864Z6w4BcSJkjmAv4j4_a4zfbDq-v3IfIKrFMqXKzzX1f7ZHEFQ3SlaUhpx5twOpbJ7wTzS6pUzDuIssP0ogIbE-UQ2zZHqiNt_hn30CH8DV8mbX8tOxhWCNJIfJsAx7be5NJ-dpYMZ06YIWtpYj-BqXqU0jxlwByi_QbMSyNB6rDS1gDA8uYAqgylFpYmTTdwWfUkIXw4t4ifondItLNUXw86RfKE501fXA5hiaw&timestamp=1758542782208
+#https://play-cdn.sportsbal.com/sport/202_4294554_1.m3u8?hls_ctx=539qc871&sign=PJI-3e3azIg2GQjHC4XecJQ87zRpGSFRjD7NTrapLtWMBsOXSwAWE7XjSzaBsfToeTct9s0lZFILaPVHxWi1GTiKdDVRqWab2GI-uGB5VvAjB864Z6w4BcSJkjmAv4j4_a4zfbDq-v3IfIKrFMqXKzzX1f7ZHEFQ3SlaUhpx5twOpbJ7wTzS6pUzDuIssP0ogIbE-UQ2zZHqiNt_hn30CH8DV8mbX8tOxhWCNJIfJsAx7be5NJ-dpYMZ06YIWtpYj-BqXqU0jxlwByi_QbMSyNB6rDS1gDA8uYAqgylFpYmTTdwWfUkIXw4t4ifondItLNUXw86RfKE501fXA5hiaw&timestamp=1758542782208
 
 ###################@@@@@@@@@@@#####$$$$$$$$$$
 
@@ -86,8 +86,28 @@ https://spacetv.my.id/index.mpd?id=19488&type=dash
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
 
 
-##############$$############ timnas #######$$$$#####$$$$$
- 
+######################### KOVO#######$$$$#####$$$$$
+ #EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/09/Korea_Volleyball_Federation.png", 13:30 WIB Hungkuk W vs Pepper Savings Bank W
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m.sports.naver.com/game/20250923823F16
+https://livecloud.pstatic.net/sports/lip2_kr/anmssgpu0002/euuyecaibzpjvohjpuib2qeopn4zk1fn8389/playlist.m3u8?hdnts=st=1758609542~exp=1758641952~acl=*/euuyecaibzpjvohjpuib2qeopn4zk1fn8389/*~hmac=e01ba20c8c93088e9c0f95aefa45666b8315bae6ec2f17bf43a80a7deecb7b61
+
+#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/09/Korea_Volleyball_Federation.png", 13:30 WIB Hungkuk W vs Pepper Savings Bank W
+#EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
+#EXTVLCOPT:http-referrer=https://demo.crunchyrolll.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+https://hotlivezz179602324.akainu.xyz/rDL8f8tcfp4ZeFIWWnmHrA/Fv2lucGIbhPi2caWYvF5Lg/1758547622691/live/cunSD/chunklist.m3u8
+
+#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/09/Korea_Volleyball_Federation.png", 17:00 WIB IBK W vs Expressway Co W
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m.sports.naver.com/game/20250922823F15
+
+#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/09/Korea_Volleyball_Federation.png", 17:00 WIB IBK W vs Expressway Co W
+#EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
+#EXTVLCOPT:http-referrer=https://demo.crunchyrolll.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+https://hotlivezz179602324.akainu.xyz/0BmT8oX-h3WjCsCRNfy6_A/Fv2lucGIbhPi2caWYvF5Lg/1758476878571/live/daoSD/chunklist.m3u8
+
 
 ##################### jala live *******##########
 
