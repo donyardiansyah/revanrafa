@@ -87,20 +87,7 @@ https://spacetv.my.id/index.mpd?id=19488&type=dash
 
 
 ######################### KOVO#######$$$$#####$$$$$
-#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/09/Korea_Volleyball_Federation.png", 13:30 WIB Hungkuk W vs Pepper Savings Bank W
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m.sports.naver.com/game/20250923823F16
-https://livecloud.pstatic.net/sports/lip2_kr/anmssgpu0002/euuyecaibzpjvohjpuib2qeopn4zk1fn8389/playlist.m3u8?hdnts=st=1758609542~exp=1758641952~acl=*/euuyecaibzpjvohjpuib2qeopn4zk1fn8389/*~hmac=e01ba20c8c93088e9c0f95aefa45666b8315bae6ec2f17bf43a80a7deecb7b61
 
-#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/09/Korea_Volleyball_Federation.png", 13:30 WIB Hungkuk W vs Pepper Savings Bank W
-#EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
-#EXTVLCOPT:http-referrer=https://demo.crunchyrolll.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-https://hotlivezz179602324.akainu.xyz/rDL8f8tcfp4ZeFIWWnmHrA/Fv2lucGIbhPi2caWYvF5Lg/1758547622691/live/cunSD/chunklist.m3u8
-
-#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/09/Korea_Volleyball_Federation.png", 17:00 WIB IBK W vs Expressway Co W
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m.sports.naver.com/game/20250922823F15
 
 #EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/09/Korea_Volleyball_Federation.png", 17:00 WIB IBK W vs Expressway Co W
 #EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
