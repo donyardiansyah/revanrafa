@@ -7,6 +7,12 @@
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgtAr1Qk7haSGeYoerGdJhZL6T86_c_Lak4WDzxrz7S_CXRi_5T_a8bOA&s=10" group-title="LIVE-EVENT",INDOSIAR
 https://iptv.lancartech.co.id:443/Farhan@90/18062025/11.ts
 
+#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 19:00 WIB PSBS Biak Numfor vs Madura United
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ppdd02.playerktidfintkd.shop
+#EXTVLCOPT:http-referrer=https://ppdd02.playerktidfintkd.shop/
+https://twn2-cf.boblcfwudz421.com/auth%3Ddf446c177ed8fbd69d0628e49a811d6032983f3b1511b28daa53c5d9201f68a6da3b107199c017c4c14a2b573fd09a75566d3ed8a5b97ad28d856ff5ba5c70c31309a1b80bebd2eb74b64db8ff6c2cedcfc8d93165b64a74f42d4efb56047824e0dbef3f8cfcefab12e632dcbd09609dc3fc978ecf2c777448cccd1868424785017babe464acb2b0d5520ce16e35c217ba0f899dda23df780e688f137b219590%26cid%3DaW4--kBpsAdKTsUqeDOIb250914%26_v%3D2%26_r%3DR97Kdy%26_vis%3D1439759f07031f864b59d269e5b48ac0739859a53990af64170bffad45220ca2%26_vvs%3D3b7efcdb76664fa24e561ebc31dd4b80696aca32abdb403c6aca9740f4682431/app/c372672.m3u8
+
 ################################$$$
 
 #EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8aTc3Fa-UdNsOv7VHO0wGDxdw2W-FEQKmLpWJXq6GBA&s=10", BRI SUPER LEAGUE 1  
@@ -89,11 +95,7 @@ https://spacetv.my.id/index.mpd?id=19488&type=dash
 ######################### KOVO#######$$$$#####$$$$$
 
 
-#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/09/Korea_Volleyball_Federation.png", 17:00 WIB IBK W vs Expressway Co W
-#EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
-#EXTVLCOPT:http-referrer=https://demo.crunchyrolll.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-https://hotlivezz179602324.akainu.xyz/0BmT8oX-h3WjCsCRNfy6_A/Fv2lucGIbhPi2caWYvF5Lg/1758476878571/live/daoSD/chunklist.m3u8
+
 
 
 ##################### jala live *******##########
