@@ -58,7 +58,7 @@ https://spacetv.my.id/index.mpd?id=19354&type=dash
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://www.instreamtv.xyz
 #EXTVLCOPT:http-referrer=https://www.instreamtv.xyz/
-https://play-cdn.sportsbal.com/sport/202_3949769_1.m3u8?hls_ctx=1623dl3b&sign=JZl5s4PvGwkvzztyjRwBro82V3vOVz9nUOzke1HlQ7J_g06osopXAfomxlQeD-GTPQsLmkJIOXaW_ovxKpU97rMecwfDKyx-wIk8f9AKxyr4xA4z0mSXl2_C0jlon_cu88M2MhbhM4kPnZ39h5bltCB7jheFags8TyWsCpk-FgYkad_TfZFjLAAGnUbwfsSismIxOHfE_W4KJDiQfOYohSI10C-_Knj9ZqKGO9-kaurHuTR8cO-xJ4aN0zPlX8HmZRf_Af-AOmAUKpacZ_QCB4MXsEwNcm23KOYljeTBwzrQz9vzBb75omGuO1iiL6QDVUaorgSHgnDYq77a-QE-jg&timestamp=1758875783399
+
 ###################@@@@@@@@@@@#####$$$$$$$$$$
 
 #EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", Dewa United vs PSBS Biak Numfor
@@ -94,17 +94,17 @@ https://spacetv.my.id/index.mpd?id=19488&type=dash
 #EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 15:30 WIB Semen Padang vs Bali United
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
-https://live1.pro2cdnlive.com/live/channel5.m3u8?wsSecret=b1b437e822ff6863edad54ed7b3442d4&wsABSTime=1758299528
+
 
 #EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 19:00 WIB Dewa United vs Persebaya Surabaya
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
-https://live1.pro2cdnlive.com/live/channel19.m3u8?wsSecret=5ca268c9cb2e01e69f349053bcaeb168&wsABSTime=1757446645
+
 
 #EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", Dewa United vs Persebaya Surabaya
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsplayer.net/
-https://stream.titanlivescore.com/live/LXSCORE-4879800.m3u8
+
 
 #EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", Semen Padang vs Bali United
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
