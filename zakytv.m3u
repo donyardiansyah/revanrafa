@@ -37,10 +37,10 @@ https://spacetv.my.id/index.mpd?id=19354&type=dash
 
 ######################@@@@@@@@@@##################
 
-#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 19:00 WIB Borneo vs Persis Solo
+#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", PTR VS PSB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsplayer.net/
-#https://v4-81285a097b2cd341b7871fa3aafac269.livehwc4.com/stream.titanlivescore.com/live/LXSCORE-4879798.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=fdaa95c59e9edc0f3b7ba975d7065c9b
+https://edg00.smytdryt.live/917395911_channel2/multy.m3u8?match_id=13305751&s_id=1&t_id=1485&stats=statssport.inplaynet.tech&timestamp=1758975832&key=VTJGc2RHVmtYMThVTFRVelNXZldZR2dJcXlaK1hTblMxcmx5ZStVMGg5bXQzKzMyWEs2aHVjVnMvTDllT0ZxWnZjTE5FZ2hWMjdCR1k4YVduWjd5SWhhMzJqa1JUYWRnUmhaV2tBK21GdTQ5L1FEN2EvUHhXZEpRZTdMU0hEQmxmTFhoWTBXdWZFMmV6QkJNVjJBczk5RHhxeWxBMnl5ZWIwamg0QlBlblgvYkhDNHV5OStVNWdGSGxhTmEwNWVXMHNLVzB1QStIZlI3QjlIRzBTdUphQT09
 
 #EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", Live Liga bri
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
