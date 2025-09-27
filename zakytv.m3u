@@ -43,11 +43,6 @@ https://spacetv.my.id/index.mpd?id=19386&type=dash
 
 ######################@@@@@@@@@@##################
 
-#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", PTR VS PSB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://hlsplayer.net/
-https://edg00.smytdryt.live/917395911_channel2/multy.m3u8?match_id=13305751&s_id=1&t_id=1485&stats=statssport.inplaynet.tech&timestamp=1758975832&key=VTJGc2RHVmtYMThVTFRVelNXZldZR2dJcXlaK1hTblMxcmx5ZStVMGg5bXQzKzMyWEs2aHVjVnMvTDllT0ZxWnZjTE5FZ2hWMjdCR1k4YVduWjd5SWhhMzJqa1JUYWRnUmhaV2tBK21GdTQ5L1FEN2EvUHhXZEpRZTdMU0hEQmxmTFhoWTBXdWZFMmV6QkJNVjJBczk5RHhxeWxBMnl5ZWIwamg0QlBlblgvYkhDNHV5OStVNWdGSGxhTmEwNWVXMHNLVzB1QStIZlI3QjlIRzBTdUphQT09
-
 #EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", Live Liga bri
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://www.instreamtv.xyz
@@ -67,6 +62,12 @@ https://play-cdn.sportsbal.com/sport/202_3953051_1.m3u8?hls_ctx=o590386k&sign=OO
 https://play-cdn.sportsbal.com/sport/202_3953051_1.m3u8?sign=H1ck20LkYdQBaCAMWU3VJTDrgznRkcq5A1qmxseQfdiFynBu3NdUz2jFg6F2wA5jtIL8TMLMjh6ZHhFGgymsAnG0VtAnq5h_tcUyZrvp2wKwc3tVQIQq989PQMzZRi4bvVy9gT1bqKUJdPK90CWHecrWcT1odEZYTP62ADYEpGRvPw8sqhJbbZ2ypSfppjE5ezlYVd-_E9WgV-ZBJ4YpnFmMBpf_WxTgM5DP5sTkXsaXWahZdKKpHlKZRYusgvR31ReK9qb12w2zLOgi8ony2YUNmC6dExhT101kbtmFhIFEvHe-1ZPQaurQZiIOlunhedoul-PMS6PRLvFsx8au4Q&timestamp=1758975199126
 
 ###################@@@@@@@@@@@#####$$$$$$$$$$
+
+
+#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", PTR VS PSB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://hlsplayer.net/
+https://edg00.smytdryt.live/917395911_channel2/multy.m3u8?match_id=13305751&s_id=1&t_id=1485&stats=statssport.inplaynet.tech&timestamp=1758975832&key=VTJGc2RHVmtYMThVTFRVelNXZldZR2dJcXlaK1hTblMxcmx5ZStVMGg5bXQzKzMyWEs2aHVjVnMvTDllT0ZxWnZjTE5FZ2hWMjdCR1k4YVduWjd5SWhhMzJqa1JUYWRnUmhaV2tBK21GdTQ5L1FEN2EvUHhXZEpRZTdMU0hEQmxmTFhoWTBXdWZFMmV6QkJNVjJBczk5RHhxeWxBMnl5ZWIwamg0QlBlblgvYkhDNHV5OStVNWdGSGxhTmEwNWVXMHNLVzB1QStIZlI3QjlIRzBTdUphQT09
 
 #EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", Dewa United vs PSBS Biak Numfor
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
