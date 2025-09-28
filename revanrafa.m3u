@@ -129,6 +129,11 @@ https://spacetv.my.id/index.mpd?id=19488&type=dash
 
 ############### LIVE EVENT############
 
+#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/99/Logo_Terbaru_Liga_2_Indonesia.png", 13:30 WIB Persipura vs Tornado FC
+#EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
+#EXTVLCOPT:http-referrer=https://demo.crunchyrolll.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+https://apisportzz179528093.nsnd.live/stZo5G8KqOFEfM5Hd_h8TA/Fv2lucGIbhPi2caWYvF5Lg/1759062983436/live/sd-6MvY76V9xzxvUkXwWb/chunklist.m3u8
 
 
 
