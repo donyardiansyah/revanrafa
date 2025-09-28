@@ -32,6 +32,7 @@ https://cdn.videy.co/klSZ6Zn11.mp4
 #KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19386&type=drm
 #https://spacetv.my.id/index.mpd?id=19386&type=dash
 https://cdn.videy.co/klSZ6Zn11.mp4
+
 #EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 19:00 WIB Bali United vs PSIM Yogyakarta
 #EXTVLCOPT:http-origin=https://ppdd02.playerktidfintkd.shop
 #EXTVLCOPT:http-referrer=https://ppdd02.playerktidfintkd.shop/
@@ -48,7 +49,7 @@ https://cdn.videy.co/klSZ6Zn11.mp4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://www.instreamtv.xyz
 #EXTVLCOPT:http-referrer=https://www.instreamtv.xyz/
-https://play-cdn.sportsbal.com/sport/202_3953051_1.m3u8?hls_ctx=o590386k&sign=OOzJcYF0p8VKdlSOJgrAEjJU02yGvVOwMWWltxZ9xIfHOQe-qAZMnn0XKIyMkwVgitSa89vVG2ixLvw6az6g2CDR0Lmu6SzcZqaLqjgmnSZqBvMHax5jxhjHmH88ZwSV0WLP0Ffd2GJ9_RNZBokxoV1Uh1-BBe6OG6IwQipZdZqkhRImrNmBNDZOxd9rVGX8p94Zy4tqYPFWf7dorD11sAnNBV_-_7ARdL2MwkGv2EAP7DXEq7-iL0DfdNpeO4I0SxRyVb6xkiWd3JDUNQFwME-d1IsPMNfkTg6-8rARRcemw3mFtd8SWsF4YGO9EwaMfDS_i6hXykmXJYVq4312Iw&timestamp=1758974982226
+#https://play-cdn.sportsbal.com/sport/202_3953051_1.m3u8?hls_ctx=o590386k&sign=OOzJcYF0p8VKdlSOJgrAEjJU02yGvVOwMWWltxZ9xIfHOQe-qAZMnn0XKIyMkwVgitSa89vVG2ixLvw6az6g2CDR0Lmu6SzcZqaLqjgmnSZqBvMHax5jxhjHmH88ZwSV0WLP0Ffd2GJ9_RNZBokxoV1Uh1-BBe6OG6IwQipZdZqkhRImrNmBNDZOxd9rVGX8p94Zy4tqYPFWf7dorD11sAnNBV_-_7ARdL2MwkGv2EAP7DXEq7-iL0DfdNpeO4I0SxRyVb6xkiWd3JDUNQFwME-d1IsPMNfkTg6-8rARRcemw3mFtd8SWsF4YGO9EwaMfDS_i6hXykmXJYVq4312Iw&timestamp=1758974982226
 
 #EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 19:00 WIB Borneo vs Persis Solo
 #EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
@@ -83,7 +84,7 @@ https://play-cdn.sportsbal.com/sport/202_3953051_1.m3u8?hls_ctx=o590386k&sign=OO
 
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/f_h2OorvlQ_UEx9OjX7b8uQ4-gE=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a19694.jpg" group-title="LIVE-EVENT",MOJI TV
-#https://iptv.lancartech.co.id:443/Farhan@90/18062025/23.ts
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/23.ts
 
 #EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/08/Logo_Livoli_Divisi_Utama.png", Livoli Divisi Utama 
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
@@ -91,6 +92,7 @@ https://play-cdn.sportsbal.com/sport/202_3953051_1.m3u8?hls_ctx=o590386k&sign=OO
 #KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19488&type=drm
 #https://spacetv.my.id/index.mpd?id=19488&type=dash
 https://cdn.videy.co/klSZ6Zn11.mp4
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ppdd02.playerktidfintkd.shop/
 #EXTINF:-1 " tvg-id="jalalive" tvg-url="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/09/Korea_Volleyball_Federation.png" group-title="LIVE-EVENT", SBS SPORT
