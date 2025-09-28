@@ -41,6 +41,11 @@ https://spacetv.my.id/index.mpd?id=19386&type=dash
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #https://hotlivezz179602324.akainu.xyz/oqOtltdUOoVriveAbOHg-g/Fv2lucGIbhPi2caWYvF5Lg/1756657438207/live/nuiSD/chunklist.m3u8
 
+#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 15:30 WIB Persis Solo vs Arema
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
+https://live1.pro2cdnlive.com/live/channel20.m3u8?wsSecret=e3197f9e95fd17d3940d9d6820f5ade4&wsABSTime=1759078906
+
 ######################@@@@@@@@@@##################
 
 #EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", Live Liga bri
