@@ -727,6 +727,11 @@ https://jmp2.uk/plu-65ea8b928145cb0008509426.m3u8
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 https://seprai.jasoncreak8.workers.dev/play.mpd?id=17938&type=dash
 
+#EXTINF:-1 group-title="VIDIO SPORT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Champions_TV_1.png/revision/latest?cb=20200428062800", CHAMPIONSTV1 HD
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=17938&type=drm
+https://spacetv.my.id/index.mpd?id=17938&type=dash
 
 #EXTINF:-1 group-title="VIDIO SPORT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/Champions_TV_2_HD.png/revision/latest/scale-to-width-down/1200?cb=20210823120818", CHAMPIONSTV 2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -734,11 +739,24 @@ https://seprai.jasoncreak8.workers.dev/play.mpd?id=17938&type=dash
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 https://seprai.jasoncreak8.workers.dev/play.mpd?id=6686&type=dash
 
+#EXTINF:-1 group-title="VIDIO SPORT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/Champions_TV_2_HD.png/revision/latest/scale-to-width-down/1200?cb=202108231208", CHAMPIONSTV 2 HD
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=6686&type=drm
+https://spacetv.my.id/index.mpd?id=6686&type=dash
+
 #EXTINF:-1 group-title="VIDIO SPORT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/Champions-3-750x510.png/revision/latest?cb=20210331063123", CHAMPIONSTV 3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play?id=6786&type=drm
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 https://seprai.jasoncreak8.workers.dev/play.mpd?id=6786&type=dash
+
+
+#EXTINF:-1 group-title="VIDIO SPORT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/Champions-3-750x510.png/revision/latest?cb=20210331063123", CHAMPIONSTV 3 HD
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=6786&type=drm
+https://spacetv.my.id/index.mpd?id=6786&type=dash
 
 #EXTINF:-1 group-title="VIDIO SPORT" tvg-logo="https://static.wikia.nocookie.net/dxs/images/1/19/Champions_TV_Logo_2021.png/revision/latest?cb=20221112221343", CHAMPIONS TV 5
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -746,11 +764,25 @@ https://seprai.jasoncreak8.workers.dev/play.mpd?id=6786&type=dash
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 https://seprai.jasoncreak8.workers.dev/play.mpd?id=9182&type=dash
 
+
+#EXTINF:-1 group-title="VIDIO SPORT" tvg-logo="https://static.wikia.nocookie.net/dxs/images/1/19/Champions_TV_Logo_2021.png/revision/latest?cb=20221112221343", CHAMPIONS TV 5 HD
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=9182&type=drm
+https://spacetv.my.id/index.mpd?id=9182&type=dash
+
 #EXTINF:-1 group-title="VIDIO SPORT" tvg-logo="https://static.wikia.nocookie.net/dxs/images/1/19/Champions_TV_Logo_2021.png/revision/latest?cb=20221112221343", CHAMPIONS TV 6
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play?id=9183&type=drm
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 https://seprai.jasoncreak8.workers.dev/play.mpd?id=9183&type=dash
+
+
+#EXTINF:-1 group-title="VIDIO SPORT" tvg-logo="https://static.wikia.nocookie.net/dxs/images/1/19/Champions_TV_Logo_2021.png/revision/latest?cb=20221112221343", CHAMPIONS TV 6 HD
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19386&type=drm
+https://spacetv.my.id/index.mpd?id=19386&type=dash
 
 #EXTINF:-1 group-title="VIDIO SPORT" tvg-logo="https://thumbor.prod.vidiocdn.com/qAC7OGb_JYDbEZjLIRXDDD9XIzE=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-1-9fe953.jpg", SPOTV 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -758,12 +790,24 @@ https://seprai.jasoncreak8.workers.dev/play.mpd?id=9183&type=dash
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 https://seprai.jasoncreak8.workers.dev/play.mpd?id=17139&type=dash
 
+#EXTINF:-1 group-title="VIDIO SPORT" tvg-logo="https://thumbor.prod.vidiocdn.com/qAC7OGb_JYDbEZjLIRXDDD9XIzE=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-1-9fe953.jpg", SPOTV 1 HD
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=17139&type=drm
+https://spacetv.my.id/index.mpd?id=17139&type=dash
 
 #EXTINF:-1 group-title="VIDIO SPORT" tvg-logo="https://thumbor.prod.vidiocdn.com/hFJvgK8aSQDqHuBAfF0ZnD7vlq0=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-98d406.jpg", SPOTV2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play?id=17140&type=drm
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 https://seprai.jasoncreak8.workers.dev/play.mpd?id=17140&type=dash
+
+
+#EXTINF:-1 group-title="VIDIO SPORT" tvg-logo="https://thumbor.prod.vidiocdn.com/hFJvgK8aSQDqHuBAfF0ZnD7vlq0=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-98d406.jpg", SPOTV2 HD
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=17140&type=drm
+https://spacetv.my.id/index.mpd?id=17140&type=dash
 
 #EXTINF:-1 group-title="VIDIO SPORT" tvg-logo="https://thumbor.prod.vidiocdn.com/hmErfmKCTN5eaHacSA3YqbAXRvY=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-60c673.jpg", BEINSPORT 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
