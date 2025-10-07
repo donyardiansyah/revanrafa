@@ -12,18 +12,6 @@ https://spacetv.my.id/index.mpd?id=19488&type=dash
 
 
 
-#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://thumbor.prod.vidiocdn.com/evK7tGI71OTBL7qQ0edzj5O7qlw=/filters:strip_icc():quality(70)/vidio-web-prod-user/uploads/user/avatar/22062300/PROFILECUSTOMBG-7686dbeeb3196eba.jpg", BRI SUPER LEAGUE 2
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19354&type=drm
-https://spacetv.my.id/index.mpd?id=19354&type=dash
-
-#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", BRI SUPER LEAGUE 3
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19386&type=drm
-https://spacetv.my.id/index.mpd?id=19386&type=dash
-
 #EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 19:00 WIB Bali United vs PSIM Yogyakarta
 #EXTVLCOPT:http-origin=https://ppdd02.playerktidfintkd.shop
 #EXTVLCOPT:http-referrer=https://ppdd02.playerktidfintkd.shop/
@@ -54,7 +42,7 @@ https://spacetv.my.id/index.mpd?id=19386&type=dash
 #EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", PTR VS PSB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsplayer.net/
-https://edg00.smytdryt.live/917395911_channel2/multy.m3u8?match_id=13305751&s_id=1&t_id=1485&stats=statssport.inplaynet.tech&timestamp=1758975832&key=VTJGc2RHVmtYMThVTFRVelNXZldZR2dJcXlaK1hTblMxcmx5ZStVMGg5bXQzKzMyWEs2aHVjVnMvTDllT0ZxWnZjTE5FZ2hWMjdCR1k4YVduWjd5SWhhMzJqa1JUYWRnUmhaV2tBK21GdTQ5L1FEN2EvUHhXZEpRZTdMU0hEQmxmTFhoWTBXdWZFMmV6QkJNVjJBczk5RHhxeWxBMnl5ZWIwamg0QlBlblgvYkhDNHV5OStVNWdGSGxhTmEwNWVXMHNLVzB1QStIZlI3QjlIRzBTdUphQT09
+#https://edg00.smytdryt.live/917395911_channel2/multy.m3u8?match_id=13305751&s_id=1&t_id=1485&stats=statssport.inplaynet.tech&timestamp=1758975832&key=VTJGc2RHVmtYMThVTFRVelNXZldZR2dJcXlaK1hTblMxcmx5ZStVMGg5bXQzKzMyWEs2aHVjVnMvTDllT0ZxWnZjTE5FZ2hWMjdCR1k4YVduWjd5SWhhMzJqa1JUYWRnUmhaV2tBK21GdTQ5L1FEN2EvUHhXZEpRZTdMU0hEQmxmTFhoWTBXdWZFMmV6QkJNVjJBczk5RHhxeWxBMnl5ZWIwamg0QlBlblgvYkhDNHV5OStVNWdGSGxhTmEwNWVXMHNLVzB1QStIZlI3QjlIRzBTdUphQT09
 
 #EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", Dewa United vs PSBS Biak Numfor
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
@@ -111,7 +99,7 @@ https://edg00.smytdryt.live/917395911_channel2/multy.m3u8?match_id=13305751&s_id
 #EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
 #EXTVLCOPT:http-referrer=https://demo.crunchyrolll.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-https://apisportzz179528093.nsnd.live/stZo5G8KqOFEfM5Hd_h8TA/Fv2lucGIbhPi2caWYvF5Lg/1759062983436/live/sd-6MvY76V9xzxvUkXwWb/chunklist.m3u8
+#https://apisportzz179528093.nsnd.live/stZo5G8KqOFEfM5Hd_h8TA/Fv2lucGIbhPi2caWYvF5Lg/1759062983436/live/sd-6MvY76V9xzxvUkXwWb/chunklist.m3u8
 
 
 
@@ -825,6 +813,19 @@ https://seprai.jasoncreak8.workers.dev/play.mpd?id=18190&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play?id=9353&type=drm
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 https://seprai.jasoncreak8.workers.dev/play.mpd?id=9353&type=dash
+
+
+#EXTINF:-1 group-title="VIDIO SPORT" tvg-logo="https://thumbor.prod.vidiocdn.com/evK7tGI71OTBL7qQ0edzj5O7qlw=/filters:strip_icc():quality(70)/vidio-web-prod-user/uploads/user/avatar/22062300/PROFILECUSTOMBG-7686dbeeb3196eba.jpg", BRI SUPER LEAGUE 2
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19354&type=drm
+https://spacetv.my.id/index.mpd?id=19354&type=dash
+
+#EXTINF:-1 group-title="VIDIO SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", BRI SUPER LEAGUE 3
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19386&type=drm
+https://spacetv.my.id/index.mpd?id=19386&type=dash
 
 ========≠===Channel Vision+ ===================
 
