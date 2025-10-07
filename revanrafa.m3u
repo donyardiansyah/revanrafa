@@ -1,8 +1,5 @@
 ################$$$   LIGA BRI   ####################
 
-#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 15:30 WIB Dewa United vs PSBS Biak Numfor
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
 
 #EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/08/Logo_Livoli_Divisi_Utama.png", Livoli Divisi Utama 
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
@@ -44,19 +41,12 @@ https://spacetv.my.id/index.mpd?id=19386&type=dash
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://www.instreamtv.xyz
 #EXTVLCOPT:http-referrer=https://www.instreamtv.xyz/
-https://play-cdn.sportsbal.com/sport/202_3957100_1.m3u8?sign=fIANxH7Tz-lU-NzOdExBkHQNgGf-nrIwvQBxGSHj5vjC58UjKBKPFBW4BCy-hRKYIbMzbrx1X_tGYgkkcMPQSGK7LNm-4Je06dbAtJC1K3PP0OWTPkS-ic9NS1MHl-bhCDrOEN-F0Ygws8F5b91BJHJ1mnJCQ7V-aVN6ZQPOMak-JFV-FhcEwdDynyTrhWWpPqf_EjraK8hDiIzc9h5SCgaYHAiLoaiy1XdStAtGmfLljwIzt_E21zFauauCQ8A6wCeGy-2xynjkxu0jLUqNlhD7w2npcUjvTcIVKIpHl4354Hg5fgVX7oUiqTNUb0t2wNdWp_wp1gsyfmBlolykRA&timestamp=1759061228693
 
 #EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 19:00 WIB Borneo vs Persis Solo
 #EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
 #EXTVLCOPT:http-referrer=https://demo.crunchyrolll.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 
-
-#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", liga bri
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://www.instreamtv.xyz
-#EXTVLCOPT:http-referrer=https://www.instreamtv.xyz/
-https://play-cdn.sportsbal.com/sport/202_3953051_1.m3u8?sign=H1ck20LkYdQBaCAMWU3VJTDrgznRkcq5A1qmxseQfdiFynBu3NdUz2jFg6F2wA5jtIL8TMLMjh6ZHhFGgymsAnG0VtAnq5h_tcUyZrvp2wKwc3tVQIQq989PQMzZRi4bvVy9gT1bqKUJdPK90CWHecrWcT1odEZYTP62ADYEpGRvPw8sqhJbbZ2ypSfppjE5ezlYVd-_E9WgV-ZBJ4YpnFmMBpf_WxTgM5DP5sTkXsaXWahZdKKpHlKZRYusgvR31ReK9qb12w2zLOgi8ony2YUNmC6dExhT101kbtmFhIFEvHe-1ZPQaurQZiIOlunhedoul-PMS6PRLvFsx8au4Q&timestamp=1758975199126
 
 ###################@@@@@@@@@@@#####$$$$$$$$$$
 
