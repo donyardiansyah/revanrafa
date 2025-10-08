@@ -146,7 +146,7 @@ https://iptv.lancartech.co.id:443/Farhan@90/18062025/30
 #https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
 #https://rplus.xyssatu.workers.dev/xPLAY.m3u8?id=rcti
 
-EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Logo_RCTI%2B.png" group-title="NASIONAL TV",RCTI (R+) 
 https://liveplus.rctiplus.id/RTMP-IN.m3u8
