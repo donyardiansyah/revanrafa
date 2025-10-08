@@ -83,9 +83,6 @@ https://iptv.lancartech.co.id:443/Farhan@90/18062025/11.ts
 ############################################  voli #####$$$$$$$$$$$$
 
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/f_h2OorvlQ_UEx9OjX7b8uQ4-gE=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a19694.jpg" group-title="LIVE-EVENT",MOJI TV
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/23.ts
-#https://cdn.videy.co/kCDuV39u1.mp4
 
 #EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/08/Logo_Livoli_Divisi_Utama.png", Livoli Divisi Utama 
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
@@ -126,7 +123,6 @@ https://iptv.lancartech.co.id:443/Farhan@90/18062025/23.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://www.instreamtv.xyz
 #EXTVLCOPT:http-referrer=https://www.instreamtv.xyz/
-https://play-cdn.sportsbal.com/sport/202_4329465_1.m3u8?hls_ctx=f641k81x&sign=DqNnIL2CBD_6JvGTuTSpPVFmSavh4M0RDZ7iyp5BGT_S6HPZfxhmQsB2aAWwepanZ3zgsv2w_raV2dP_SXJd04OWfuAsF_JPyYGjV1FyCFnFBvSMK0anJa-QGlIbDc-4Gsn4fSJra2HVpznqiHQwGdVErv3TiE2MMucX6cCqi8vX9tjq_27E4KJFrTBrE-P58rTLMlFwOup2PT4WDF7luAiatE1Pzl7WLBPINJoIon0achZvXGiJB6v4Vs9Oy4AGzINccJTy7nuKWWWUAZuW-JcoEAhjfUAf_CX4Pw0z3DMyTKdo8F0-7zGC9MGBmvmc5vnp8-XrBj2-eVuHpsPIyQ&timestamp=1759752673840
 
 
 ##################### jala live *******##########
@@ -415,6 +411,10 @@ EXTINF:0 CUID="10" tvg-name="GTV" tvg-id="gtv.id" tvg-logo="https://upload.wikim
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #https://1s1.rctiplus.id/gtv2023.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/f_h2OorvlQ_UEx9OjX7b8uQ4-gE=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a19694.jpg" group-title="NASIONAL TV",MOJI TV
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/23.ts
 
 #EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.pinimg.com/736x/6f/99/26/6f9926b17a80697be2dcb20e8a0a259f.jpg" group-title="NASIONAL TV",Garuda TV
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
