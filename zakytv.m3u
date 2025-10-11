@@ -5,10 +5,6 @@
 #EXTINF:-1 tvg-logo="https://cdn1-production-images-kly.akamaized.net/M7g9LUAdDJ2KG1DKkwAe6eWoFtA=/800x800/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4818628/original/062750200_1714557479-Piala_Asia_U-23_-_Irak_Vs_Timnas_Indonesia_U-23_-_Duel_Pemain_copy.jpg" group-title="LIVE-EVENT",IRAQ VS INDONESIA 1
 https://liveplus.rctiplus.id/RTMP-IN.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr1Cl7YO4_QZ2rmLsS2NhhTkbXkAqmg0n96zUz-OuCCQ&s=10" group-title="LIVE-EVENT",IRAQ VS INDONESIA 2
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/350994
-
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
@@ -17,11 +13,11 @@ https://iptv.lancartech.co.id:443/Farhan@90/18062025/350994
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 https://fta3-cdn-flr.visionplus.id/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 
-#EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=video/mp2t
-#KODIPROP:inputstream.ffmpegdirect.program_number=350997
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr1Cl7YO4_QZ2rmLsS2NhhTkbXkAqmg0n96zUz-OuCCQ&s=10" group-title="LIVE-EVENT",IRAQ VS INDONESIA 2
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/350994
+
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.visionplus.id/images/repository/661/541661-BANNER_COMPANION_SLIDER-l.jpg" group-title="LIVE-EVENT",IRAQ VS INDONESIA  4
 http://xtv.ooo:8080/MuhammadMPT/433289/350974
 
