@@ -7,6 +7,8 @@ https://liveplus.rctiplus.id/RTMP-IN.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr1Cl7YO4_QZ2rmLsS2NhhTkbXkAqmg0n96zUz-OuCCQ&s=10" group-title="TIMNAS",IRAQ VS INDONESIA 2
 http://xtv.ooo:8080/live/MuhammadMPT/433289/350994.ts
+XTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr1Cl7YO4_QZ2rmLsS2NhhTkbXkAqmg0n96zUz-OuCCQ&s=10" group-title="TIMNAS",IRAQ VS INDONESIA 2
+http://xtv.ooo:8080/live/MuhammadMPT/433289/351023.ts
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
