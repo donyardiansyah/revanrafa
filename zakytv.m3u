@@ -11,17 +11,15 @@ http://xtv.ooo:8080/live/MuhammadMPT/433289/350972.ts
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vidd.semar.my.id/koneksi.php?id=205&type=drm 
-https://vidd.semar.my.id/koneksi.php?id=205&type=dash
+#https://vidd.semar.my.id/koneksi.php?id=205&type=dash
 https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/indos3.m3u8
 
 
 
 #EXTINF:-1 tvg-id="eVENT" tvg-name="Event" group-title="Event" tvg-logo="https://thumbor.prod.vidiocdn.com/rH9BDTpK5hhFTHk4P23D3_MsPLs=/filters:quality(70)/vidio-web-prod-channel/uploads/channel/image/52301585/full-match-bri-liga-1-2021-d4c72e.jpg", Live BRI Liga 1 (Nex)
-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-
-https://raw.githubusercontent.com/B-inal-123/konoha-s/inal-22/indosiarTV.m3u8
-
+#https://raw.githubusercontent.com/B-inal-123/konoha-s/inal-22/indosiarTV.m3u8
+http://mpwtv.github.io/indosiar.m3u8
 
 
 ################################$$$
