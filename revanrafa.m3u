@@ -1,5 +1,12 @@
 ################$$$   LIGA BRI   ####################
 
+#EXTINF:-1 group-title="LIGA BRI" tvg-logo="https://thumbor.prod.vidiocdn.com/rH9BDTpK5hhFTHk4P23D3_MsPLs=/filters:quality(70)/vidio-web-prod-channel/uploads/channel/image/52301585/full-match-bri-liga-1-2021-d4c72e.jpg", Liga super bri(vidio) 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=19354&type=drm
+https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=19354&type=dash
 
 
 
@@ -25,7 +32,7 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://www.instreamtv.xyz
 #EXTVLCOPT:http-referrer=https://www.instreamtv.xyz/
-https://play-cdn.sportsbal.com/sport/202_4296630_1.m3u8?hls_ctx=4sb43478&sign=BPXL8OXNpsAXRBiJZ4hesYNvedJn9FjUhYqlqrE6KdrD-OwruWVa7TmCuhgby-CUYmy_WJJLbuDpY2kSd7zE87Ac4Wwy6XQp6SvlaRNvYHl9ku69PUvtiFSaPHUz38sh415YXZw7AZciN7o_TcDKljzyn-1eiu_950Mr20wW_u-S_OttlyRv__KIEbqCOjSF-qjomGigAQErc8xmeWieKwv83DhebLWDayoi1Td3zmnLXOhPX4BGmF6ObOscFl_atR-ALv2CLaZ_F7OsgG0_LApp45UDsz3E3hJFfWomaOh7lzYNXEnBKYpJFu9aseDZSQHd5TcjDLmg9svca4AiEg&timestamp=1760702617172
+kSd7zE87Ac4Wwy6XQp6SvlaRNvYHl9ku69PUvtiFSaPHUz38sh415YXZw7AZciN7o_TcDKljzyn-1eiu_950Mr20wW_u-S_OttlyRv__KIEbqCOjSF-qjomGigAQErc8xmeWieKwv83DhebLWDayoi1Td3zmnLXOhPX4BGmF6ObOscFl_atR-ALv2CLaZ_F7OsgG0_LApp45UDsz3E3hJFfWomaOh7lzYNXEnBKYpJFu9aseDZSQHd5TcjDLmg9svca4AiEg&timestamp=1760702617172
 #EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 19:00 WIB Borneo vs Persis Solo
 #EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
 #EXTVLCOPT:http-referrer=https://demo.crunchyrolll.xyz/
