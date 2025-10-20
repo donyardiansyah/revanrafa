@@ -845,7 +845,7 @@ http://mpwtv.github.io/indosiar.m3u8
 #EXTINF:-1 tvg-id="eVENT" tvg-name="Event" group-title="Event" tvg-logo="https://thumbor.prod.vidiocdn.com/rH9BDTpK5hhFTHk4P23D3_MsPLs=/filters:quality(70)/vidio-web-prod-channel/uploads/channel/image/52301585/full-match-bri-liga-1-2021-d4c72e.jpg", Live BRI Liga 1 (Nex)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Loc/Spstar3.m3u8
-&type=dash
+
 
 #EXTINF:-1 tvg-id="eVENT" tvg-name="Event" group-title="Event" tvg-logo="https://thumbor.prod.vidiocdn.com/rH9BDTpK5hhFTHk4P23D3_MsPLs=/filters:quality(70)/vidio-web-prod-channel/uploads/channel/image/52301585/full-match-bri-liga-1-2021-d4c72e.jpg", Live BRI Liga 1 (Digital)
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Oli4.m3u8
@@ -853,7 +853,17 @@ https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Oli4.m3u8
 #EXTINF:-1 tvg-id="eVENT" tvg-name="Event" group-title="Event" tvg-logo="https://thumbor.prod.vidiocdn.com/rH9BDTpK5hhFTHk4P23D3_MsPLs=/filters:quality(70)/vidio-web-prod-channel/uploads/channel/image/52301585/full-match-bri-liga-1-2021-d4c72e.jpg", Live BRI Liga 1
 http://xtv.ooo:8080/live/MuhammadMPT/433289/350972.ts
 #EXTINF:-1 tvg-logo="https://cdns.klimg.com/mav-prod-resized/0x0/ori/image_bank/2024/09/02/055135.511-jadwal-siaran-langsung-arab-saudi-vs-timnas-indonesia-di-kualifikasi-piala-dunia-2026-1.jpg" group-title="Event", AFC Qualifiers Round 4 FIFA
-https://f7ccf7fc.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLXB0X0ZJRkFQbHVzUG9ydHVndWVzZV9ITFM/playlist.m3u8
+https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Loc/Indos.m3u8
+
+#EXTINF:-1 tvg-id="eVENT" tvg-name="Event" group-title="Event" tvg-logo="https://thumbor.prod.vidiocdn.com/rH9BDTpK5hhFTHk4P23D3_MsPLs=/filters:quality(70)/vidio-web-prod-channel/uploads/channel/image/52301585/full-match-bri-liga-1-2021-d4c72e.jpg", Live BRI Liga 1 (vidio)
+#EXTVLCOPT:http-referrer=https://m.vidio.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vidd.semar.my.id/koneksi.php?id=205&type=drm 
+https://vidd.semar.my.id/koneksi.php?id=205&type=dash
+https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/indos3.m3u8
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTINF:-1 tvg-logo="https://cdns.klimg.com/mav-prod-resized/0x0/ori/image_bank/2024/09/02/055135.511-jadwal-siaran-langsung-arab-saudi-vs-timnas-indonesia-di-kualifikasi-piala-dunia-2026-1.jpg" group-title="Event", AFC Qualifiers Round 4
