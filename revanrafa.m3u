@@ -88,7 +88,7 @@ https://edg00.smytdryt.live/917395911_channel2/multy.m3u8?match_id=13426311&s_id
 
 #EXTINF:-1 " tvg-id=" mojitv" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://thumbor.prod.vidiocdn.com/aPPmW1_4evxhzTorDecdCNYJtp0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4501329/f3833f.jpg" group-title="LIVE-EVENT", Liga bri(jala live
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
-https://bf.jalaplay.net/live/322698_hd01.m3u8?txSecret=bdcd50492910501a9eab09704aa8713a&txTime=68f624e7
+
 
 
 
@@ -809,8 +809,7 @@ https://seprai.jasoncreak8.workers.dev/play.mpd?id=9353&type=dash
 http://mpwtv.github.io/indosiar.m3u8
 
 
-#EXTINF:-1 group-title="☆LIGA BRI &LIV🏐LI☆" tvg-logo="https://thumbor.prod.vidiocdn.com/rH9BDTpK5hhFTHk4P23D3_MsPLs=/filters:quality(70)/vidio-web-prod-channel/uploads/channel/image/52301585/full-match-bri-liga-1-2021-d4c72e.jpg",Live BRI Liga 1 (vidio)
-#EXTINF:-1 tvg-id="eVENT" tvg-name="Event" group-title="Event" tvg-logo="https://thumbor.prod.vidiocdn.com/rH9BDTpK5hhFTHk4P23D3_MsPLs=/filters:quality(70)/vidio-web-prod-channel/uploads/channel/image/52301585/full-match-bri-liga-1-2021-d4c72e.jpg", Live BRI Liga 1 (Nex)
+#EXTINF:-1 tvg-id="eVENT" tvg-name="Event" group-title="☆LIGA BRI &LIV🏐LI☆" tvg-logo="https://thumbor.prod.vidiocdn.com/rH9BDTpK5hhFTHk4P23D3_MsPLs=/filters:quality(70)/vidio-web-prod-channel/uploads/channel/image/52301585/full-match-bri-liga-1-2021-d4c72e.jpg", Live BRI Liga 1 (Nex)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Loc/Spstar3.m3u8
 
@@ -839,7 +838,7 @@ https://vidd.semar.my.id/koneksi.php?id=205&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://vidd.semar.my.id/koneksi.php?id=19354&type=drm 
 https://vidd.semar.my.id/koneksi.php?id=19354&type=dash
 
-#EXTINF:-1 group-title="☆LIGA BRI &LIV🏐LI☆" tvg-logo="https://thumbor.prod.vidiocdn.com/PHV9N6KXPk1NUNLlANF996glEzc=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/54ab19.png",LIGA BRI(IND) 
+#EXTINF:-1 group-title="☆LIGA BRI &LIV🏐LI☆" tvg-logo="https://thumbor.prod.vidiocdn.com/rH9BDTpK5hhFTHk4P23D3_MsPLs=/filters:quality(70)/vidio-web-prod-channel/uploads/channel/image/52301585/full-match-bri-liga-1-2021-d4c72e.jpg",LIGA BRI(IND) 
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=205&type=drm
