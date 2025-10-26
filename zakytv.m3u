@@ -713,8 +713,8 @@ https://iptv.lancartech.co.id:443/Farhan@90/18062025/11.ts
 
 #EXTINF:-1 group-title="☆LIGA BRI☆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", LIGA BRI (LIVE ONLY) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://hlsplayer.net/
-https://edg00.smytdryt.live/917395911_channel2/multy.m3u8?match_id=13441814&s_id=1&t_id=1485&stats=statssport.inplaynet.tech&timestamp=1761300479&key=VTJGc2RHVmtYMTluT3VXZU5OMGtYQjF3bEh2MVJINEVnQ213VEpZSTY4c1Z0aEQ1QmNGaVBPRlpuNkEzWVhSZ1FqbDRTZWs2cEJISkJkb3B4UjdaekFISUQwdmVWaXhIWDYwSk1ROVEwMElFdjA3YXFGMmsrUlVTd2Q5MlFuRDZvb3hpZGNUVW96eGp4NVhkZEd2ZENBRXdvU0FnVldITjJLeVFiTHdUQXMzSlN6MTRmalh0NUVZRDV0MXlGT2QrM3N3WmpkRFlFVDRtVVVMU2x4L2p5QT09
+#EXTVLCOPT:http-referrer=https://hlsplayer.net
+https://edg00.smytdryt.live/917395911_channel2/multy.m3u8?match_id=13457963&s_id=1&t_id=1485&stats=statssport.inplaynet.tech&timestamp=1761468737&key=VTJGc2RHVmtYMS96WXoybk8wQ0dUSmk3UWJXeUFUOFMxVnZTdmVBbFY3K3Izdm5SVUZwKzZ0R3haZmVQS0NvUHZWM0pLc3BaNVNPK3BnbCtKdHVNdHVCY0RaOHdBMldXUjJKUE9xckYzeXdqZktrM3FPVVJFc3ZSdUQzaGdQek1MVzVibTlvZDc4NHBVODhnSkw0cTB5VENiVlVrdU9MU3pZdGZmempxbFhuNVNhU25CNzBqRTQya0lKTkNSTHJNVWJjeTV0UWxTMzNtd0pRUmhNYnNIQT09
 
 #EXTINF:-1 tvg-id="☆LIGA BRI☆" tvg-name="Event" group-title="☆LIGA BRI☆" tvg-logo="https://thumbor.prod.vidiocdn.com/rH9BDTpK5hhFTHk4P23D3_MsPLs=/filters:quality(70)/vidio-web-prod-channel/uploads/channel/image/52301585/full-match-bri-liga-1-2021-d4c72e.jpg", Live BRI Liga 1 (vidio)
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
