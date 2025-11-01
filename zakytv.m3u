@@ -147,7 +147,7 @@ http://203.77.246.58:4500/udp/239.1.1.110:5000
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #https://popmi.my.id/tes.m3u8?id=205
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgtAr1Qk7haSGeYoerGdJhZL6T86_c_Lak4WDzxrz7S_CXRi_5T_a8bOA&s=10" group-title="NASIONAL TV",INDOSIAR hd
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/86/05/da/8605da0991dab4ae9664ea2a3bb981b1.jpg" group-title="NASIONAL TV",INDOSIAR HD
 https://iptv.lancartech.co.id:443/Farhan@90/18062025/11.ts
 
 #EXTINF:-1 tvg-id="sctv - [Channel 78].id" tvg-name="SCTV" tvg-logo="https://thumbor.prod.vidiocdn.com/Bby8izflvoWEe1h_oOsFovMmJeY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4232907/60cbc9.jpg" group-title="NASIONAL TV", SCTV
@@ -728,16 +728,14 @@ https://edg00.smytdryt.live/917395911_channel2/multy.m3u8?match_id=13457963&s_id
 #https://vidd.semar.my.id/koneksi.php?id=205&type=dash
 https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/indos3.m3u8
 
-#EXTINF:-1 tvg-id="☆LIGA BRI☆" tvg-name="Event" group-title="☆LIGA BRI☆" tvg-logo="https://thumbor.prod.vidiocdn.com/rH9BDTpK5hhFTHk4P23D3_MsPLs=/filters:quality(70)/vidio-web-prod-channel/uploads/channel/image/52301585/full-match-bri-liga-1-2021-d4c72e.jpg", Live BRI Liga 1 (Nex)
+#EXTINF:-1 tvg-id="☆LIGA BRI☆" tvg-name="Event" group-title="☆LIGA BRI☆" tvg-logo="https://thumbor.prod.vidiocdn.com/rH9BDTpK5hhFTHk4P23D3_MsPLs=/filters:quality(70)/vidio-web-prod-channel/uploads/channel/image/52301585/full-match-bri-liga-1-2021-d4c72e.jpg",  BRI Liga 1 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 #https://raw.githubusercontent.com/B-inal-123/konoha-s/inal-22/indosiarTV.m3u8
 http://mpwtv.github.io/indosiar.m3u8
 
-#EXTINF:-1 group-title="☆LIGA BRI☆" tvg-logo="https://thumbor.prod.vidiocdn.com/evK7tGI71OTBL7qQ0edzj5O7qlw=/filters:strip_icc():quality(70)/vidio-web-prod-user/uploads/user/avatar/22062300/PROFILECUSTOMBG-7686dbeeb3196eba.jpg", BRI SUPER LEAGUE 2
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19354&type=drm
-#https://spacetv.my.id/index.mpd?id=19354&type=dash
+#EXTINF:-1 tvg-id="eVENT" tvg-name="Event" group-title="☆LIGA BRI☆" tvg-logo="https://thumbor.prod.vidiocdn.com/rH9BDTpK5hhFTHk4P23D3_MsPLs=/filters:quality(70)/vidio-web-prod-channel/uploads/channel/image/52301585/full-match-bri-liga-1-2021-d4c72e.jpg", Live BRI Liga 1 (Nex)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Loc/Spstar3.m3u8
 
 #EXTINF:-1 tvg-id="☆LIGA BRI☆" tvg-name="Event" group-title="☆LIGA BRI☆" tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/08/Logo_Livoli_Divisi_Utama.png", DIVISI UTAMA 1
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Oli8.m3u8
